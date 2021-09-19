@@ -1,0 +1,45 @@
+<!doctype html>
+
+<html lang="{{ lang }}">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>{{ title }}</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+    <link href="/favicon-32x32.png" rel="icon" type="image/png" sizes="32x32">
+    <link href="/favicon-16x16.png" rel="icon" type="image/png" sizes="16x16">
+
+    {% for page in search.pages("key=" + key + " lang!=" + lang) -%}
+      <link rel="alternate" hreflang="{{ page.data.lang }}" href="{{ page.data.url }}">
+    {% endfor -%}
+
+    <meta property="og:title" content="{{ title }}" />
+    <meta name="author" content="Óscar Otero" />
+    <meta property="og:locale" content="{{ lang }}" />
+    <meta name="description" content="{{ description }}" />
+    <meta property="og:description" content="{{ description }}" />
+    <meta property="og:url" content="{{ url }}" />
+    <script type="application/ld+json">
+      {"url":"https://oscarotero.com/","headline":"Óscar Otero - Web designer and developer","name":"Oscar Otero","author":{"@type":"Person","name":"Oscar Otero"},"description":"I’m just a designer and web developer","@type":"WebSite","@context":"https://schema.org"}
+    </script>
+    <link rel="stylesheet" href="/styles.css">
+  </head>
+
+  <body>
+    <a href="/{{ lang }}/" title="Portada" class="logo">
+      <svg width="48px" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
+        <g stroke="black" stroke-width="3" fill="white">
+          <circle cx="24" cy="24" r="22"></circle>
+          <circle cx="24" cy="24" r="10"></circle>
+        </g>
+      </svg>
+    </a>
+
+    {{ content | safe }}
+    
+    {% if footer %}
+      <hr>
+      {% include "./footer.njk" %}
+    {% endif %}
+  </body>
+</html>

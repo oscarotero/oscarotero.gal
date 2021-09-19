@@ -1,0 +1,17 @@
+---
+lang: en
+title: Redirect
+layout: false
+---
+<!doctype html>
+
+<html>
+  <head>
+    <meta http-equiv="refresh" content="0; url={{ index | url }}">
+    <title>{{ title }}</title>
+  </head>
+  
+  <body>
+    <p><a href="{{ index }}">{{ title }}</a></p>
+  </body>
+</html>

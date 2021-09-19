@@ -1,0 +1,8 @@
+---
+url: /robots.txt
+sitemap: ~/sitemap.njk
+layout: false
+---
+User-agent: *
+Allow: /
+Sitemap: {{ sitemap | url(true) }}

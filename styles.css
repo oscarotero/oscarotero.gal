@@ -1,0 +1,100 @@
+@font-face {
+  font-family: "Atlantica";
+  src: url("./fonts/AtlanticaSerif-Book.woff2") format("woff2");
+  font-display: swap;
+}
+@font-face {
+  font-family: "Atlantica";
+  src: url("./fonts/AtlanticaSerif-BookItalic.woff2") format("woff2");
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Atlantica";
+  src: url("./fonts/AtlanticaSerif-SemiBold.woff2") format("woff2");
+  font-weight: bold;
+  font-display: swap;
+}
+@font-face {
+  font-family: "Atlantica";
+  src: url("./fonts/AtlanticaSerif-SemiBoldItalic.woff2") format("woff2");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+body {
+  max-width: 28em;
+  margin: 5vmax auto;
+  margin-top: calc(8vmax + 48px);
+  width: 84%;
+  font-family: Atlantica, Palatino, 'Palatino Linotype', Times, "Droid Serif", serif;
+  font-size: clamp(.9em, 4vmin, 1.2em);
+  line-height: 1.4;
+}
+h1 {
+  font-size: 2em;
+  line-height: 1.1;
+}
+a {
+  color: blue;
+}
+a:hover {
+  color: darkblue;
+  text-decoration: none;
+}
+a:focus {
+  outline: none;
+  color: darkblue;
+  background-color: Lavender;
+  box-shadow: 0 0 0 5px Lavender;
+}
+ul {
+  padding-left: 1.2em;
+}
+li {
+  margin: 0.3em 0;
+}
+h2, h3, h4 {
+  margin-top: 1.5em;
+  margin-bottom: .5em;
+}
+:is(h1, h2, h3, h4) + :is(h1, h2, h3, h4) {
+  margin-top: 0;
+}
+hr {
+  border: none;
+  border-top: solid 1px;
+  margin: 2em 0;
+}
+
+.logo {
+  display: block;
+  width: max-content;
+  padding: 0;
+  position: absolute;
+  left: 8%;
+  top: 5vmax;
+  border-radius: 50%;
+}
+svg {
+  display: block;
+}
+.work {
+  margin: 1.5em 1em;
+  margin-left: 0;
+  vertical-align: middle;
+}
+
+@media (min-width: 800px) {
+  .logo {
+    position: fixed;
+  }
+}
+
+footer {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2em;
+  justify-content: space-between;
+}

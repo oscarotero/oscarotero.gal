@@ -1,0 +1,42 @@
+layout: base.njk
+footer: true
+links:
+  - text: Email
+    href: 'mailto:oom@oscarotero.com'
+  - text: Github
+    href: https://github.com/oscarotero
+  - text: Twitter
+    href: https://twitter.com/misteroom
+  - text: LinkedIn
+    href: https://www.linkedin.com/in/misteroom/
+
+languages:
+  gl:
+    label: En Galego
+    base: https://oscarotero.gal
+    copy: |
+     © Óscar Otero, 2021  
+     Grazas a Marcos Dopico pola tipografía [Atlantica Serif](https://maistypes.cargo.site/Atlantica-Text).
+    menu: 
+      - text: O que uso
+        href: /gl/uses/
+      - text: Logos
+        href: /gl/logos/
+
+  es:
+    label: En Español
+    copy: |
+     © Óscar Otero, 2021  
+     Gracias a Marcos Dopico por la tipografía [Atlantica Serif](https://maistypes.cargo.site/Atlantica-Text).
+    menu:
+      - text: Lo que uso
+        href: /es/uses/
+
+  en:
+    label: In English
+    copy: |
+     © Óscar Otero, 2021  
+     Thanks to Marcos Dopico for the font [Atlantica Serif](https://maistypes.cargo.site/Atlantica-Text).
+    menu:
+      - text: Uses
+        href: /en/uses/
