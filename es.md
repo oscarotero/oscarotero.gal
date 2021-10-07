@@ -113,6 +113,11 @@ Este proyecto además obtuvo varios reconocimientos:
 - [Selección CLAP 2018 — Mejor diseño gráfico de sitio
   web](https://premiosclap.org/ganador-730)
 
+### Ola
+
+En **marketgoo** he realizado [el sistema de deseño **Ola**,](https://zeroheight.com/22mjgbuf6/p/56796c-ola)
+y he ayudado en su implementación con esta [colección de componentes para React](https://marketgoo.github.io/Ola/), para el email [con una colección de componentes para MJML](https://github.com/marketgoo/Ola-Emails) y muchas aplicaciones internas que no puedo compartir actualmente. Este proyecto empezó en 2019 y fue presentado [en este post en el blog de **marketgoo**](https://www.marketgoo.com/blog-post/say-hello-to-ola-design-system/).
+
 ### Conferencias
 
 - **O redeseño de HA!** (gallego) - Asemblea DAG, Ourense 2019

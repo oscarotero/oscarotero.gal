@@ -55,6 +55,31 @@ url: /en/
 
 ## Things I made
 
+### Conxeito
+
+Newsletter (in galician language) about digital design, published during the Covid confinement. You can access to all numbers here:
+
+- [#001 — Welcome](http://eepurl.com/gWhDcn) — _March 20, 2020_
+- [#002 — Web apps today](http://eepurl.com/gW6GQn) — _March 27, 2020_
+- [#003 — Design principles](http://eepurl.com/gX19yr) — _April 3, 2020_
+- [#004 — About cursors and pointers](http://eepurl.com/gYFKG5) — _April 10, 2020_
+- [#005 — About design and code](http://eepurl.com/gZwOff) — _17 de abril, 2020_
+- [#006 — About subscriptions](http://eepurl.com/g0jglP) — _April 24, 2020_
+- [#007 — Specialization and fragmentation](http://eepurl.com/g08xOz) — _May 1, 2020_
+- [#008 — Tokens](http://eepurl.com/g10VOz) — _May 8, 2020_
+- [#009 — Web books](http://eepurl.com/g22Uv5) — _May 15, 2020_
+- [#010 — Methods and tools](http://eepurl.com/g3JroH) — _May 22, 2020_
+- [#011 — About colors](http://eepurl.com/g4Sy01) — _May 29, 2020_
+- [#012 — Job to be done](http://eepurl.com/g5IuWr) — _June 5, 2020_
+- [#013 — About tools](http://eepurl.com/g6wYW5) — _June 12, 2020_
+- [#014 — About Hey](http://eepurl.com/g7t9wH) — _June 19, 2020_
+- [#015 — Digital and sustainable](http://eepurl.com/g8Os_v) — _July 3, 2020_
+- [#016 — Public design](http://eepurl.com/g_qf1z) — _July 31, 2020_
+- [#017 — Internal logotypes](http://eepurl.com/hcDGzf) — _September 11, 2020_
+- [#018 — Transformative design](http://eepurl.com/hfv_U9) — _October 18, 2020_
+- [#019 — Static sites](http://eepurl.com/himrb1) — _November 15, 2020_
+- [#020 — Design for the speech](http://eepurl.com/hnuhJv) — _January 17, 2020_
+
 ### HA! redesign
 
 During the redesign and development of the new web for
@@ -83,6 +108,11 @@ This project won several awards:
 - [Awwwards — Honorable Mention](https://www.awwwards.com/sites/ha)
 - [CLAP 2018 selection — Best graphic design for a
   website](https://premiosclap.org/ganador-730)
+
+### Ola
+
+At **marketgoo** I have designed [the **Ola** design system,](https://zeroheight.com/22mjgbuf6/p/56796c-ola)
+and have collaborated in the implementation with this [collection of React components](https://marketgoo.github.io/Ola/), for emails with [a collection of MJML components](https://github.com/marketgoo/Ola-Emails) and many other internal work that I cannot share currently. This project started in 2019 and was presented [in this post in the **marketgoo** blog](https://www.marketgoo.com/blog-post/say-hello-to-ola-design-system/).
 
 ### Random
 
