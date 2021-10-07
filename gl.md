@@ -10,11 +10,11 @@ url: /gl/
 ## Superpoderes
 
 - Saber escoitar.
-- Solucionar problemas de deseño complexos.
+- Dividir un problema complexo en varios máis pequenos e sinxelos.
 - Comunicarme con programadores, entendelos e axudalos a construír a mellor
   interface posible.
 - Combinar tipografías e cores.
-- Poder codificar os meus propios deseños.
+- Poder programar os meus propios deseños.
 
 ## Fitos
 

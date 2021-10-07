@@ -10,11 +10,11 @@ url: /es/
 ## Superpoderes
 
 - Saber escuchar.
-- Solucionar problemas de diseño complejos.
+- Dividir un problema complejo en varios más pequeños y sencillos.
 - Comunicarme con programadores, entenderlos y ayudarlos a construír la mejor
   interfaz posible.
 - Combinar tipografías y colores.
-- Poder codificar mis propios diseños.
+- Poder programar mis propios diseños.
 
 ## Hitos
 

@@ -10,7 +10,7 @@ url: /en/
 ## Superpowers
 
 - Listen to people.
-- Solve complex design problems.
+- Divide a complex problem into several smaller and simpler ones.
 - Communicate with programmers, understand their problems and help them to build
   the best possible interface.
 - Combine fonts and colors.
