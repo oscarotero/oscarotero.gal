@@ -1,18 +1,5 @@
 <footer>
   <ul>
-    {% for page in search.pages("key=" + key, "lang=desc") -%}
-    <li>
-      {% if page.data.lang == lang %}
-        {{ languages[page.data.lang].label }}
-      {% else %}
-      <a href="{{ (languages[page.data.lang].base or "") + page.data.url }}">
-        {{ languages[page.data.lang].label }}
-      </a>
-      {% endif %}
-    </li>
-    {% endfor -%}
-  </ul>
-  <ul>
     {% for link in languages[lang].menu %}
     <li>
       <a href="{{ link.href }}" title="{{ link.title }}">

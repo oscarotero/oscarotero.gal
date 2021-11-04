@@ -20,8 +20,6 @@ languages:
     menu: 
       - text: O que uso
         href: /gl/uses/
-      - text: Logos
-        href: /gl/logos/
 
   es:
     label: En Español

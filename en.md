@@ -11,15 +11,15 @@ url: /en/
 
 - Listen to people.
 - Divide a complex problem into several smaller and simpler ones.
-- Communicate with programmers, understand their problems and help them to build
-  the best possible interface.
+- Communicate with programmers and help them to build the best possible
+  interface.
 - Combine fonts and colors.
 - I can code my own designs.
 
 ## Successes
 
-- [I've created a company](http://anavallasuiza.com) with 4 partners just before
-  the 2008 Spanish economic crisis, have other 6 employees and lasted 8 years.
+- [I had my own design company](http://anavallasuiza.com) with 4 partners during
+  8 years.
 - I've been president of the [Design Association of Galicia.](http://dag.gal)
 - [I won a Mestre Mateo](https://www.academiagalegadoaudiovisual.gal/es/portfolio-item/vii-premios-mestre-mateo/)
   (Galician Oscar's), and an award at the MIPTV of Cannes without making films
@@ -43,13 +43,11 @@ url: /en/
 
 - I've created a [CSS processor](http://stylecow.github.io/) and wasn't be able
   to make it popular.
-- I've released a product by myself, doing everything (concept, design,
-  development, etc) and nobody used it.
 - [I've started a company](http://anavallasuiza.com) with other partners and we
   weren't able to do what we wanted.
 - I cannot speak fluid english (yet).
 - After many attempts, I'm not able to make a homemade dough bread.
-- I cannot create a beautiful personal website.
+- I didn't make a beautiful personal website.
 
 ---
 
@@ -57,15 +55,18 @@ url: /en/
 
 ### Conxeito
 
-Newsletter (in galician language) about digital design, published during the Covid confinement. You can access to all numbers here:
+Newsletter (in galician language) about digital design, published during the
+Covid confinement. You can access to all numbers here:
 
 - [#001 — Welcome](http://eepurl.com/gWhDcn) — _March 20, 2020_
 - [#002 — Web apps today](http://eepurl.com/gW6GQn) — _March 27, 2020_
 - [#003 — Design principles](http://eepurl.com/gX19yr) — _April 3, 2020_
-- [#004 — About cursors and pointers](http://eepurl.com/gYFKG5) — _April 10, 2020_
+- [#004 — About cursors and pointers](http://eepurl.com/gYFKG5) — _April 10,
+  2020_
 - [#005 — About design and code](http://eepurl.com/gZwOff) — _17 de abril, 2020_
 - [#006 — About subscriptions](http://eepurl.com/g0jglP) — _April 24, 2020_
-- [#007 — Specialization and fragmentation](http://eepurl.com/g08xOz) — _May 1, 2020_
+- [#007 — Specialization and fragmentation](http://eepurl.com/g08xOz) — _May 1,
+  2020_
 - [#008 — Tokens](http://eepurl.com/g10VOz) — _May 8, 2020_
 - [#009 — Web books](http://eepurl.com/g22Uv5) — _May 15, 2020_
 - [#010 — Methods and tools](http://eepurl.com/g3JroH) — _May 22, 2020_
@@ -111,8 +112,14 @@ This project won several awards:
 
 ### Ola
 
-At **marketgoo** I have designed [the **Ola** design system,](https://zeroheight.com/22mjgbuf6/p/56796c-ola)
-and have collaborated in the implementation with this [collection of React components](https://marketgoo.github.io/Ola/), for emails with [a collection of MJML components](https://github.com/marketgoo/Ola-Emails) and many other internal work that I cannot share currently. This project started in 2019 and was presented [in this post in the **marketgoo** blog](https://www.marketgoo.com/blog-post/say-hello-to-ola-design-system/).
+At **marketgoo** I have designed
+[the **Ola** design system,](https://zeroheight.com/22mjgbuf6/p/56796c-ola) and
+have collaborated in the implementation with this
+[collection of React components](https://marketgoo.github.io/Ola/), for emails
+with [a collection of MJML components](https://github.com/marketgoo/Ola-Emails)
+and many other internal work that I cannot share currently. This project started
+in 2019 and was presented
+[in this post in the **marketgoo** blog](https://www.marketgoo.com/blog-post/say-hello-to-ola-design-system/).
 
 ### Random
 

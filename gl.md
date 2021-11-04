@@ -11,15 +11,15 @@ url: /gl/
 
 - Saber escoitar.
 - Dividir un problema complexo en varios máis pequenos e sinxelos.
-- Comunicarme con programadores, entendelos e axudalos a construír a mellor
-  interface posible.
+- Comunicarme con programadores e axudalos a construír a mellor interface
+  posible.
 - Combinar tipografías e cores.
 - Poder programar os meus propios deseños.
 
 ## Fitos
 
-- [Montar unha empresa](http://anavallasuiza.com) con outros 4 socios xusto
-  antes de comezar a crise de 2008, chegar a ter 6 empregados e aguantar 8 anos.
+- [Tiven o meu propio estudio de deseño web](http://anavallasuiza.com) con
+  outros 4 socios durante 8 anos.
 - Ser presidente da [Asociación Galega de Deseño.](https://dag.gal/gl)
 - [Gañar un premio Mestre Mateo,](https://www.academiagalegadoaudiovisual.gal/es/portfolio-item/vii-premios-mestre-mateo/)
   e outro no MIPTV de Cannes sen facer cine, senon deseño.
@@ -46,7 +46,7 @@ url: /gl/
 - Non conseguir falar inglés de maneira fluída (aínda).
 - Despois de varios intentos, non ser capaz de facer un bolo de pan de masa nai
   caseiro que se poida comer.
-- Non ser capaz de crear unha web persoal máis bonita ca esta.
+- Non teño unha web persoal bonita.
 
 ---
 
@@ -112,8 +112,15 @@ Este proxecto ademáis tivo varios recoñecementos:
 
 ### Ola
 
-En **marketgoo** realicei [o sistema de deseño **Ola**,](https://zeroheight.com/22mjgbuf6/p/56796c-ola)
-e axudei na súa implementación con esta [colección de compoñentes para React](https://marketgoo.github.io/Ola/), para o email [cunha colección de compoñentes para MJML](https://github.com/marketgoo/Ola-Emails) e moitas aplicación internas que non podo compartir actualmente. Este proxecto comezou en 2019 e foi presentado [neste post no blog de **marketgoo**](https://www.marketgoo.com/blog-post/say-hello-to-ola-design-system/).
+En **marketgoo** realicei
+[o sistema de deseño **Ola**,](https://zeroheight.com/22mjgbuf6/p/56796c-ola) e
+axudei na súa implementación con esta
+[colección de compoñentes para React](https://marketgoo.github.io/Ola/), para o
+email
+[cunha colección de compoñentes para MJML](https://github.com/marketgoo/Ola-Emails)
+e moitas aplicación internas que non podo compartir actualmente. Este proxecto
+comezou en 2019 e foi presentado
+[neste post no blog de **marketgoo**](https://www.marketgoo.com/blog-post/say-hello-to-ola-design-system/).
 
 ### Conferencias
 

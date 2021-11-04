@@ -22,11 +22,12 @@
   font-style: italic;
   font-display: swap;
 }
-
 body {
   max-width: 28em;
-  margin: 5vmax auto;
   margin-top: calc(8vmax + 48px);
+  margin-bottom: 5vmax;
+  margin-left: 8%;
+  margin-right: auto;
   width: 84%;
   font-family: Atlantica, Palatino, 'Palatino Linotype', Times, "Droid Serif", serif;
   font-size: clamp(.9em, 4vmin, 1.2em);
@@ -35,9 +36,6 @@ body {
 h1 {
   font-size: 2em;
   line-height: 1.1;
-}
-a {
-  color: blue;
 }
 a:hover {
   color: darkblue;
@@ -59,13 +57,15 @@ h2, h3, h4 {
   margin-top: 1.5em;
   margin-bottom: .5em;
 }
-:is(h1, h2, h3, h4) + :is(h1, h2, h3, h4) {
+:is(h2, h3, h4) + :is(h2, h3, h4) {
   margin-top: 0;
 }
 hr {
   border: none;
-  border-top: solid 1px;
-  margin: 2em 0;
+  border-top: solid 3px;
+  margin: 5vmax 0;
+  color: currentColor;
+  width: 4em;
 }
 
 .logo {
@@ -80,21 +80,17 @@ hr {
 svg {
   display: block;
 }
-.work {
-  margin: 1.5em 1em;
-  margin-left: 0;
-  vertical-align: middle;
-}
 
-@media (min-width: 800px) {
+@media (min-width: 700px) {
+  body {
+    margin-left: calc(8% + 48px + 1em);
+    margin-top: calc(5vmax - .25em);
+  }
   .logo {
     position: fixed;
   }
 }
 
-footer {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 2em;
-  justify-content: space-between;
+footer p {
+  margin-top: 2em;
 }

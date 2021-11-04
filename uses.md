@@ -32,8 +32,8 @@ Por que fago isto? collín a idea
 
 ## Deseño
 
-- [Sketch for Teams](https://www.sketch.com/)
-- [Sketchpad](https://sketch.io/sketchpad/)
+- [Sketch](https://www.sketch.com/)
+- [Figma](https://www.figma.com/)
 - [Affinity Designer](https://affinity.serif.com/designer/)
 - [Zeroheight](https://zeroheight.com/)
 - [RightFont](https://rightfontapp.com/)
@@ -80,11 +80,8 @@ Por que fago isto? collín a idea
 ## Ocio
 
 - [Spotify](https://www.spotify.com/)
-- [Minecraft](https://www.minecraft.net/)
-- [Nintendo Switch](https://www.nintendo.es/)
-  - The Legend of Zelda: Breath of the Wild
-  - The Witcher 3
 - [Youtube](https://www.youtube.com/)
+- [Nintendo Switch](https://www.nintendo.es/)
 - [Chess.com](https://www.chess.com/)
 - [Filmin](https://www.filmin.es/)
 - [Netflix](https://www.netflix.com/)
