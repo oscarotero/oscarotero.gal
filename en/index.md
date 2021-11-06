@@ -2,7 +2,9 @@
 lang: en
 key: home
 title: Óscar Otero - Web designer and developer
-url: /en/
+url: /
+alternate:
+  gl: "https://oscarotero.gal/"
 ---
 
 # Hello. <br>I'm Óscar Otero <br>—digital designer

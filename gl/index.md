@@ -2,7 +2,9 @@
 lang: gl
 key: home
 title: Óscar Otero - Deseñador e desenvolvedor web
-url: /gl/
+url: /
+alternate:
+  en: "https://oscarotero.com/"
 ---
 
 # Ola. <br>Son Óscar Otero <br>—deseñador dixital

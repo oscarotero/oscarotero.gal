@@ -9,8 +9,8 @@
     <link href="/favicon-32x32.png" rel="icon" type="image/png" sizes="32x32">
     <link href="/favicon-16x16.png" rel="icon" type="image/png" sizes="16x16">
 
-    {% for page in search.pages("key=" + key + " lang!=" + lang) -%}
-      <link rel="alternate" hreflang="{{ page.data.lang }}" href="{{ page.data.url }}">
+    {% for lang, url in alternate -%}
+    <link rel="alternate" hreflang="{{ lang }}" href="{{ url }}">
     {% endfor -%}
 
     <meta property="og:title" content="{{ title }}" />
@@ -26,7 +26,7 @@
   </head>
 
   <body>
-    <a href="/{{ lang }}/" title="Portada" class="logo">
+    <a href="/" title="Portada" class="logo">
       <svg width="48px" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
         <g stroke="black" stroke-width="3" fill="white">
           <circle cx="24" cy="24" r="22"></circle>

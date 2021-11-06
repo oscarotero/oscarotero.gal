@@ -19,16 +19,7 @@ languages:
      Grazas a Marcos Dopico pola tipografía [Atlantica Serif](https://maistypes.cargo.site/Atlantica-Text).
     menu: 
       - text: O que uso
-        href: /gl/uses/
-
-  es:
-    label: En Español
-    copy: |
-     © Óscar Otero, 2021  
-     Gracias a Marcos Dopico por la tipografía [Atlantica Serif](https://maistypes.cargo.site/Atlantica-Text).
-    menu:
-      - text: Lo que uso
-        href: /es/uses/
+        href: /uses/
 
   en:
     label: In English
@@ -37,4 +28,4 @@ languages:
      Thanks to Marcos Dopico for the font [Atlantica Serif](https://maistypes.cargo.site/Atlantica-Text).
     menu:
       - text: Uses
-        href: /en/uses/
+        href: /uses/

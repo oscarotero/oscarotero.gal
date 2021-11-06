@@ -1,16 +1,17 @@
 ---
-lang: gl
+lang: en
 key: uses
-title: Óscar Otero - Ferramentas que uso
-url: /gl/uses/
+title: Óscar Otero - The tools I use
+url: /uses/
+alternate:
+  gl: "https://oscarotero.gal/uses/"
 ---
 
-# Ferramentas que uso
+# The tools I use
 
-As ondiñas e as ferramentas veñen e van, non son tan importantes. Pero se estás
-interesado en saber que é o que uso actualmente, aqui vai unha pequena listaxe.
-Por que fago isto? collín a idea
-[desta recopilación](https://github.com/wesbos/awesome-uses).
+Tools come and go, they are not so important. But just in case someone is
+interested in what I use, there's a small list. Why I do this? I got the idea
+[from this collection](https://github.com/wesbos/awesome-uses).
 
 ## Hardware
 
@@ -19,7 +20,7 @@ Por que fago isto? collín a idea
 - Xiaomi Mi A1 AndroidOne
 - Silla IKEA Markus
 
-## Productividade e comunicación
+## Productivity & communication
 
 - [DuckDuckGo](https://duckduckgo.com/)
 - [Rectangle](https://rectangleapp.com/)
@@ -30,54 +31,59 @@ Por que fago isto? collín a idea
 - [Todoist](https://todoist.com/)
 - [Feedbin](https://feedbin.com/)
 
-## Deseño
+## Design
 
 - [Sketch](https://www.sketch.com/)
 - [Figma](https://www.figma.com/)
 - [Affinity Designer](https://affinity.serif.com/designer/)
 - [Zeroheight](https://zeroheight.com/)
 - [RightFont](https://rightfontapp.com/)
-- Papel e lápis
+- Paper & pencil
 
-## Desenvolvemento
+## Development
 
 - [VS Code](https://code.visualstudio.com/)
-- [Firefox](https://www.mozilla.org/firefox/) (navegador principal)
+- [Firefox](https://www.mozilla.org/firefox/) (main browser)
 - [Chrome](https://www.google.com/chrome/),
-  [Safari](https://www.apple.com/safari/), [Opera](https://www.opera.com/) e
-  [Edge](https://www.microsoft.com/edge) (para testaxe)
+  [Safari](https://www.apple.com/safari/), [Opera](https://www.opera.com/) and
+  [Edge](https://www.microsoft.com/edge) (for testing)
 - [Sequel PRO](https://sequelpro.com/)
 - [iTerm2](https://www.iterm2.com/)
 - [Storybook](https://storybook.js.org/)
-- [Git](https://git-scm.com/) ([Github](https://github.com/) e
+- [Git](https://git-scm.com/) ([Github](https://github.com/) and
   [Gitlab](https://gitlab.com/))
 
-## Ferramentas
+## Tooling
 
 - [ohmyzsh](https://ohmyz.sh/)
 - [Homebrew](https://brew.sh/)
+- [Gulp](https://gulpjs.com/)
 - [postcss](https://postcss.org/)
+- [Prettier](https://prettier.io/)
+- [11ty](https://www.11ty.dev/)
+- [npm](https://www.npmjs.com/)
 - [Composer](https://getcomposer.org/) & [Packagist](https://packagist.org/)
 - [Image Optim](https://imageoptim.com/mac)
 - [SVGO](https://github.com/svg/svgo)
 - [Caniuse](https://caniuse.com/)
 - [MDN](https://developer.mozilla.org/)
 
-## Linguaxes de programación
+## Programming languages
 
 - [CSS](https://www.w3.org/Style/CSS/) & [HTML](https://www.w3.org/html/)
-- [Javascript](http://www.ecma-international.org/) & [Deno](https://deno.land/)
+- [Javascript](http://www.ecma-international.org/) & [Node](https://nodejs.org/)
+  & [Deno](https://deno.land/)
 - [SVG](https://www.w3.org/Graphics/SVG/)
 - [PHP](https://www.php.net/)
 
-## Aloxamentos e domininios
+## Hostings and domains
 
 - [Dinahosting](https://dinahosting.com/)
 - [Digital Ocean](https://www.digitalocean.com/)
 - [Hetzner](https://www.hetzner.com/)
 - [Netlify](https://www.netlify.com/)
 
-## Ocio
+## Fun
 
 - [Spotify](https://www.spotify.com/)
 - [Youtube](https://www.youtube.com/)

@@ -8,25 +8,18 @@ site.copy("assets", "")
   .copy("fonts")
   .copy("logos")
   .data("index", "/gl/")
-  .ignore("README.md");
+  .ignore("README.md")
+  .ignore(site.options.location.host === "oscarotero.com" ? "gl" : "en");
 
 site.script(
   "deploy:gal",
-  () => {
-    site.options.location = new URL("https://oscarotero.gal");
-    site.data("index", "/gl/");
-    return site.build();
-  },
+  "lume --location=https://oscarotero.gal",
   "rsync -r _site/ gal@oscarotero.gal:~/www",
 );
 
 site.script(
   "deploy:com",
-  () => {
-    site.options.location = new URL("https://oscarotero.com");
-    site.data("index", "/en/");
-    return site.build();
-  },
+  "lume --location=https://oscarotero.com",
   "rsync -r _site/ oscarotero@oscarotero.com:~/www",
 );
 

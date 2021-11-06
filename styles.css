@@ -11,16 +11,19 @@
 }
 @font-face {
   font-family: "Atlantica";
-  src: url("./fonts/AtlanticaSerif-SemiBold.woff2") format("woff2");
+  src: url("./fonts/AtlanticaSerif-Regular.woff2") format("woff2");
   font-weight: bold;
   font-display: swap;
 }
 @font-face {
   font-family: "Atlantica";
-  src: url("./fonts/AtlanticaSerif-SemiBoldItalic.woff2") format("woff2");
+  src: url("./fonts/AtlanticaSerif-RegularItalic.woff2") format("woff2");
   font-weight: bold;
   font-style: italic;
   font-display: swap;
+}
+html {
+  overflow-x: hidden;
 }
 body {
   max-width: 28em;
@@ -36,6 +39,19 @@ body {
 h1 {
   font-size: 2em;
   line-height: 1.1;
+}
+h2 {
+  font-size: 1.5em;
+}
+h3 {
+  font-size: 1.25em;
+}
+h2, h3 {
+  margin-top: 1.5em;
+  margin-bottom: .5em;
+}
+:is(h1, h2) + :is(h2, h3) {
+  margin-top: 0;
 }
 a:hover {
   color: darkblue;
@@ -53,19 +69,12 @@ ul {
 li {
   margin: 0.3em 0;
 }
-h2, h3, h4 {
-  margin-top: 1.5em;
-  margin-bottom: .5em;
-}
-:is(h2, h3, h4) + :is(h2, h3, h4) {
-  margin-top: 0;
-}
 hr {
   border: none;
   border-top: solid 3px;
-  margin: 5vmax 0;
+  margin: 3em 0;
   color: currentColor;
-  width: 4em;
+  width: 3em;
 }
 
 .logo {
@@ -93,4 +102,22 @@ svg {
 
 footer p {
   margin-top: 2em;
+}
+
+/* Degradado chorra */
+@media (min-width: 700px) {
+  body {
+    background: linear-gradient(to right, white, white 90rem, hsl(180deg 100% 90%) 120rem);
+  }
+  body::before {
+    content: "";
+    position: fixed;
+    display: block;
+    top: -400px;
+    left: calc(8vw + 50rem);
+    width: 1600px;
+    height: 1600px;
+    background: radial-gradient(circle closest-side, hsl(240deg 100% 85%), white);
+    mix-blend-mode: multiply;
+  }
 }
