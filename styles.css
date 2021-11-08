@@ -11,13 +11,13 @@
 }
 @font-face {
   font-family: "Atlantica";
-  src: url("./fonts/AtlanticaSerif-Regular.woff2") format("woff2");
+  src: url("./fonts/AtlanticaSerif-SemiBold.woff2") format("woff2");
   font-weight: bold;
   font-display: swap;
 }
 @font-face {
   font-family: "Atlantica";
-  src: url("./fonts/AtlanticaSerif-RegularItalic.woff2") format("woff2");
+  src: url("./fonts/AtlanticaSerif-SemiBoldItalic.woff2") format("woff2");
   font-weight: bold;
   font-style: italic;
   font-display: swap;
@@ -39,18 +39,21 @@ body {
 h1 {
   font-size: 2em;
   line-height: 1.1;
-}
-h2 {
-  font-size: 1.5em;
-}
-h3 {
-  font-size: 1.25em;
+  font-weight: normal;
 }
 h2, h3 {
-  margin-top: 1.5em;
+  margin-top: 3rem;
   margin-bottom: .5em;
+  font-family: -apple-system, system-ui, sans-serif;
+  font-weight: 600;
 }
-:is(h1, h2) + :is(h2, h3) {
+h2 {
+  font-size: 1.3em;
+}
+h3 {
+  font-size: 1.1em;
+}
+h2 + h3 {
   margin-top: 0;
 }
 a:hover {
@@ -72,7 +75,7 @@ li {
 hr {
   border: none;
   border-top: solid 3px;
-  margin: 3em 0;
+  margin: 3rem 0;
   color: currentColor;
   width: 3em;
 }
@@ -101,7 +104,7 @@ svg {
 }
 
 footer p {
-  margin-top: 2em;
+  margin-top: 2rem;
 }
 
 /* Degradado chorra */

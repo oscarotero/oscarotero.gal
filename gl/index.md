@@ -187,7 +187,7 @@ comezou en 2019 e foi presentado
 ## Que estou facendo agora?
 
 - Traballo como _product designer_ en [marketgoo](https://www.marketgoo.com/).
-- Levo, xunto con **Miguel Calvo**, o
+- Manteño, xunto con **Miguel Calvo**, o
   [proxecto HA!](https://historia-arte.com/).
 - Desenvolvendo 🔥 [Lume](https://lumeland.github.io/), un xerador de páxinas
   estáticas para Deno.
