@@ -9,7 +9,7 @@ alternate:
 
 # Ola. <br>Son Óscar Otero <br>—deseñador dixital
 
-## Superpoderes
+## —Superpoderes
 
 - Saber escoitar.
 - Dividir un problema complexo en varios máis pequenos e sinxelos.
@@ -18,7 +18,7 @@ alternate:
 - Combinar tipografías e cores.
 - Poder programar os meus propios deseños.
 
-## Fitos
+## —Fitos
 
 - [Tiven o meu propio estudio de deseño web](http://anavallasuiza.com) con
   outros 4 socios durante 8 anos.
@@ -39,7 +39,7 @@ alternate:
   [valoraron traballos presentados](https://www.youtube.com/watch?v=dDnsVNcoiq8)
   por premios nacionais de deseño.
 
-## Fracasos
+## —Fracasos
 
 - Crear un [procesador de CSS](http://stylecow.github.io/) e non conseguir que
   fose popular.

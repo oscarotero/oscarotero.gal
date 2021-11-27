@@ -11,13 +11,13 @@
 }
 @font-face {
   font-family: "Atlantica";
-  src: url("./fonts/AtlanticaSerif-SemiBold.woff2") format("woff2");
+  src: url("./fonts/AtlanticaSerif-Regular.woff2") format("woff2");
   font-weight: bold;
   font-display: swap;
 }
 @font-face {
   font-family: "Atlantica";
-  src: url("./fonts/AtlanticaSerif-SemiBoldItalic.woff2") format("woff2");
+  src: url("./fonts/AtlanticaSerif-RegularItalic.woff2") format("woff2");
   font-weight: bold;
   font-style: italic;
   font-display: swap;
@@ -44,14 +44,12 @@ h1 {
 h2, h3 {
   margin-top: 3rem;
   margin-bottom: .5em;
-  font-family: -apple-system, system-ui, sans-serif;
-  font-weight: 600;
 }
 h2 {
-  font-size: 1.3em;
+  font-size: 1.2em;
 }
 h3 {
-  font-size: 1.1em;
+  font-size: 1em;
 }
 h2 + h3 {
   margin-top: 0;

@@ -9,7 +9,7 @@ alternate:
 
 # Hello. <br>I'm Óscar Otero <br>—digital designer
 
-## Superpowers
+## —Superpowers
 
 - Listen to people.
 - Divide a complex problem into several smaller and simpler ones.
@@ -18,7 +18,7 @@ alternate:
 - Combine fonts and colors.
 - I can code my own designs.
 
-## Successes
+## —Successes
 
 - [I had my own design company](http://anavallasuiza.com) with 4 partners during
   8 years.
@@ -41,7 +41,7 @@ alternate:
   [evaluate works](https://www.youtube.com/watch?v=dDnsVNcoiq8) submitted by
   national design awards.
 
-## Failures
+## —Failures
 
 - I've created a [CSS processor](http://stylecow.github.io/) and wasn't be able
   to make it popular.
@@ -172,7 +172,7 @@ in 2019 and was presented
 
 ---
 
-## What the hell am I doing now?
+## What am I doing now?
 
 - I'm working as _product designer_ at [marketgoo](https://www.marketgoo.com/).
 - I'm the maintaner, with **Miguel Calvo**, of the
