@@ -20,7 +20,7 @@ alternate:
 
 ## —Successes
 
-- [I had my own design company](http://anavallasuiza.com) with 4 partners during
+- [I had my own design company](https://web.archive.org/web/20191203021950/http://v1.anavallasuiza.com/) with 4 partners during
   8 years.
 - I've been president of the [Design Association of Galicia.](http://dag.gal)
 - [I won a Mestre Mateo](https://www.academiagalegadoaudiovisual.gal/es/portfolio-item/vii-premios-mestre-mateo/)
@@ -45,7 +45,7 @@ alternate:
 
 - I've created a [CSS processor](http://stylecow.github.io/) and wasn't be able
   to make it popular.
-- [I've started a company](http://anavallasuiza.com) with other partners and we
+- [I've started a company](https://web.archive.org/web/20191203021950/http://v1.anavallasuiza.com/) with other partners and we
   weren't able to do what we wanted.
 - I cannot speak fluid english (yet).
 - After many attempts, I'm not able to make a homemade dough bread.

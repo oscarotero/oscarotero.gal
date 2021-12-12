@@ -20,33 +20,33 @@ alternate:
 
 ## —Fitos
 
-- [Tiven o meu propio estudio de deseño web](http://anavallasuiza.com) con
+- [Tiven o meu propio estudio de deseño web](https://web.archive.org/web/20191203021950/http://v1.anavallasuiza.com/) con
   outros 4 socios durante 8 anos.
-- Ser presidente da [Asociación Galega de Deseño.](https://dag.gal/gl)
-- [Gañar un premio Mestre Mateo,](https://www.academiagalegadoaudiovisual.gal/es/portfolio-item/vii-premios-mestre-mateo/)
+- Fun presidente da [Asociación Galega de Deseño.](https://dag.gal/gl)
+- [Gañei un premio Mestre Mateo,](https://www.academiagalegadoaudiovisual.gal/es/portfolio-item/vii-premios-mestre-mateo/)
   e outro no MIPTV de Cannes sen facer cine, senon deseño.
-- Conseguir máis de 1000 _stars_
+- Conseguín máis de 1000 _stars_
   [nun repositorio de Github](https://github.com/oscarotero/Embed).
-- Ir a Estambul a dar un taller de _open video_ en inglés e conseguir que os
+- Fun a Estambul a dar un taller de _open video_ en inglés e conseguir que os
   alumnos me entenderan.
-- [Compartir cartel](https://dag.gal/gl/feed2015/) con Javier Cañada, Álvaro
+- [Compartín cartel](https://dag.gal/gl/feed2015/) con Javier Cañada, Álvaro
   Valiño, Raquel Pelta, Pepe Barro e moitos outros grandes profesionais falando
   de web e interactividade.
-- Estudar letras puras (latín e grego) para acabar nun grupo de traballo do
+- Estudiei letras puras (latín e grego) para acabar nun grupo de traballo do
   PHP-FIG discutindo con enxeñeiros sobre un novo estándar de PHP
   [Http Middlewares](https://www.php-fig.org/psr/psr-15/meta/).
-- Ser membro dun xurado onde se
+- Fun membro dun xurado onde se
   [valoraron traballos presentados](https://www.youtube.com/watch?v=dDnsVNcoiq8)
   por premios nacionais de deseño.
 
 ## —Fracasos
 
-- Crear un [procesador de CSS](http://stylecow.github.io/) e non conseguir que
+- Creei un [procesador de CSS](http://stylecow.github.io/) e non conseguín que
   fose popular.
-- [Montar unha empresa](http://anavallasuiza.com) entre varios socios e non
+- [Montei unha empresa](https://web.archive.org/web/20191203021950/http://v1.anavallasuiza.com/) entre varios socios e non
   conseguir facer o que queriamos facer.
-- Non conseguir falar inglés de maneira fluída (aínda).
-- Despois de varios intentos, non ser capaz de facer un bolo de pan de masa nai
+- Non sei falar inglés de maneira fluída (aínda).
+- Despois de varios intentos, non fun capaz de facer un bolo de pan de masa nai
   caseiro que se poida comer.
 - Non teño unha web persoal bonita.
 
