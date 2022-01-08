@@ -49,9 +49,9 @@ No caso de Lume, [Valtteri Laitinen](https://github.com/valtlai), un finlandés 
 
 ## Aprende a estabelecer uns límites
 
-Outro caso que tiven foi o de Shahid Shah, CTO dunha empresa en Washington cunha web enorme (centos de miles de páxinas) [que estaba interesado en cambiar o xerador que usaba (Hugo) por Lume](https://github.com/lumeland/lume/discussions/99). Foi unha sorpresa e unha grande oportunidade para probar se lume podería responder a un desafío tan exixente. Unha web de centos de miles de páxinas precisa dunha solución estable, moi rápida e optimizada. Tiven un Skype con el, intercambiamos opinións e incluso se ofreceu para botar unha man no desenvolvemento. Durante un tempo estivemos en contacto, comentando diferentes melloras e modificacións. 
+Outro caso que tiven foi o de Shahid Shah, CTO dunha empresa en Washington cunha web enorme (centos de miles de páxinas) [que estaba interesado en cambiar o xerador que usaba (Hugo) por Lume](https://github.com/lumeland/lume/discussions/99). Foi unha sorpresa e unha grande oportunidade para probar se Lume podería responder a un desafío tan exixente. Unha web de centos de miles de páxinas precisa dunha solución estable, moi rápida e optimizada. Tiven un Skype con el, intercambiamos opinións e incluso se ofreceu para botar unha man no desenvolvemento. Durante un tempo estivemos en contacto, comentando diferentes melloras e modificacións. 
 
-Co tempo decateime de que realmente non quería usar Lume, senón unha versión propia, adaptada ás súas necesidades. As mudanzas que me suxería ían todas na liña de facilitar a *customización* de Lume pola súa parte e cheguei á conclusión de que esas mudanzas quizais non ían facer o meu proxecto mellor e decidín recuperar o control do proxecto para levalo onde eu quería. De todos os modos, moitas das ideas que xurdiron desta relación foron boas e ficaron en lume.
+Co tempo decateime de que realmente non quería usar Lume, senón unha versión propia, adaptada ás súas necesidades. As mudanzas que me suxería ían todas na liña de facilitar a *customización* de Lume pola súa parte e cheguei á conclusión de que esas mudanzas quizais non ían facer o meu proxecto mellor e decidín recuperar o control do proxecto para levalo onde eu quería. De todos os modos, moitas das ideas que xurdiron desta relación foron boas e ficaron en Lume.
 
 É importante non tentar contentar a todo o mundo e ter claro o enfoque que lle queres dar ao proxecto. Unha vantaxe do código aberto (e a licenza MIT) é que calquera pode facer un «fork» e facer modificacións ao seu gusto, que supoño que foi o que finalmente fixo.
 
@@ -65,4 +65,15 @@ Unha simple busca en [Twitter](https://twitter.com/search?q=lume%20deno&src=type
 
 Se o fas ben e tes sorte, pode que ata che pasen cousas como que os propios usuarios [pidan poder dar soporte económico ao proxecto](https://github.com/lumeland/lume/discussions/154). Algo que a min nin se me pasara pola cabeza nunca e que me levou a facer [unha conta en Open Collective](https://opencollective.com/lume), unha plataforma para poder xestionar recursos económicos por parte de diferentes tipos de comunidades.
 
-E isto foi todo ata o momento, agardo que che fose útil. Como reflexión final, a creación, e posterior mantemento dun proxecto de código aberto, hai que vela como unha experiencia na que o máis importante é gozar do proceso, sen pensar noutras metas.
+## Conclusións
+
+Como reflexión final, a creación, e posterior mantemento dun proxecto de código aberto, hai que vela como unha experiencia na que o máis importante é gozar do proceso, sen pensar noutras metas. Aqui o obxectivo non é gañar cartos e moito menos poder vivir diso (hai xente que conseguiu vivir, mais é moi dificil chegar a esa situación).
+
+Polo tanto, antes de comezares un proxecto destas características, ten en conta algunhas cousas:
+
+- Fai algo que uses ti.
+- Tómao coma unha afición. Hai xente que no seu tempo de lecer xoga a videoxogos, vai ao cine ou le libros. Un proxecto de código aberto tamén pode ser divertido. Se non gozas facéndoo, non o fagas.
+- Vas aprender moito e coñecer xente. Sé amable, escoita o que che din e evita a toxicidade.
+- Pódeche abrir portas a nivel profesional. No meu caso tiven algunha oportunidade nese sentido grazas a Lume.
+- Dito isto, non creo que os programadores teñan que adicar o tempo libre a proxectos de código libre para conseguir un emprego. Se non tes tempo ou gañas, non o fagas.
+- Se pensas que estás facendo o parvo, traballando para que outros se aproveiten do que fas, déixao.
