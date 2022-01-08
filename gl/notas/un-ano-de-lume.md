@@ -67,13 +67,13 @@ Se o fas ben e tes sorte, pode que ata che pasen cousas como que os propios usua
 
 ## Conclusións
 
-Como reflexión final, a creación, e posterior mantemento dun proxecto de código aberto, hai que vela como unha experiencia na que o máis importante é gozar do proceso, sen pensar noutras metas. Aqui o obxectivo non é gañar cartos e moito menos poder vivir diso (hai xente que conseguiu vivir, mais é moi dificil chegar a esa situación).
+Como reflexión final, a creación, e posterior mantemento dun proxecto de código aberto, hai que vela como unha experiencia na que o máis importante é gozar do proceso, sen pensar noutras metas. Aquí o obxectivo non é gañar cartos e moito menos poder vivir diso (hai xente que conseguiu vivir, mais é moi difícil chegar a esa situación).
 
 Polo tanto, antes de comezares un proxecto destas características, ten en conta algunhas cousas:
 
 - Fai algo que uses ti.
-- Tómao coma unha afición. Hai xente que no seu tempo de lecer xoga a videoxogos, vai ao cine ou le libros. Un proxecto de código aberto tamén pode ser divertido. Se non gozas facéndoo, non o fagas.
+- Tómao coma unha afección. Hai xente que no seu tempo de lecer xoga a videoxogos, vai ao cine ou le libros. Un proxecto de código aberto tamén pode ser divertido. Se non gozas facéndoo, non o fagas.
 - Vas aprender moito e coñecer xente. Sé amable, escoita o que che din e evita a toxicidade.
 - Pódeche abrir portas a nivel profesional. No meu caso tiven algunha oportunidade nese sentido grazas a Lume.
-- Dito isto, non creo que os programadores teñan que adicar o tempo libre a proxectos de código libre para conseguir un emprego. Se non tes tempo ou gañas, non o fagas.
+- Dito isto, non creo que os programadores teñan que dedicar o tempo libre a proxectos de código libre para conseguir un emprego. Se non tes tempo ou ganas, non o fagas.
 - Se pensas que estás facendo o parvo, traballando para que outros se aproveiten do que fas, déixao.
