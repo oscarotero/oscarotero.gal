@@ -65,4 +65,4 @@ Unha simple busca en [Twitter](https://twitter.com/search?q=lume%20deno&src=type
 
 Se o fas ben e tes sorte, pode que ata che pasen cousas como que os propios usuarios [pidan poder dar soporte económico ao proxecto](https://github.com/lumeland/lume/discussions/154). Algo que a min nin se me pasara pola cabeza nunca e que me levou a facer [unha conta en Open Collective](https://opencollective.com/lume), unha plataforma para poder xestionar recursos económicos por parte de diferentes tipos de comunidades.
 
-E isto foi todo. A creación, e posterior mantemento dun proxecto de código aberto, hai que vela como unha experiencia na que o máis importante é gozar do proceso, sen pensar noutras metas.
+E isto foi todo ata o momento, agardo que che fose útil. Como reflexión final, a creación, e posterior mantemento dun proxecto de código aberto, hai que vela como unha experiencia na que o máis importante é gozar do proceso, sen pensar noutras metas.
