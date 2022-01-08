@@ -1,7 +1,7 @@
 ---
 lang: gl
 key: uses
-title: Óscar Otero - Ferramentas que uso
+title: O que uso
 url: /uses/
 alternate:
   en: "https://oscarotero.com/uses/"

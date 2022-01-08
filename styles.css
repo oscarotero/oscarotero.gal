@@ -11,13 +11,13 @@
 }
 @font-face {
   font-family: "Atlantica";
-  src: url("./fonts/AtlanticaSerif-Regular.woff2") format("woff2");
+  src: url("./fonts/AtlanticaSerif-SemiBold.woff2") format("woff2");
   font-weight: bold;
   font-display: swap;
 }
 @font-face {
   font-family: "Atlantica";
-  src: url("./fonts/AtlanticaSerif-RegularItalic.woff2") format("woff2");
+  src: url("./fonts/AtlanticaSerif-SemiBoldItalic.woff2") format("woff2");
   font-weight: bold;
   font-style: italic;
   font-display: swap;
@@ -34,11 +34,12 @@ body {
   width: 84%;
   font-family: Atlantica, Palatino, 'Palatino Linotype', Times, "Droid Serif", serif;
   font-size: clamp(.9em, 4vmin, 1.2em);
-  line-height: 1.4;
+  line-height: 1.45;
 }
 h1 {
   font-size: 2em;
   line-height: 1.1;
+  padding-top: .2em;
 }
 h2, h3 {
   margin-top: 3rem;

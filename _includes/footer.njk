@@ -1,13 +1,15 @@
 <footer>
   <ul>
-    {% for link in languages[lang].menu %}
+    {% for page in search.pages("notes") %}
     <li>
-      <a href="{{ link.href }}" title="{{ link.title }}">
-        {{ link.text }}
+      <a href="{{ page.data.url }}">
+        {{ page.data.title }}
       </a>
     </li>
     {% endfor %}
-    
+  </ul>
+
+  <ul>  
     {% for link in links %}
     <li>
       <a href="{{ link.href }}" title="{{ link.title }}">
