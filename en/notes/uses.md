@@ -57,11 +57,8 @@ interested in what I use, there's a small list. Why I do this? I got the idea
 
 - [ohmyzsh](https://ohmyz.sh/)
 - [Homebrew](https://brew.sh/)
-- [Gulp](https://gulpjs.com/)
+- [lume](https://lumeland.github.io/)
 - [postcss](https://postcss.org/)
-- [Prettier](https://prettier.io/)
-- [11ty](https://www.11ty.dev/)
-- [npm](https://www.npmjs.com/)
 - [Composer](https://getcomposer.org/) & [Packagist](https://packagist.org/)
 - [Image Optim](https://imageoptim.com/mac)
 - [SVGO](https://github.com/svg/svgo)
@@ -71,8 +68,7 @@ interested in what I use, there's a small list. Why I do this? I got the idea
 ## Programming languages
 
 - [CSS](https://www.w3.org/Style/CSS/) & [HTML](https://www.w3.org/html/)
-- [Javascript](http://www.ecma-international.org/) & [Node](https://nodejs.org/)
-  & [Deno](https://deno.land/)
+- [Javascript](http://www.ecma-international.org/) & [Deno](https://deno.land/)
 - [SVG](https://www.w3.org/Graphics/SVG/)
 - [PHP](https://www.php.net/)
 

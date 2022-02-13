@@ -20,8 +20,8 @@ alternate:
 
 ## —Fitos
 
-- [Tiven o meu propio estudio de deseño web](https://web.archive.org/web/20191203021950/http://v1.anavallasuiza.com/) con
-  outros 4 socios durante 8 anos.
+- [Tiven o meu propio estudio de deseño web](https://web.archive.org/web/20191203021950/http://v1.anavallasuiza.com/)
+  con outros 4 socios durante 8 anos.
 - Fun presidente da [Asociación Galega de Deseño.](https://dag.gal/gl)
 - [Gañei un premio Mestre Mateo,](https://www.academiagalegadoaudiovisual.gal/es/portfolio-item/vii-premios-mestre-mateo/)
   e outro no MIPTV de Cannes sen facer cine, senon deseño.
@@ -43,8 +43,8 @@ alternate:
 
 - Creei un [procesador de CSS](http://stylecow.github.io/) e non conseguín que
   fose popular.
-- [Montei unha empresa](https://web.archive.org/web/20191203021950/http://v1.anavallasuiza.com/) entre varios socios e non
-  conseguir facer o que queriamos facer.
+- [Montei unha empresa](https://web.archive.org/web/20191203021950/http://v1.anavallasuiza.com/)
+  entre varios socios e non conseguir facer o que queriamos facer.
 - Non sei falar inglés de maneira fluída (aínda).
 - Despois de varios intentos, non fun capaz de facer un bolo de pan de masa nai
   caseiro que se poida comer.
