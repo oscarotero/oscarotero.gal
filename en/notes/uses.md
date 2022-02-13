@@ -1,7 +1,7 @@
 ---
 lang: en
 key: uses
-title: Óscar Otero - The tools I use
+title: The tools I use
 url: /uses/
 alternate:
   gl: "https://oscarotero.gal/uses/"
