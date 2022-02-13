@@ -20,6 +20,8 @@ languages:
     menu: 
       - text: O que uso
         href: /uses/
+      - text: Inspiración
+        href: /inspiration/
 
   en:
     label: In English
@@ -29,3 +31,5 @@ languages:
     menu:
       - text: Uses
         href: /uses/
+      - text: Inspiration
+        href: /inspiration/
