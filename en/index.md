@@ -123,6 +123,10 @@ and many other internal work that I cannot share currently. This project started
 in 2019 and was presented
 [in this post in the **marketgoo** blog](https://www.marketgoo.com/blog-post/say-hello-to-ola-design-system/).
 
+### Lume
+
+In late 2020, I started the [Lume project](https://lume.land/), a static site generator built on top of Deno and inspired by other generators like Jekyll, Hugo or Eleventy. I use it for all web projects I work since then.
+
 ### Random
 
 - [Awesome design](https://github.com/oscarotero/awesome-design): A collection
@@ -177,7 +181,7 @@ in 2019 and was presented
 - I'm working as _product designer_ at [marketgoo](https://www.marketgoo.com/).
 - I'm the maintaner, with **Miguel Calvo**, of the
   [project HA!](https://historia-arte.com/).
-- I'm developing 🔥 [Lume](https://lumeland.github.io/), a static site generator
+- I'm the maintainer of 🔥 [Lume](https://lume.land), a static site generator
   for Deno.
 - And designing the new web for the typographic studio
   [NM type](http://www.nmtype.com/)
