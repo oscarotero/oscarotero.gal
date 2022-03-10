@@ -126,6 +126,8 @@ comezou en 2019 e foi presentado
 
 ### Conferencias
 
+- **Deseño web** - CPI Alcalde Xosé Pichel, Coristanco 2022\
+  ([slides en PDF](/keynotes/desenho-web.pdf))
 - **O redeseño de HA!** - Asemblea DAG, Ourense 2019\
   ([slides en PDF](/keynotes/ha.pdf))
 - **Sistemas de deseño** - Meetup WordPress, Lugo 2019\
