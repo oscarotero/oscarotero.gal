@@ -138,10 +138,19 @@ comezou en 2019 e foi presentado
 
 ### Lume
 
-A finais do 2020 comecei [o proxecto Lume](https://lume.land/), un xerador de páxinas estáticas creado en Deno e inspirado noutros xeradores existentes como Jekyll, Hugo ou Eleventy. Utilízoo practicamente para todos os proxectos de web que fago dende entón. Se queres saber máis sobre a miña experiencia creando un proxecto de código aberto, [teño un artigo explicándoo](/notas/un-ano-de-lume/).
+A finais do 2020 comecei [o proxecto Lume](https://lume.land/), un xerador de
+páxinas estáticas creado en Deno e inspirado noutros xeradores existentes como
+Jekyll, Hugo ou Eleventy. Utilízoo practicamente para todos os proxectos de web
+que fago dende entón. Se queres saber máis sobre a miña experiencia creando un
+proxecto de código aberto, [teño un artigo explicándoo](/notas/un-ano-de-lume/).
 
 ### Random
 
+- [NM type](http://www.nmtype.com/): Deseño e desenvolvemento da web para este
+  estudio tipográfico formado por María Ramos (Galicia) e Noel Pretorius
+  (Suecia).
+- Referencias online para [jQuery](https://oscarotero.com/jquery/) e
+  [Deno](https://oscarotero.com/deno/)
 - [Awesome design](https://github.com/oscarotero/awesome-design): Colección de
   recursos de código aberto para deseño web.
 - [Awesome talks](https://github.com/oscarotero/awesome-talks): Colección de
@@ -195,9 +204,7 @@ A finais do 2020 comecei [o proxecto Lume](https://lume.land/), un xerador de p�
 - Traballo como _product designer_ en [marketgoo](https://www.marketgoo.com/).
 - Manteño, xunto con **Miguel Calvo**, o
   [proxecto HA!](https://historia-arte.com/).
-- Manteño 🔥 [Lume](https://lume.land), un xerador de páxinas
-  estáticas para Deno.
-- E deseñando a nova web para o estudio tipográfico
-  [NM type](http://www.nmtype.com/)
+- Manteño 🔥 [Lume](https://lume.land), un xerador de páxinas estáticas para
+  Deno.
 - De vez en cando son profesor de CSS e HTML en
   [Hack a Boss](https://hackaboss.com/)

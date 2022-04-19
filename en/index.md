@@ -125,10 +125,16 @@ in 2019 and was presented
 
 ### Lume
 
-In late 2020, I started the [Lume project](https://lume.land/), a static site generator built on top of Deno and inspired by other generators like Jekyll, Hugo or Eleventy. I use it for all web projects I work since then.
+In late 2020, I started the [Lume project](https://lume.land/), a static site
+generator built on top of Deno and inspired by other generators like Jekyll,
+Hugo or Eleventy. I use it for all web projects I work since then.
 
 ### Random
 
+- [NM type](http://www.nmtype.com/): Design and development of the web for this
+  typographic studio created by María Ramos (Spain) and Noel Pretorius (Sweden).
+- Online cheat sheets for [jQuery](https://oscarotero.com/jquery/) and
+  [Deno](https://oscarotero.com/deno/)
 - [Awesome design](https://github.com/oscarotero/awesome-design): A collection
   of open source resources for web designers.
 - [Awesome talks](https://github.com/oscarotero/awesome-talks): Collection of
@@ -181,8 +187,6 @@ In late 2020, I started the [Lume project](https://lume.land/), a static site ge
 - I'm working as _product designer_ at [marketgoo](https://www.marketgoo.com/).
 - I'm the maintaner, with **Miguel Calvo**, of the
   [project HA!](https://historia-arte.com/).
-- I'm the maintainer of 🔥 [Lume](https://lume.land), a static site generator
-  for Deno.
-- And designing the new web for the typographic studio
-  [NM type](http://www.nmtype.com/)
+- I'm the maintainer of 🔥 [Lume](https://lume.land), a static site generator for
+  Deno.
 - Occasionally I teach CSS and HTML at [Hack a Boss](https://hackaboss.com/)
