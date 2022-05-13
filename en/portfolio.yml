@@ -1,13 +1,14 @@
 layout: portfolio.njk
 lang: en
 key: home
-title: Óscar Otero - Portfolio
+title: Portfolio
 url: /portfolio/
 alternate:
   gl: "https://oscarotero.gal/portfolio"
 
+tags: notes
 header:
-  title: My portfolio<br>as digital designer
+  title: Óscar Otero<br>digital designer
 
 portfolio:
   - title: Badger (wip)
@@ -21,7 +22,7 @@ portfolio:
   - title: NM type
     subtitle: Web design & development — 2021 — [nmtype.com](https://nmtype.com)
     description: |
-      I've collaborated with NM type —a digital type foundry based in Sweden and Spain— to create a new website. It should be a pure typographic interface, without unnecessary icons or fancy shadows and everything in black & white (and a bit of gray).
+      I've collaborated with NM type —a digital type foundry based in Sweden and Spain— to create its new website. A pure typographic interface, without unnecessary icons or fancy shadows and everything in black & white (with a bit of gray).
     images:
       - src: /portfolio/nmtype/home.webp
       - src: /portfolio/nmtype/specimen.webp

@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 htmlClass: "is-portfolio"
+script: "/scripts/portfolio.js"
 ---
 
 <h1>{{ header.title | safe }}</h1>
@@ -13,7 +14,12 @@ htmlClass: "is-portfolio"
 
   {{ project.description | md | safe }}
 
-  <oom-carousel>
+  <oom-carousel-navigation for="carousel-{{ loop.index }}">
+    <button type="button" value="-1" aria-label="Previous">←</button>
+    <button type="button" value="+1" aria-label="Next">→</button>
+  </oom-carousel-navigation>
+
+  <oom-carousel id="carousel-{{ loop.index }}" aria-label="Images for this project" role="region" tabindex="0">
     {% for image in project.images %}
     <figure>
       <img src="{{ image.src }}" alt="{{ image.alt }}" />

@@ -9,9 +9,11 @@ site.copy("assets", "")
   .copy("keynotes")
   .copy("fonts")
   .copy("logos")
+  .copy("scripts")
+  .copy("vendor")
   .use(imagick())
   .use(parcelCSS())
-  .data("index", "/gl/")
+  .data("cache", Date.now())
   .ignore("README.md")
   .ignore(site.options.location.host === "oscarotero.com" ? "gl" : "en");
 

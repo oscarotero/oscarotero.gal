@@ -39,7 +39,7 @@ body {
   font-size: clamp(.9em, 4vmin, 1.2em);
   line-height: 1.45;
 
-  & > :is(h1, h2, h3, h4, h5, h6, p, ul, ol, header, footer, section, blockquote, article, hr) {
+  & > :is(h1, h2, h3, h4, h5, h6, p, ul, ol, header, footer, section, blockquote, article, oom-carousel-navigation, hr) {
     margin-left: 8%;
     width: 84%;
     max-width: 28rem;
@@ -146,6 +146,7 @@ html.is-portfolio {
   --background: hsl(220deg, 20%, 10%);
   --color: hsl(220deg, 20%, 90%);
   --dim: hsl(220deg, 20%, 65%);
+  --bgdim: hsl(220deg, 20%, 25%);
 
   text-rendering: auto;
   overflow-wrap: break-word;
@@ -180,10 +181,34 @@ html.is-portfolio {
     margin-top: min(20vh, 200px);
   }
 }
+oom-carousel-navigation {
+  display: flex;
+  color: var(--dim);
+  margin: 2rem 0;
+}
+button {
+  background: none;
+  color: inherit;
+  border: solid 2px;
+  font-size: 2rem;
+  cursor: pointer;
+
+  & + button {
+    margin-left: -2px;
+  }
+
+  &:hover {
+    background: var(--bgdim);
+  }
+  &:disabled {
+    cursor: default;
+    opacity: .1;
+  }
+}
+
 oom-carousel {
   overflow-x: scroll;
   display: flex;
-  scroll-snap-type: x mandatory;
   -webkit-overflow-scrolling: touch;
   scrollbar-width: none;
   column-gap: 2rem;
@@ -194,9 +219,13 @@ oom-carousel {
   padding-right: 8%;
   margin-top: 2rem;
 
+  @media (max-width: 1200px) {
+    scroll-snap-type: x mandatory;
+  }
+
   @media (min-width: 700px) {
     padding-left: calc(8% + 48px + 1rem);
-    padding-right: calc(8% + 48px + 1rem);
+    padding-right: 2rem;
   }
 
   &::-webkit-scrollbar {
@@ -206,11 +235,15 @@ oom-carousel {
   & figure {
     margin: 0;
     padding: 0;
-    /* scroll-snap-align: center; */
+    scroll-snap-align: center;
   }
 
   & img {
-    max-width: 90vw;
-    width: 500px;
+    max-width: calc(84vw);
+    width: 800px;
+
+    @media (min-width: 700px) {
+      max-width: calc(92vw - (60px + 2rem));
+    }
   }
 }

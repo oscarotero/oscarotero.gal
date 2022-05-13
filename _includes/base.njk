@@ -22,7 +22,11 @@
     <script type="application/ld+json">
       {"url":"https://oscarotero.com/","headline":"Óscar Otero - Web designer and developer","name":"Oscar Otero","author":{"@type":"Person","name":"Oscar Otero"},"description":"I’m just a designer and web developer","@type":"WebSite","@context":"https://schema.org"}
     </script>
-    <link rel="stylesheet" href="/styles.css">
+    <link rel="stylesheet" href="/styles.css?cache={{ cache }}">
+
+    {% if script %}
+    <script type="module" src="{{ script }}?cache={{ cache }}"></script>
+    {% endif %}
   </head>
 
   <body>
