@@ -1,0 +1,23 @@
+---
+layout: base.njk
+htmlClass: "is-portfolio"
+---
+
+<h1>{{ header.title | safe }}</h1>
+
+{% for project in portfolio %}
+  <header>
+    <h2>{{ project.title }}</h2>
+    {{ project.subtitle | md | safe}}
+  </header>
+
+  {{ project.description | md | safe }}
+
+  <oom-carousel>
+    {% for image in project.images %}
+    <figure>
+      <img src="{{ image.src }}" alt="{{ image.alt }}" />
+    </figure>
+    {% endfor %}
+  </oom-carousel>
+{% endfor %}

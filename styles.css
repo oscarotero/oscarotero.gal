@@ -24,17 +24,37 @@
 }
 html {
   overflow-x: hidden;
+  --background: white;
+  --color: black;
+  --dim: black;
+
+  background: var(--background);
+  color: var(--color);
 }
 body {
-  max-width: 28em;
-  margin-top: calc(8vmax + 48px);
-  margin-bottom: 5vmax;
-  margin-left: 8%;
-  margin-right: auto;
-  width: 84%;
+  margin: 0;
+  padding-top: calc(8vmax + 48px);
+  padding-bottom: 5vmax;
   font-family: Atlantica, Palatino, 'Palatino Linotype', Times, "Droid Serif", serif;
   font-size: clamp(.9em, 4vmin, 1.2em);
   line-height: 1.45;
+
+  & > :is(h1, h2, h3, h4, h5, h6, p, ul, ol, header, footer, section, blockquote, article, hr) {
+    margin-left: 8%;
+    width: 84%;
+    max-width: 28rem;
+
+    @media (min-width: 700px) {
+      margin-left: calc(8% + 48px + 1rem);
+    }
+  }
+  @media (min-width: 700px) {
+    padding-top: calc(5vmax - .25rem);
+  }
+
+  & > h1 {
+    margin-top: 0;
+  }
 }
 h1 {
   font-size: 2em;
@@ -72,10 +92,10 @@ li {
 }
 hr {
   border: none;
-  border-top: solid 3px;
+  border-top: solid 2px;
   margin: 3rem 0;
-  color: currentColor;
-  width: 3em;
+  color: var(--dim);
+  width: 3em !important;
 }
 
 .logo {
@@ -86,19 +106,18 @@ hr {
   left: 8%;
   top: 5vmax;
   border-radius: 50%;
+
+  & g {
+    stroke: var(--color);
+    fill: var(--background);
+  }
+
+  @media (min-width: 700px) {
+    position: fixed;
+  }
 }
 svg {
   display: block;
-}
-
-@media (min-width: 700px) {
-  body {
-    margin-left: calc(8% + 48px + 1em);
-    margin-top: calc(5vmax - .25em);
-  }
-  .logo {
-    position: fixed;
-  }
 }
 
 footer p {
@@ -120,5 +139,78 @@ footer p {
     height: 1600px;
     background: radial-gradient(circle closest-side, hsl(240deg 100% 85%), white);
     mix-blend-mode: multiply;
+  }
+}
+
+html.is-portfolio {
+  --background: hsl(220deg, 20%, 10%);
+  --color: hsl(220deg, 20%, 90%);
+  --dim: hsl(220deg, 20%, 65%);
+
+  text-rendering: auto;
+  overflow-wrap: break-word;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+
+  & a {
+    color: var(--dim);
+  }
+
+  /* Degradado chorra */
+  & body {
+    background: none;
+    &::before {
+      display: none;
+    }
+  }
+
+  & header ~ p {
+    color: var(--dim);
+    font-family: system-ui, sans-serif;
+    font-size: 1rem;
+  }
+  & header {
+    & p,
+    & h2 {
+      margin: 0;
+    }
+
+  }
+  & header {
+    margin-top: min(20vh, 200px);
+  }
+}
+oom-carousel {
+  overflow-x: scroll;
+  display: flex;
+  scroll-snap-type: x mandatory;
+  -webkit-overflow-scrolling: touch;
+  scrollbar-width: none;
+  column-gap: 2rem;
+  padding-right: 2rem;
+  position: relative;
+  z-index: 2;
+  padding-left: 8%;
+  padding-right: 8%;
+  margin-top: 2rem;
+
+  @media (min-width: 700px) {
+    padding-left: calc(8% + 48px + 1rem);
+    padding-right: calc(8% + 48px + 1rem);
+  }
+
+  &::-webkit-scrollbar {
+    display: none;
+  }
+
+  & figure {
+    margin: 0;
+    padding: 0;
+    /* scroll-snap-align: center; */
+  }
+
+  & img {
+    max-width: 90vw;
+    width: 500px;
   }
 }

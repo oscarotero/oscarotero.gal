@@ -1,12 +1,16 @@
 import lume from "lume/mod.ts";
+import imagick from "lume/plugins/imagick.ts";
+import parcelCSS from "lume/plugins/parcel_css.ts";
+import gpm from "https://deno.land/x/gpm@v0.5.0/mod.ts";
 
 const site = lume();
 
 site.copy("assets", "")
   .copy("keynotes")
-  .copy("styles.css")
   .copy("fonts")
   .copy("logos")
+  .use(imagick())
+  .use(parcelCSS())
   .data("index", "/gl/")
   .ignore("README.md")
   .ignore(site.options.location.host === "oscarotero.com" ? "gl" : "en");
@@ -24,5 +28,7 @@ site.script(
 );
 
 site.script("deploy", "deploy:gal", "deploy:com");
+
+site.addEventListener("beforeBuild", () => gpm(["oom-components/carousel"]));
 
 export default site;

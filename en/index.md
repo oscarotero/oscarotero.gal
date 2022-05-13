@@ -1,7 +1,7 @@
 ---
 lang: en
 key: home
-title: Óscar Otero - Web designer and developer
+title: Óscar Otero - Digital designer and developer
 url: /
 alternate:
   gl: "https://oscarotero.gal/"

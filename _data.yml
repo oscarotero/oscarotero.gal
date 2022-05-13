@@ -1,5 +1,3 @@
-layout: base.njk
-footer: true
 links:
   - text: Email
     href: 'mailto:oom@oscarotero.com'
@@ -15,7 +13,7 @@ languages:
     label: En Galego
     base: https://oscarotero.gal
     copy: |
-     © Óscar Otero, 2021  
+     © Óscar Otero, 2022.  
      Grazas a Marcos Dopico pola tipografía [Atlantica Serif](https://maistypes.cargo.site/Atlantica-Text).
     menu: 
       - text: O que uso
@@ -26,7 +24,7 @@ languages:
   en:
     label: In English
     copy: |
-     © Óscar Otero, 2021  
+     © Óscar Otero, 2022.  
      Thanks to Marcos Dopico for the font [Atlantica Serif](https://maistypes.cargo.site/Atlantica-Text).
     menu:
       - text: Uses
