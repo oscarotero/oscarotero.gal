@@ -14,7 +14,7 @@ languages:
     base: https://oscarotero.gal
     copy: |
      © Óscar Otero, 2022.  
-     Grazas a Marcos Dopico pola tipografía [Atlantica Serif](https://maistypes.cargo.site/Atlantica-Text).
+     Grazas a Marcos Dopico pola tipografía [Atlantica Serif](http://maistypes.com/).
     menu: 
       - text: O que uso
         href: /uses/
@@ -25,7 +25,7 @@ languages:
     label: In English
     copy: |
      © Óscar Otero, 2022.  
-     Thanks to Marcos Dopico for the font [Atlantica Serif](https://maistypes.cargo.site/Atlantica-Text).
+     Thanks to Marcos Dopico for the font [Atlantica Serif](http://maistypes.com/).
     menu:
       - text: Uses
         href: /uses/

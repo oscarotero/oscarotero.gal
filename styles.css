@@ -155,6 +155,11 @@ html.is-portfolio {
 
   & a {
     color: var(--dim);
+
+    &:focus {
+      background-color: black;
+      box-shadow: none;
+    }
   }
 
   /* Degradado chorra */
