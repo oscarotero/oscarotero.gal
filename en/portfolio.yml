@@ -16,10 +16,11 @@ portfolio:
     description: |
       Badger is a new product from **marketgoo** to generate and share SEO reports for agencies and professional freelances.
       
-      It's still in progress. These are the early mockups:
+      It's still in progress. Some early mockups:
     images:
       - src: /portfolio/badger/badger-ui.webp
       - src: /portfolio/badger/new-project.webp
+      - src: /portfolio/badger/mockup.webp
       - src: /portfolio/badger/explore.webp
       - src: /portfolio/badger/settings.webp
 
