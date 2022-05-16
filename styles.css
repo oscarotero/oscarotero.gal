@@ -197,6 +197,7 @@ button {
   border: solid 2px;
   font-size: 2rem;
   cursor: pointer;
+  font-family: inherit;
 
   & + button {
     margin-left: -2px;
@@ -208,6 +209,13 @@ button {
   &:disabled {
     cursor: default;
     opacity: .1;
+  }
+  &:focus {
+    outline: 0;
+    z-index: 2;
+  }
+  &:focus-visible {
+    border-color: white;
   }
 }
 
@@ -246,9 +254,17 @@ oom-carousel {
   & img {
     max-width: calc(84vw);
     width: 800px;
+    display: block;
 
     @media (min-width: 700px) {
       max-width: calc(92vw - (60px + 2rem));
     }
+  }
+
+  &:focus {
+    outline: 0;
+  }
+  &:focus-visible {
+    background-color: var(--bgdim);
   }
 }
