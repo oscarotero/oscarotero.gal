@@ -166,6 +166,8 @@ proxecto de código aberto, [teño un artigo explicándoo](/notas/un-ano-de-lume
   2020 que logo se cancelou para facer a versión «Sofá edition»,
   [Tarugo20 - Sofá edition](https://tarugoconf.github.io/tarugose/) e
   [Tarugo21](https://tarugo21.netlify.app/).
+- De vez en cando son profesor de CSS e HTML en
+  [Hack a Boss](https://hackaboss.com/)
 
 ### Código
 
@@ -202,9 +204,7 @@ proxecto de código aberto, [teño un artigo explicándoo](/notas/un-ano-de-lume
 ## Que estou facendo agora?
 
 - Traballo como _product designer_ en [marketgoo](https://www.marketgoo.com/).
-- Manteño, xunto con **Miguel Calvo**, o
+- Creei e manteño, xunto con **Miguel Calvo**, o
   [proxecto HA!](https://historia-arte.com/).
-- Manteño 🔥 [Lume](https://lume.land), un xerador de páxinas estáticas para
-  Deno.
-- De vez en cando son profesor de CSS e HTML en
-  [Hack a Boss](https://hackaboss.com/)
+- Creei e manteño 🔥 [Lume](https://lume.land), un xerador de páxinas estáticas
+  para Deno.

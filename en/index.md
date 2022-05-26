@@ -150,6 +150,7 @@ Hugo or Eleventy. I use it for all web projects I work since then.
   because Covid,
   [Tarugo20 - Sofá edition](https://tarugoconf.github.io/tarugose/) and
   [Tarugo21](https://tarugo21.netlify.app/).
+- Occasionally I teach CSS and HTML at [Hack a Boss](https://hackaboss.com/)
 
 ### Code
 
@@ -185,8 +186,7 @@ Hugo or Eleventy. I use it for all web projects I work since then.
 ## What am I doing now?
 
 - I'm working as _product designer_ at [marketgoo](https://www.marketgoo.com/).
-- I'm the maintaner, with **Miguel Calvo**, of the
+- I'm the creator and maintaner, with **Miguel Calvo**, of the
   [project HA!](https://historia-arte.com/).
-- I'm the maintainer of 🔥 [Lume](https://lume.land), a static site generator for
-  Deno.
-- Occasionally I teach CSS and HTML at [Hack a Boss](https://hackaboss.com/)
+- I'm the creator and maintainer of 🔥 [Lume](https://lume.land), a static site
+  generator for Deno.
