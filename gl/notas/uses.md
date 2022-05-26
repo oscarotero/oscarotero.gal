@@ -26,7 +26,7 @@ Por que fago isto? collín a idea
 - [DuckDuckGo](https://duckduckgo.com/)
 - [Rectangle](https://rectangleapp.com/)
 - [Notion](https://www.notion.so/)
-- [Basecamp](https://basecamp.com/)
+- [ClickUp](https://clickup.com/)
 - [Slack](http://slack.com/)
 - [uBlock Origin](https://github.com/gorhill/uBlock)
 - [Todoist](https://todoist.com/)
@@ -57,11 +57,11 @@ Por que fago isto? collín a idea
 ## Ferramentas
 
 - [ohmyzsh](https://ohmyz.sh/)
+- [Fig](https://fig.io/)
 - [Homebrew](https://brew.sh/)
-- [lume](https://lumeland.github.io/)
+- [Lume](https://lume.land/)
 - [postcss](https://postcss.org/)
 - [Composer](https://getcomposer.org/) & [Packagist](https://packagist.org/)
-- [Image Optim](https://imageoptim.com/mac)
 - [SVGO](https://github.com/svg/svgo)
 - [Caniuse](https://caniuse.com/)
 - [MDN](https://developer.mozilla.org/)
@@ -79,6 +79,7 @@ Por que fago isto? collín a idea
 - [Digital Ocean](https://www.digitalocean.com/)
 - [Hetzner](https://www.hetzner.com/)
 - [Netlify](https://www.netlify.com/)
+- [Deno Deploy](https://deno.com/deploy)
 
 ## Ocio
 

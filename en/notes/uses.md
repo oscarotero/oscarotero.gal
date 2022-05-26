@@ -15,17 +15,17 @@ interested in what I use, there's a small list. Why I do this? I got the idea
 
 ## Hardware
 
-- iMac 27" 5k (finais do 2015)
-- MacBook Pro 13" (2017) cun monitor LG 27UK850 27" 4K
+- iMac 27" 5k (end of 2015)
+- MacBook Pro 13" (2017) connected to a LG 27UK850 27" 4K
 - Xiaomi Mi A1 AndroidOne
-- Silla IKEA Markus
+- Chair IKEA Markus
 
 ## Productivity & communication
 
 - [DuckDuckGo](https://duckduckgo.com/)
 - [Rectangle](https://rectangleapp.com/)
 - [Notion](https://www.notion.so/)
-- [Basecamp](https://basecamp.com/)
+- [ClickUp](https://clickup.com/)
 - [Slack](http://slack.com/)
 - [uBlock Origin](https://github.com/gorhill/uBlock)
 - [Todoist](https://todoist.com/)
@@ -56,11 +56,11 @@ interested in what I use, there's a small list. Why I do this? I got the idea
 ## Tooling
 
 - [ohmyzsh](https://ohmyz.sh/)
+- [Fig](https://fig.io/)
 - [Homebrew](https://brew.sh/)
-- [lume](https://lumeland.github.io/)
+- [Lume](https://lume.land/)
 - [postcss](https://postcss.org/)
 - [Composer](https://getcomposer.org/) & [Packagist](https://packagist.org/)
-- [Image Optim](https://imageoptim.com/mac)
 - [SVGO](https://github.com/svg/svgo)
 - [Caniuse](https://caniuse.com/)
 - [MDN](https://developer.mozilla.org/)
@@ -78,6 +78,7 @@ interested in what I use, there's a small list. Why I do this? I got the idea
 - [Digital Ocean](https://www.digitalocean.com/)
 - [Hetzner](https://www.hetzner.com/)
 - [Netlify](https://www.netlify.com/)
+- [Deno Deploy](https://deno.com/deploy)
 
 ## Fun
 
