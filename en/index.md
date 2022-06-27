@@ -43,10 +43,9 @@ alternate:
 
 ## —Failures
 
-- I've created a [CSS processor](http://stylecow.github.io/) and wasn't be able
-  to make it popular.
-- [I've started a company](https://web.archive.org/web/20191203021950/http://v1.anavallasuiza.com/)
-  with other partners and we weren't able to do what we wanted.
+- I created a [CSS processor](http://stylecow.github.io/) but it wasn't popular.
+- [I started a company](https://web.archive.org/web/20191203021950/http://v1.anavallasuiza.com/)
+  with other partners but unfortunately we weren't able to do what we wanted.
 - I cannot speak fluid english (yet).
 - After many attempts, I'm not able to make a homemade dough bread.
 - I didn't make a beautiful personal website.
