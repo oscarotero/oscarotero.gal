@@ -143,31 +143,26 @@ Hugo or Eleventy. I use it for all web projects I work since then.
   Trello, etc).
   ([Sketch prototype](https://www.sketch.com/s/f46f510c-9f81-432b-be97-8b71d968f526),
   [chipi.io](https://chipi.io/#/))
-- I'm the designer (together with David Bonilla and Hugo Tobio) and developer of
-  the sites for the latest editions of the Tarugoconf:
-  [Tarugo5](https://tarugoconf.github.io/tarugo5/) - 2020 edition canceled
-  because Covid,
-  [Tarugo20 - Sofá edition](https://tarugoconf.github.io/tarugose/) and
-  [Tarugo21](https://tarugo21.netlify.app/).
-- Occasionally I teach CSS and HTML at [Hack a Boss](https://hackaboss.com/)
+- I'm the co-designer (together with David Bonilla and Hugo Tobio) and developer
+  of the sites for the latest editions of the
+  [Tarugoconf](https://tarugoconf.com): Tarugoconf Sofá edition, Tarugo21 and
+  Tarugo22. ([See the code](https://github.com/tarugoconf/)).
+- I had been CSS & HTML teacher at [Hack a Boss](https://hackaboss.com/)
 
 ### Code
 
-- I've created
-  [a plugin for Figma](https://www.figma.com/community/plugin/1001444625792698603/marketgoo-copies)
+- [Lume](https://lume.land), a static site generator for Deno.
+- [A plugin for Figma](https://www.figma.com/community/plugin/1001444625792698603/marketgoo-copies)
   to work with copies using Google Spreadsheets documents
-  ([code](https://github.com/marketgoo/figma-copies)).
-  - Previously I had created
-    [the same plugin for Sketch](https://github.com/marketgoo/sketch-copies),
-    before change to Figma.
-- I've created
-  [a collection of PHP _middlewares_](https://github.com/middlewares).
-- [PHP-Gettext](https://github.com/php-gettext): The most popular PHP library to
-  work with Gettext.
-- And more PHP projects: [Embed](https://github.com/oscarotero/Embed) (to get
-  info from any web service or page),
+  ([code](https://github.com/marketgoo/figma-copies)). Previously I had created
+  [the same plugin for Sketch](https://github.com/marketgoo/sketch-copies).
+- Some PHP projects: [PHP middlewares](https://github.com/middlewares) (a
+  collection of PSR-15 HTTP middlewares),
+  [PHP-Gettext](https://github.com/php-gettext), (a popular PHP library to work
+  with Gettext), [Embed](https://github.com/oscarotero/Embed) (to get info from
+  any web service or page),
   [SimpleCrud](https://github.com/oscarotero/simple-crud) (easy and magic CRUD
-  in SQL databases) or [FormManager](https://github.com/oscarotero/form-manager)
+  in SQL databases), [FormManager](https://github.com/oscarotero/form-manager)
   (to create and validate form data).
 - Several Node tools like
   [node-sketch](https://github.com/oscarotero/node-sketch) (read and edit Sketch

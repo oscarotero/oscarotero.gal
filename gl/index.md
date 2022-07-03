@@ -161,12 +161,10 @@ proxecto de código aberto, [teño un artigo explicándoo](/notas/un-ano-de-lume
   ([Prototipo en sketch](https://www.sketch.com/s/f46f510c-9f81-432b-be97-8b71d968f526),
   [Páxina web](https://chipi.io/#/))
 - Co-deseñei (xunto a David Bonilla e Hugo Tobio) e programei as webs das
-  últimas edicións da Tarugoconf:
-  [Tarugo5](https://tarugoconf.github.io/tarugo5/) - A que iba ser a edición de
-  2020 que logo se cancelou para facer a versión «Sofá edition»,
-  [Tarugo20 - Sofá edition](https://tarugoconf.github.io/tarugose/) e
-  [Tarugo21](https://tarugo21.netlify.app/).
-- De vez en cando son profesor de CSS e HTML en
+  últimas edicións da [Tarugoconf](https://tarugoconf.com): Tarugoconf Sofá
+  edition, Tarugo21 e Tarugo22.
+  ([Repositorios en GitHub](https://github.com/tarugoconf/)).
+- Durante un tempo fun profesor de CSS e HTML en
   [Hack a Boss](https://hackaboss.com/)
 
 ### Código
@@ -174,18 +172,15 @@ proxecto de código aberto, [teño un artigo explicándoo](/notas/un-ano-de-lume
 - Fixen
   [un plugin de Figma](https://www.figma.com/community/plugin/1001444625792698603/marketgoo-copies)
   para traballar con textos dende arquivos de Google Spreadsheets
-  ([código](https://github.com/marketgoo/figma-copies)).
-  - Anteriormente fixera
-    [o mesmo plugin para Sketch](https://github.com/marketgoo/sketch-copies),
-    antes de mudar a Figma.
-- Creador [dunha colección de _middlewares_](https://github.com/middlewares)
-  para PHP.
-- [PHP-Gettext](https://github.com/php-gettext): Conxunto de ferramentas en PHP
-  para traballar con Gettext.
-- Máis cousas en PHP como [Embed](https://github.com/oscarotero/Embed) (para
+  ([código](https://github.com/marketgoo/figma-copies)). Anteriormente fixera
+  [o mesmo plugin para Sketch](https://github.com/marketgoo/sketch-copies).
+- Cousas en PHP: [Middlewares](https://github.com/middlewares) (Colección de
+  _middlewares_ en formato PSR-15),
+  [PHP-Gettext](https://github.com/php-gettext) (conxunto de ferramentas para
+  traballar con Gettext), [Embed](https://github.com/oscarotero/Embed) (para
   escanear e recoller datos de webs),
   [SimpleCrud](https://github.com/oscarotero/simple-crud) (para realizar
-  operación CRUD en base de datos) ou
+  operación CRUD en base de datos),
   [FormManager](https://github.com/oscarotero/form-manager) (para crear e
   validar datos en formularios).
 - Varias ferramentas en Node como

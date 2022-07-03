@@ -3,6 +3,7 @@
   "tasks": {
     "build": "deno task lume",
     "serve": "deno task lume -s",
+    "serve:english": "deno task serve --location=https://oscarotero.com",
     "lume": "deno eval \"import 'lume/task.ts'\" --"
   }
 }
