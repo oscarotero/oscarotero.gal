@@ -131,13 +131,11 @@ Hugo or Eleventy. I use it for all web projects I work since then.
 ### Random
 
 - [NM type](http://www.nmtype.com/): Design and development of the web for this
-  typographic studio created by María Ramos (Spain) and Noel Pretorius (Sweden).
+  typographic studio founded by María Ramos (Spain) and Noel Pretorius (Sweden).
 - Online cheat sheets for [jQuery](https://oscarotero.com/jquery/) and
   [Deno](https://oscarotero.com/deno/)
 - [Awesome design](https://github.com/oscarotero/awesome-design): A collection
   of open source resources for web designers.
-- [Awesome talks](https://github.com/oscarotero/awesome-talks): Collection of
-  videos of design talks in galician and spanish.
 - [Chipi](https://oscarotero.github.io/chipi-client/): Design and interactive
   prototype for a desktop app to search in any service (Slack, Google Docs,
   Trello, etc).
