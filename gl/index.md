@@ -24,15 +24,15 @@ alternate:
   con outros 4 socios durante 8 anos.
 - Fun presidente da [Asociación Galega de Deseño.](https://dag.gal/gl)
 - [Gañei un premio Mestre Mateo,](https://www.academiagalegadoaudiovisual.gal/es/portfolio-item/vii-premios-mestre-mateo/)
-  e outro no MIPTV de Cannes sen facer cine, senon deseño.
+  e outro no MIPTV de Cannes sen facer cine, senón deseño.
 - Conseguín máis de 1000 _stars_
   [nun repositorio de Github](https://github.com/oscarotero/Embed).
-- Fun a Estambul a dar un taller de _open video_ en inglés e conseguir que os
-  alumnos me entenderan.
+- Fun dar a Estambul un taller de _open video_ en inglés e conseguín que os
+  alumnos me entendesen.
 - [Compartín cartel](https://dag.gal/gl/feed2015/) con Javier Cañada, Álvaro
   Valiño, Raquel Pelta, Pepe Barro e moitos outros grandes profesionais falando
   de web e interactividade.
-- Estudiei letras puras (latín e grego) para acabar nun grupo de traballo do
+- Estudei letras puras (latín e grego) e acabei nun grupo de traballo do
   PHP-FIG discutindo con enxeñeiros sobre un novo estándar de PHP
   [Http Middlewares](https://www.php-fig.org/psr/psr-15/meta/).
 - Fun membro dun xurado onde se
@@ -44,9 +44,9 @@ alternate:
 - Creei un [procesador de CSS](http://stylecow.github.io/) e non conseguín que
   fose popular.
 - [Montei unha empresa](https://web.archive.org/web/20191203021950/http://v1.anavallasuiza.com/)
-  entre varios socios e non conseguir facer o que queriamos facer.
+  entre varios socios e non conseguimos facer o que queriamos facer.
 - Non sei falar inglés de maneira fluída (aínda).
-- Despois de varios intentos, non fun capaz de facer un bolo de pan de masa nai
+- Despois de varias tentativas, non fun capaz de facer un bolo de pan de masa de fermentación lenta
   caseiro que se poida comer.
 - Non teño unha web persoal bonita.
 
