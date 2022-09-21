@@ -12,7 +12,7 @@ alternate:
 ## —Superpoderes
 
 - Saber escoitar.
-- Dividir un problema complexo en varios máis pequenos e sinxelos.
+- Dividir un problema complexo en varios máis pequenos e simples.
 - Comunicarme con programadores e axudalos a construír a mellor interface
   posible.
 - Combinar tipografías e cores.
@@ -30,13 +30,13 @@ alternate:
 - Fun dar a Estambul un taller de _open video_ en inglés e conseguín que os
   alumnos me entendesen.
 - [Compartín cartel](https://dag.gal/gl/feed2015/) con Javier Cañada, Álvaro
-  Valiño, Raquel Pelta, Pepe Barro e moitos outros grandes profesionais falando
-  de web e interactividade.
+  Valiño, Raquel Pelta, Pepe Barro e moitos outros grandes profesionais nun foro
+  sobre a web e a interactividade.
 - Estudei letras puras (latín e grego) e acabei nun grupo de traballo do
   PHP-FIG discutindo con enxeñeiros sobre un novo estándar de PHP
   [Http Middlewares](https://www.php-fig.org/psr/psr-15/meta/).
-- Fun membro dun xurado onde se
-  [valoraron traballos presentados](https://www.youtube.com/watch?v=dDnsVNcoiq8)
+- Fun membro dun xurado que
+  [tivo que valorar traballos presentados](https://www.youtube.com/watch?v=dDnsVNcoiq8)
   por premios nacionais de deseño.
 
 ## —Fracasos
@@ -56,7 +56,7 @@ alternate:
 
 ### Conxeito
 
-Boletín que saquei durante a época máis dura da pandemia da Covid. Dende aqui
+Boletín que lancei durante a época máis dura da pandemia da Covid. Desde aquí
 podes acceder a todos os números:
 
 - [#001 — Benvida](http://eepurl.com/gWhDcn) — _20 de marzo 2020_
@@ -104,7 +104,7 @@ fun documentando todo o proceso nunha serie de posts escritos en tempo real.
 - [Parte 7 — Rompendo algunhas regras](https://medium.com/@misteroom/redese%C3%B1o-ha-parte-7-rompendo-algunhas-reglas-333335722946)
   — _27 de xullo 2018_
 
-Este proxecto ademáis tivo varios recoñecementos:
+Este proxecto ademais tivo varios recoñecementos:
 
 - [Awwwards — Mobile site of the week](https://www.awwwards.com/mobile-sites/ha)
 - [Awwwards — Mobile excelence](https://www.awwwards.com/sites/ha/mobile-excellence-report)
@@ -120,7 +120,7 @@ axudei na súa implementación con esta
 [colección de compoñentes para React](https://marketgoo.github.io/Ola/), para o
 email
 [cunha colección de compoñentes para MJML](https://github.com/marketgoo/Ola-Emails)
-e moitas aplicación internas que non podo compartir actualmente. Este proxecto
+e moitas aplicacións internas que non podo compartir actualmente. Este proxecto
 comezou en 2019 e foi presentado
 [neste post no blog de **marketgoo**](https://www.marketgoo.com/blog-post/say-hello-to-ola-design-system/).
 
@@ -138,10 +138,10 @@ comezou en 2019 e foi presentado
 
 ### Lume
 
-A finais do 2020 comecei [o proxecto Lume](https://lume.land/), un xerador de
+A finais de 2020 comecei [o proxecto Lume](https://lume.land/), un xerador de
 páxinas estáticas creado en Deno e inspirado noutros xeradores existentes como
 Jekyll, Hugo ou Eleventy. Utilízoo practicamente para todos os proxectos de web
-que fago dende entón. Se queres saber máis sobre a miña experiencia creando un
+que fago desde entón. Se queres saber máis sobre a miña experiencia creando un
 proxecto de código aberto, [teño un artigo explicándoo](/notas/un-ano-de-lume/).
 
 ### Random
@@ -156,11 +156,11 @@ proxecto de código aberto, [teño un artigo explicándoo](/notas/un-ano-de-lume
 - [Awesome talks](https://github.com/oscarotero/awesome-talks): Colección de
   conferencias interesantes sobre deseño en galego e castelán.
 - [Chipi](https://oscarotero.github.io/chipi-client/): Deseño e prototipado
-  dunha aplicación de escritorio que permitía buscar en calquera servicio
+  dunha aplicación de escritorio que permitía buscar en calquera servizo
   (Slack, Google Docs, Trello, etc).\
   ([Prototipo en sketch](https://www.sketch.com/s/f46f510c-9f81-432b-be97-8b71d968f526),
   [Páxina web](https://chipi.io/#/))
-- Co-deseñei (xunto a David Bonilla e Hugo Tobio) e programei as webs das
+- Co-deseñei (xunto con David Bonilla e Hugo Tobio) e programei as webs das
   últimas edicións da [Tarugoconf](https://tarugoconf.com): Tarugoconf Sofá
   edition, Tarugo21 e Tarugo22.
   ([Repositorios en GitHub](https://github.com/tarugoconf/)).
@@ -171,7 +171,7 @@ proxecto de código aberto, [teño un artigo explicándoo](/notas/un-ano-de-lume
 
 - Fixen
   [un plugin de Figma](https://www.figma.com/community/plugin/1001444625792698603/marketgoo-copies)
-  para traballar con textos dende arquivos de Google Spreadsheets
+  para traballar con textos desde arquivos de Google Spreadsheets
   ([código](https://github.com/marketgoo/figma-copies)). Anteriormente fixera
   [o mesmo plugin para Sketch](https://github.com/marketgoo/sketch-copies).
 - Cousas en PHP: [Middlewares](https://github.com/middlewares) (Colección de
@@ -190,13 +190,13 @@ proxecto de código aberto, [teño un artigo explicándoo](/notas/un-ano-de-lume
   changelogs).
 - Outras utilidades de javascript _frontend_ como
   [carousel](https://github.com/oom-components/carousel) (_web component_ para
-  crear carruseles) ou
+  crear carruseis) ou
   [page-loader](https://github.com/oom-components/page-loader) (para cargar e
   crear transicións chulas entre páxinas).
 
 ---
 
-## Que estou facendo agora?
+## Que estou a facer agora?
 
 - Traballo como _product designer_ en [marketgoo](https://www.marketgoo.com/).
 - Creei e manteño, xunto con **Miguel Calvo**, o
