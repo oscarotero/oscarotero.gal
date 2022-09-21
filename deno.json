@@ -1,9 +1,12 @@
 {
-  "importMap": "import_map.json",
+  "importMap": "./import_map.json",
   "tasks": {
     "build": "deno task lume",
     "serve": "deno task lume -s",
     "serve:english": "deno task serve --location=https://oscarotero.com",
-    "lume": "deno eval \"import 'lume/task.ts'\" --"
+    "lume": "deno eval \"import 'lume/task.ts'\" --",
+    "deploy:gal": "deno task lume --location=https://oscarotero.gal && rsync -r _site/ 'gal@oscarotero.gal:~/www'",
+    "deploy:com": "deno task lume --location=https://oscarotero.com && rsync -r _site/ 'oscarotero@oscarotero.com:~/www'",
+    "deploy": "deno task deploy:gal && deno task deploy:com"
   }
 }

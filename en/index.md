@@ -48,7 +48,8 @@ alternate:
   with other partners but unfortunately we weren't able to do what we wanted.
 - I cannot speak fluid english (yet).
 - After many attempts, I'm not able to make a homemade dough bread.
-- I didn't make a beautiful personal website. But you can see some of my recent works [in my portfolio](/portfolio/).
+- I didn't make a beautiful personal website. But you can see some of my recent
+  works [in my portfolio](/portfolio/).
 
 ---
 
@@ -149,7 +150,9 @@ Hugo or Eleventy. I use it for all web projects I work since then.
 
 ### Code
 
-I love to write HTML/CSS and build or experiment with very under-engineering solutions. I'm also a firmin advocate of the open source and maintainer of several projects like:
+I love to write HTML/CSS and build or experiment with very under-engineering
+solutions. I'm also a firmin advocate of the open source and maintainer of
+several projects like:
 
 - [Lume](https://lume.land), a static site generator for Deno.
 - [A plugin for Figma](https://www.figma.com/community/plugin/1001444625792698603/marketgoo-copies)

@@ -32,8 +32,8 @@ alternate:
 - [Compartín cartel](https://dag.gal/gl/feed2015/) con Javier Cañada, Álvaro
   Valiño, Raquel Pelta, Pepe Barro e moitos outros grandes profesionais nun foro
   sobre a web e a interactividade.
-- Estudei letras puras (latín e grego) e acabei nun grupo de traballo do
-  PHP-FIG discutindo con enxeñeiros sobre un novo estándar de PHP
+- Estudei letras puras (latín e grego) e acabei nun grupo de traballo do PHP-FIG
+  discutindo con enxeñeiros sobre un novo estándar de PHP
   [Http Middlewares](https://www.php-fig.org/psr/psr-15/meta/).
 - Fun membro dun xurado que
   [tivo que valorar traballos presentados](https://www.youtube.com/watch?v=dDnsVNcoiq8)
@@ -46,8 +46,8 @@ alternate:
 - [Montei unha empresa](https://web.archive.org/web/20191203021950/http://v1.anavallasuiza.com/)
   entre varios socios e non conseguimos facer o que queriamos facer.
 - Non sei falar inglés de maneira fluída (aínda).
-- Despois de varias tentativas, non fun capaz de facer un bolo de pan de masa de fermentación lenta
-  caseiro que se poida comer.
+- Despois de varias tentativas, non fun capaz de facer un bolo de pan de masa de
+  fermentación lenta caseiro que se poida comer.
 - Non teño unha web persoal bonita.
 
 ---
@@ -126,13 +126,17 @@ comezou en 2019 e foi presentado
 
 ### Conferencias
 
-- **Deseño web** - CPI Alcalde Xosé Pichel, Coristanco 2022\
+- **Deseño web** - CPI Alcalde Xosé Pichel, Coristanco 2022
+  \
   ([slides en PDF](/keynotes/desenho-web.pdf))
-- **O redeseño de HA!** - Asemblea DAG, Ourense 2019\
+- **O redeseño de HA!** - Asemblea DAG, Ourense 2019
+  \
   ([slides en PDF](/keynotes/ha.pdf))
-- **Sistemas de deseño** - Meetup WordPress, Lugo 2019\
+- **Sistemas de deseño** - Meetup WordPress, Lugo 2019
+  \
   ([slides en PDF](/keynotes/sistemas-de-desenho.pdf))
-- **Os tres pés do deseño web** - FEED, A Coruña 2015\
+- **Os tres pés do deseño web** - FEED, A Coruña 2015
+  \
   ([vídeo en Youtube](https://www.youtube.com/watch?v=qZEqS2QSfrc),
   [slides en Slideshare](https://www.slideshare.net/asociaciondag/os-tres-pes-da-web))
 
@@ -156,8 +160,9 @@ proxecto de código aberto, [teño un artigo explicándoo](/notas/un-ano-de-lume
 - [Awesome talks](https://github.com/oscarotero/awesome-talks): Colección de
   conferencias interesantes sobre deseño en galego e castelán.
 - [Chipi](https://oscarotero.github.io/chipi-client/): Deseño e prototipado
-  dunha aplicación de escritorio que permitía buscar en calquera servizo
-  (Slack, Google Docs, Trello, etc).\
+  dunha aplicación de escritorio que permitía buscar en calquera servizo (Slack,
+  Google Docs, Trello, etc).
+  \
   ([Prototipo en sketch](https://www.sketch.com/s/f46f510c-9f81-432b-be97-8b71d968f526),
   [Páxina web](https://chipi.io/#/))
 - Co-deseñei (xunto con David Bonilla e Hugo Tobio) e programei as webs das
