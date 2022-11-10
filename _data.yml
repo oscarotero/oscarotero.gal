@@ -3,6 +3,9 @@ links:
     href: 'mailto:oom@oscarotero.com'
   - text: Github
     href: https://github.com/oscarotero
+  - text: Mastodon
+    href: https://mastodon.gal/@misteroom
+    rel: me
   - text: Twitter
     href: https://twitter.com/misteroom
   - text: LinkedIn
