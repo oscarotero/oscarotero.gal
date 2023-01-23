@@ -25,16 +25,15 @@ alternate:
 - Fun presidente da [Asociación Galega de Deseño.](https://dag.gal/gl)
 - [Gañei un premio Mestre Mateo,](https://www.academiagalegadoaudiovisual.gal/es/portfolio-item/vii-premios-mestre-mateo/)
   e outro no MIPTV de Cannes sen facer cine, senón deseño.
-- Conseguín máis de 1000 _stars_
-  [nun repositorio de Github](https://github.com/oscarotero/Embed).
+- Conseguín máis de 1000 _stars_ [~~nun~~](https://github.com/oscarotero/Embed),
+  [en dous](https://github.com/lumeland/lume) repositorios de GitHub.
 - Fun dar a Estambul un taller de _open video_ en inglés e conseguín que os
   alumnos me entendesen.
 - [Compartín cartel](https://dag.gal/gl/feed2015/) con Javier Cañada, Álvaro
   Valiño, Raquel Pelta, Pepe Barro e moitos outros grandes profesionais nun foro
   sobre a web e a interactividade.
-- Estudei letras puras (latín e grego) e acabei nun grupo de traballo do PHP-FIG
-  discutindo con enxeñeiros sobre un novo estándar de PHP
-  [Http Middlewares](https://www.php-fig.org/psr/psr-15/meta/).
+- Estiven nun grupo de traballo do PHP-FIG traballando nun novo estándar de PHP
+  sobre [Http Middlewares](https://www.php-fig.org/psr/psr-15/meta/).
 - Fun membro dun xurado que
   [tivo que valorar traballos presentados](https://www.youtube.com/watch?v=dDnsVNcoiq8)
   por premios nacionais de deseño.
@@ -45,7 +44,7 @@ alternate:
   fose popular.
 - [Montei unha empresa](https://web.archive.org/web/20191203021950/http://v1.anavallasuiza.com/)
   entre varios socios e non conseguimos facer o que queriamos facer.
-- Non sei falar inglés de maneira fluída (aínda).
+- Non sei falar inglés de maneira excelente (aínda).
 - Despois de varias tentativas, non fun capaz de facer un bolo de pan de masa de
   fermentación lenta caseiro que se poida comer.
 - Non teño unha web persoal bonita.
@@ -165,11 +164,10 @@ proxecto de código aberto, [teño un artigo explicándoo](/notas/un-ano-de-lume
   \
   ([Prototipo en sketch](https://www.sketch.com/s/f46f510c-9f81-432b-be97-8b71d968f526),
   [Páxina web](https://chipi.io/#/))
-- Co-deseñei (xunto con David Bonilla e Hugo Tobio) e programei as webs das
-  últimas edicións da [Tarugoconf](https://tarugoconf.com): Tarugoconf Sofá
-  edition, Tarugo21 e Tarugo22.
+- Colaboro na [Tarugoconf](https://tarugoconf.com) axudándolles a construír as
+  webs en cada edición (con Lume, naturalmente).
   ([Repositorios en GitHub](https://github.com/tarugoconf/)).
-- Durante un tempo fun profesor de CSS e HTML en
+- De vez en cando dou clases de CSS, HTML e Deno en
   [Hack a Boss](https://hackaboss.com/)
 
 ### Código

@@ -1,7 +1,6 @@
 import lume from "lume/mod.ts";
 import imagick from "lume/plugins/imagick.ts";
 import parcelCSS from "lume/plugins/lightningcss.ts";
-import gpm from "https://deno.land/x/gpm@v0.5.0/mod.ts";
 
 const site = lume();
 
@@ -17,6 +16,13 @@ site.copy("assets", "")
   .ignore("README.md")
   .ignore(site.options.location.host === "oscarotero.com" ? "gl" : "en");
 
-site.addEventListener("beforeBuild", () => gpm(["oom-components/carousel"]));
+site.remoteFile(
+  "scripts/carousel/carousel.js",
+  "https://unpkg.com/@oom/carousel@4.2.0/src/carousel.js",
+);
+site.remoteFile(
+  "scripts/carousel/navigation.js",
+  "https://unpkg.com/@oom/carousel@4.2.0/src/navigation.js",
+);
 
 export default site;

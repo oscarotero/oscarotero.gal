@@ -26,27 +26,26 @@ alternate:
 - [I won a Mestre Mateo](https://www.academiagalegadoaudiovisual.gal/es/portfolio-item/vii-premios-mestre-mateo/)
   (Galician Oscar's), and an award at the MIPTV of Cannes without making films
   but designing.
-- I have a [Github repository](https://github.com/oscarotero/Embed) with more
-  than 1000 stars.
+- I have [~~one~~](https://github.com/oscarotero/Embed),
+  [two](https://github.com/lumeland/lume) GitHub repositories with more than
+  1000 stars.
 - I went to a workshop in Istanbul to teach about open video in english, and be
   able to be understood by the students.
 - [I've been in a conference](https://dag.gal/gl/feed2015/) with Javier Cañada,
   Álvaro Valiño, Raquel Pelta, Pepe Barro and many other great designers,
   speaking about web and interactivity.
-- Being a designer, man of letters (I've studied the classical languages Latin
-  and Greek), I've been part of a working group in PHP-FIG, discussing with
-  engineers about a new PHP standard about
-  [Http Middlewares](https://www.php-fig.org/psr/psr-15/meta/).
+- I've been part of a working group in the PHP-FIG, to work on a new PHP
+  standard for [Http Middlewares](https://www.php-fig.org/psr/psr-15/meta/).
 - I was a member of a jury to
   [evaluate works](https://www.youtube.com/watch?v=dDnsVNcoiq8) submitted by
-  national design awards.
+  spanish national design awards.
 
 ## —Failures
 
 - I created a [CSS processor](http://stylecow.github.io/) but it wasn't popular.
 - [I started a company](https://web.archive.org/web/20191203021950/http://v1.anavallasuiza.com/)
   with other partners but unfortunately we weren't able to do what we wanted.
-- I cannot speak fluid english (yet).
+- I cannot speak an excellent english (yet).
 - After many attempts, I'm not able to make a homemade dough bread.
 - I didn't make a beautiful personal website. But you can see some of my recent
   works [in my portfolio](/portfolio/).
@@ -142,11 +141,10 @@ Hugo or Eleventy. I use it for all web projects I work since then.
   Trello, etc).
   ([Sketch prototype](https://www.sketch.com/s/f46f510c-9f81-432b-be97-8b71d968f526),
   [chipi.io](https://chipi.io/#/))
-- I'm the co-designer (together with David Bonilla and Hugo Tobio) and developer
-  of the sites for the latest editions of the
-  [Tarugoconf](https://tarugoconf.com): Tarugoconf Sofá edition, Tarugo21 and
-  Tarugo22. ([See the code](https://github.com/tarugoconf/)).
-- I had been CSS & HTML teacher at [Hack a Boss](https://hackaboss.com/)
+- I collaborate in the [Tarugoconf](https://tarugoconf.com), by helping to build
+  the website (made with Lume).
+- Occasionally, I teach about CSS, HTML and Deno at
+  [Hack a Boss](https://hackaboss.com/)
 
 ### Code
 
