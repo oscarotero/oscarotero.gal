@@ -144,8 +144,11 @@ comezou en 2019 e foi presentado
 A finais de 2020 comecei [o proxecto Lume](https://lume.land/), un xerador de
 páxinas estáticas creado en Deno e inspirado noutros xeradores existentes como
 Jekyll, Hugo ou Eleventy. Utilízoo practicamente para todos os proxectos de web
-que fago desde entón. Se queres saber máis sobre a miña experiencia creando un
-proxecto de código aberto, [teño un artigo explicándoo](/notas/un-ano-de-lume/).
+que fago desde entón.
+
+- [Sitio web de Lume](https://lume.land).
+- [Repositorio en GitHub](https://github.com/lumeland/lume).
+- [Post que escribin como invitado no blog oficial de Deno](https://deno.com/blog/build-a-static-site-with-lume).
 
 ### Random
 

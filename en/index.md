@@ -128,6 +128,10 @@ In late 2020, I started the [Lume project](https://lume.land/), a static site
 generator built on top of Deno and inspired by other generators like Jekyll,
 Hugo or Eleventy. I use it for all web projects I work since then.
 
+- [Lume website](https://lume.land).
+- [GitHub repository](https://github.com/lumeland/lume).
+- [Guest post in Deno official blog](https://deno.com/blog/build-a-static-site-with-lume).
+
 ### Random
 
 - [NM type](http://www.nmtype.com/): Design and development of the web for this
