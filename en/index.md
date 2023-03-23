@@ -13,15 +13,15 @@ alternate:
 
 - Listen to people.
 - Divide a complex problem into several smaller and simpler ones.
-- Communicate with programmers and help them to build the best possible
+- Communicate with developers and help them to build the best possible
   interface.
 - Combine fonts and colors.
-- I can code my own designs.
+- I can code my designs.
 
 ## —Successes
 
 - [I had my own design company](https://web.archive.org/web/20191203021950/http://v1.anavallasuiza.com/)
-  with 4 partners during 8 years.
+  with 4 partners for 8 years.
 - I've been president of the [Design Association of Galicia.](http://dag.gal)
 - [I won a Mestre Mateo](https://www.academiagalegadoaudiovisual.gal/es/portfolio-item/vii-premios-mestre-mateo/)
   (Galician Oscar's), and an award at the MIPTV of Cannes without making films
@@ -29,24 +29,23 @@ alternate:
 - I have [~~one~~](https://github.com/oscarotero/Embed),
   [two](https://github.com/lumeland/lume) GitHub repositories with more than
   1000 stars.
-- I went to a workshop in Istanbul to teach about open video in english, and be
+- I went to a workshop in Istanbul to teach about open video in English, and be
   able to be understood by the students.
-- [I've been in a conference](https://dag.gal/gl/feed2015/) with Javier Cañada,
+- [I've been to a conference](https://dag.gal/gl/feed2015/) with Javier Cañada,
   Álvaro Valiño, Raquel Pelta, Pepe Barro and many other great designers,
   speaking about web and interactivity.
 - I've been part of a working group in the PHP-FIG, to work on a new PHP
   standard for [Http Middlewares](https://www.php-fig.org/psr/psr-15/meta/).
 - I was a member of a jury to
-  [evaluate works](https://www.youtube.com/watch?v=dDnsVNcoiq8) submitted by
-  spanish national design awards.
+  [evaluate works](https://www.youtube.com/watch?v=dDnsVNcoiq8) submitted by Spanish national design awards.
 
 ## —Failures
 
 - I created a [CSS processor](http://stylecow.github.io/) but it wasn't popular.
 - [I started a company](https://web.archive.org/web/20191203021950/http://v1.anavallasuiza.com/)
-  with other partners but unfortunately we weren't able to do what we wanted.
-- I cannot speak an excellent english (yet).
-- After many attempts, I'm not able to make a homemade dough bread.
+  with other partners but unfortunately, we weren't able to do what we wanted.
+- I cannot speak excellent English (yet).
+- After many attempts, I'm not able to make homemade dough bread.
 - I didn't make a beautiful personal website. But you can see some of my recent
   works [in my portfolio](/portfolio/).
 
@@ -56,8 +55,8 @@ alternate:
 
 ### Conxeito
 
-Newsletter (in galician language) about digital design, published during the
-Covid confinement. You can access to all numbers here:
+Newsletter (in the Galician language) about digital design, published during the
+Covid confinement. You can access all numbers here:
 
 - [#001 — Welcome](http://eepurl.com/gWhDcn) — _March 20, 2020_
 - [#002 — Web apps today](http://eepurl.com/gW6GQn) — _March 27, 2020_
@@ -86,7 +85,7 @@ Covid confinement. You can access to all numbers here:
 
 During the redesign and development of the new web for
 [HA!](https://historia-arte.com/), I've documented the whole process in a
-collection of posts written in real time (Galician language):
+collection of posts written in real-time (Galician language):
 
 - [Part 1 — O reto](https://medium.com/@misteroom/redese%C3%B1o-ha-parte-1-o-reto-e773e7ad6a43)
   — _December 18, 2017_
@@ -106,7 +105,7 @@ collection of posts written in real time (Galician language):
 This project won several awards:
 
 - [Awwwards — Mobile site of the week](https://www.awwwards.com/mobile-sites/ha)
-- [Awwwards — Mobile excelence](https://www.awwwards.com/sites/ha/mobile-excellence-report)
+- [Awwwards — Mobile excellence](https://www.awwwards.com/sites/ha/mobile-excellence-report)
 - [Awwwards — Honorable Mention](https://www.awwwards.com/sites/ha)
 - [CLAP 2018 selection — Best graphic design for a
   website](https://premiosclap.org/ganador-730)
@@ -118,9 +117,9 @@ At **marketgoo** I have designed
 have collaborated in the implementation with this
 [collection of React components](https://marketgoo.github.io/Ola/), for emails
 with [a collection of MJML components](https://github.com/marketgoo/Ola-Emails)
-and many other internal work that I cannot share currently. This project started
+and many other internal works that I cannot share currently. This project started
 in 2019 and was presented
-[in this post in the **marketgoo** blog](https://www.marketgoo.com/blog-post/say-hello-to-ola-design-system/).
+[in this post on the **marketgoo** blog](https://www.marketgoo.com/blog-post/say-hello-to-ola-design-system/).
 
 ### Lume
 
@@ -153,7 +152,7 @@ Hugo or Eleventy. I use it for all web projects I work since then.
 ### Code
 
 I love to write HTML/CSS and build or experiment with very under-engineering
-solutions. I'm also a firmin advocate of the open source and maintainer of
+solutions. I'm also a strong advocate of open source and maintainer of
 several projects like:
 
 - [Lume](https://lume.land), a static site generator for Deno.
@@ -175,7 +174,7 @@ several projects like:
   [keep-a-changelog](https://github.com/oscarotero/keep-a-changelog) (parse and
   generate changelog files).
 - Other _frontend_ libraries like
-  [carousel](https://github.com/oom-components/carousel) (a _web component_ to
+  [a carousel](https://github.com/oom-components/carousel) (a _web component_ to
   create carousels) and
   [page-loader](https://github.com/oom-components/page-loader) (to load and
   create fancy transitions between pages).
@@ -185,7 +184,7 @@ several projects like:
 ## What am I doing now?
 
 - I'm working as _product designer_ at [marketgoo](https://www.marketgoo.com/).
-- I'm the creator and maintaner, with **Miguel Calvo**, of the
+- I'm the creator and maintainer, with **Miguel Calvo**, of the
   [project HA!](https://historia-arte.com/).
 - I'm the creator and maintainer of 🔥 [Lume](https://lume.land), a static site
   generator for Deno.
