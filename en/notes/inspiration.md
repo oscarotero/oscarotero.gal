@@ -14,3 +14,4 @@ List of websites that I like for any reason.
 - [Los Feliz Engineering](https://lfe.org/)
 - [Department of Transformation](https://dept-of-transformation.org/)
 - [Design Threads](https://designthreads.report/)
+- [Editorial Look Web Design by Anthony Goodwin](https://abduzeedo.com/beautiful-editorial-look-web-design-anthony-goodwin)
