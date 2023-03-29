@@ -1,0 +1,19 @@
+---
+title: Starred
+url: /notes/starred/
+---
+
+<h1>Starred articles</h1>
+
+<p>List of articles I enjoyed:</p>
+
+<ul>
+  {% for item in starred %}
+  <li>
+    <a href="{{ item.url }}">
+      <strong>{{ item.title }}</strong>
+    </a><br>
+    <time>{{ item.published | date("HUMAN_DATE", "en") }}</time>
+  </li>
+  {% endfor %}
+</ul>
