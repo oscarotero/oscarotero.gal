@@ -13,3 +13,7 @@ progreso).
 - [NONYMOUS](https://nonymous.com/)
 - [Aurélie Garnier GIFs](https://wepresent.wetransfer.com/stories/aurelie-garnier-on-movement-and-gifs)
 - [Los Feliz Engineering](https://lfe.org/)
+- [Department of Transformation](https://dept-of-transformation.org/)
+- [Design Threads](https://designthreads.report/)
+- [Editorial Look Web Design by Anthony Goodwin](https://abduzeedo.com/beautiful-editorial-look-web-design-anthony-goodwin)
+- [BandSports Tokyo 2020 Illustrations](https://issaonakabachi.myportfolio.com/bandsports-tokyo-2020)
