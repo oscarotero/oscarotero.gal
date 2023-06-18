@@ -37,7 +37,8 @@ alternate:
 - I've been part of a working group in the PHP-FIG, to work on a new PHP
   standard for [Http Middlewares](https://www.php-fig.org/psr/psr-15/meta/).
 - I was a member of a jury to
-  [evaluate works](https://www.youtube.com/watch?v=dDnsVNcoiq8) submitted by Spanish national design awards.
+  [evaluate works](https://www.youtube.com/watch?v=dDnsVNcoiq8) submitted by
+  Spanish national design awards.
 
 ## —Failures
 
@@ -117,8 +118,8 @@ At **marketgoo** I have designed
 have collaborated in the implementation with this
 [collection of React components](https://marketgoo.github.io/Ola/), for emails
 with [a collection of MJML components](https://github.com/marketgoo/Ola-Emails)
-and many other internal works that I cannot share currently. This project started
-in 2019 and was presented
+and many other internal works that I cannot share currently. This project
+started in 2019 and was presented
 [in this post on the **marketgoo** blog](https://www.marketgoo.com/blog-post/say-hello-to-ola-design-system/).
 
 ### Lume
@@ -152,8 +153,8 @@ Hugo or Eleventy. I use it for all web projects I work since then.
 ### Code
 
 I love to write HTML/CSS and build or experiment with very under-engineering
-solutions. I'm also a strong advocate of open source and maintainer of
-several projects like:
+solutions. I'm also a strong advocate of open source and maintainer of several
+projects like:
 
 - [Lume](https://lume.land), a static site generator for Deno.
 - [A plugin for Figma](https://www.figma.com/community/plugin/1001444625792698603/marketgoo-copies)

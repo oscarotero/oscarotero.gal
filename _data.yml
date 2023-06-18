@@ -11,6 +11,35 @@ links:
   - text: LinkedIn
     href: https://www.linkedin.com/in/misteroom/
 
+starred:
+  - title: The New CSS
+    url: https://matthiasott.com/notes/the-new-css
+    published: 2023-06-18
+  - title: Accessible target sizes cheatsheet
+    url: https://www.smashingmagazine.com/2023/04/accessible-tap-target-sizes-rage-taps-clicks/
+    published: 2023-05-08
+  - title: Transitioning to height auto (two ways)
+    url: https://keithjgrant.com/posts/2023/04/transitioning-to-height-auto/
+    published: 2023-04-20
+  - title: Evidence that quality is impossible at scale
+    url: https://anthonyhobday.com/blog/20220920.html
+    published: 2023-03-23
+  - title: Folk Interfaces
+    url: https://maggieappleton.com/folk-interfaces
+    published: 2022-08-24
+  - title: "La #Bonilista de Jaime Gómez-Obregón"
+    url: https://feedbin.com/entries/c922a4f168e1c163a5c2446b8ddbcd17c419c578/newsletter
+    published: 2022-07-31
+  - title: Where are our design heroes? — DESK of van Schneider — Edition Nr.204
+    url: https://vanschneider.com/blog/where-are-our-design-heroes/
+    published: 2022-02-14
+  - title: Designing Beautiful Shadows in CSS
+    url: https://www.joshwcomeau.com/css/designing-shadows/
+    published: 2021-09-18
+  - title: The 100% correct way to do CSS breakpoints
+    url: https://www.freecodecamp.org/news/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862/
+    published: 2016-11-19
+
 languages:
   gl:
     label: En Galego
