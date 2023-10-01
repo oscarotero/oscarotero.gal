@@ -1,5 +1,4 @@
 ---
-lang: en
 key: home
 title: Óscar Otero - Digital designer and developer
 url: /
@@ -9,7 +8,7 @@ alternate:
 
 # Hello. <br>I'm Óscar Otero <br>—digital designer
 
-## —Superpowers
+## Superpowers:
 
 - Listen to people.
 - Divide a complex problem into several smaller and simpler ones.
@@ -18,7 +17,7 @@ alternate:
 - Combine fonts and colors.
 - I can code my designs.
 
-## —Successes
+## Successes:
 
 - [I had my own design company](https://web.archive.org/web/20191203021950/http://v1.anavallasuiza.com/)
   with 4 partners for 8 years.
@@ -40,7 +39,7 @@ alternate:
   [evaluate works](https://www.youtube.com/watch?v=dDnsVNcoiq8) submitted by
   Spanish national design awards.
 
-## —Failures
+## Failures:
 
 - I created a [CSS processor](http://stylecow.github.io/) but it wasn't popular.
 - [I started a company](https://web.archive.org/web/20191203021950/http://v1.anavallasuiza.com/)
@@ -52,7 +51,7 @@ alternate:
 
 ---
 
-## Things I made
+## Things I made:
 
 ### Conxeito
 

@@ -1,6 +1,6 @@
 <footer>
   <ul>
-    {% for page in search.pages("notes") %}
+    {% for page in search.pages("notes lang=" + lang) %}
     <li>
       <a href="{{ page.data.url }}">
         {{ page.data.title }}
@@ -20,6 +20,6 @@
   </ul>
 
   <p>
-    <small>{{ languages[lang].copy | md(true) | safe }}</small>
+    <small>{{ texts.copy | md(true) | safe }}</small>
   </p>
 </footer>

@@ -1,5 +1,4 @@
 layout: portfolio.njk
-lang: en
 key: home
 title: Portfolio
 url: /portfolio/

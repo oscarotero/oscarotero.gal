@@ -1,5 +1,4 @@
 ---
-lang: en
 key: uses
 title: The tools I use
 url: /uses/

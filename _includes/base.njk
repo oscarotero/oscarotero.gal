@@ -1,13 +1,10 @@
 <!doctype html>
 
-<html lang="{{ lang }}" class="{{ htmlClass }}">
+<html lang="{{ lang }}" class="{{ htmlClass or "theme-light" }}">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ title }}</title>
-    <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-    <link href="/favicon-32x32.png" rel="icon" type="image/png" sizes="32x32">
-    <link href="/favicon-16x16.png" rel="icon" type="image/png" sizes="16x16">
 
     {% for lang, url in alternate -%}
     <link rel="alternate" hreflang="{{ lang }}" href="{{ url }}">
@@ -31,13 +28,7 @@
 
   <body>
     <a href="/" title="Portada" class="logo">
-      <svg width="48px" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
-        <g stroke="black" stroke-width="3" fill="white">
-          <circle cx="24" cy="24" r="22"></circle>
-          <circle cx="24" cy="24" r="10"></circle>
-          <line x1="32" y1="16" x2="40" y2="8" />
-        </g>
-      </svg>
+      <img src="/favicon.svg" width="48" height="48" alt="Logo" inline>
     </a>
 
     {{ content | safe }}

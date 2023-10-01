@@ -1,5 +1,4 @@
 ---
-lang: gl
 key: home
 title: Óscar Otero - Deseñador dixital e desenvolvedor web
 url: /
@@ -9,7 +8,7 @@ alternate:
 
 # Ola. <br>Son Óscar Otero <br>—deseñador dixital
 
-## —Superpoderes
+## Superpoderes:
 
 - Saber escoitar.
 - Dividir un problema complexo en varios máis pequenos e simples.
@@ -18,7 +17,7 @@ alternate:
 - Combinar tipografías e cores.
 - Poder programar os meus propios deseños.
 
-## —Fitos
+## Fitos:
 
 - [Tiven o meu propio estudio de deseño web](https://web.archive.org/web/20191203021950/http://v1.anavallasuiza.com/)
   con outros 4 socios durante 8 anos.
@@ -38,7 +37,7 @@ alternate:
   [tivo que valorar traballos presentados](https://www.youtube.com/watch?v=dDnsVNcoiq8)
   por premios nacionais de deseño.
 
-## —Fracasos
+## Fracasos:
 
 - Creei un [procesador de CSS](http://stylecow.github.io/) e non conseguín que
   fose popular.
@@ -51,7 +50,7 @@ alternate:
 
 ---
 
-## Cousas que fixen
+## Cousas que fixen:
 
 ### Conxeito
 

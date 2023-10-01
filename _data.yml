@@ -51,27 +51,3 @@ starred:
   - title: The 100% correct way to do CSS breakpoints
     url: https://www.freecodecamp.org/news/the-100-correct-way-to-do-css-breakpoints-88d6a5ba1862/
     published: 2016-11-19
-
-languages:
-  gl:
-    label: En Galego
-    base: https://oscarotero.gal
-    copy: |
-     © Óscar Otero, 2022.  
-     Grazas a Marcos Dopico pola tipografía [Atlantica Serif](http://maistypes.com/).
-    menu: 
-      - text: O que uso
-        href: /uses/
-      - text: Inspiración
-        href: /inspiration/
-
-  en:
-    label: In English
-    copy: |
-     © Óscar Otero, 2022.  
-     Thanks to Marcos Dopico for the font [Atlantica Serif](http://maistypes.com/).
-    menu:
-      - text: Uses
-        href: /uses/
-      - text: Inspiration
-        href: /inspiration/

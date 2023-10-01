@@ -1,5 +1,4 @@
 ---
-lang: gl
 key: uses
 title: O que uso
 url: /uses/
