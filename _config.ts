@@ -11,8 +11,7 @@ const site = lume();
 
 const lang = Deno.env.get("SITE_LANG") || "en";
 
-site.copy("assets", "")
-  .copy("keynotes")
+site.copy("keynotes")
   .copy("fonts")
   .copy("logos")
   .copy("scripts")
