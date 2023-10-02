@@ -25,7 +25,6 @@
 html {
   --background: white;
   --color: black;
-  --dim: black;
   --font-serif: Atlantica, Palatino, 'Palatino Linotype', Times, "Droid Serif", serif;
   --font-sans: system-ui, sans-serif;
   --link: blue;
@@ -58,7 +57,6 @@ body {
   > * {
     grid-column: text-start / text-end;
     margin: 0;
-    color: var(--dim);
   }
 
   > h1:first-of-type {
@@ -123,7 +121,6 @@ hr {
   border: none;
   border-top: solid 3px;
   margin: 2em 0;
-  color: var(--dim);
   width: 3em !important;
 }
 
@@ -166,11 +163,14 @@ header + p + p {
 }
 
 footer {
+  display: flex;
+  flex-wrap: wrap;
+  row-gap: 2rem;
+  column-gap: 2rem;
+
   > * {
     margin: 0;
-  }
-  > * + * {
-    margin-top: 2rem;
+    flex: 1 1 auto;
   }
 
   small {
@@ -184,7 +184,7 @@ oom-carousel {
   display: flex;
   -webkit-overflow-scrolling: touch;
   scrollbar-width: none;
-  column-gap: 1rem;
+  column-gap: 2rem;
   position: relative;
   z-index: 2;
   grid-column: 1 / -1;
@@ -219,18 +219,23 @@ oom-carousel {
   }
 }
 
+svg {
+  display: block;
+  fill: currentColor;
+}
+
 oom-carousel-navigation {
   display: flex;
-  color: var(--dim);
   margin: 2rem 0;
 
   button {
     background: none;
     color: inherit;
     border: solid 2px;
-    font-size: 2rem;
     cursor: pointer;
     font-family: inherit;
+    padding: .25rem;
+    margin: 0;
 
     & + button {
       margin-left: -2px;
@@ -258,7 +263,7 @@ oom-carousel-navigation {
   /* Degradado chorra */
   @media (min-width: 700px) {
     body {
-      background: linear-gradient(to right, white, white 90rem, hsl(180deg 100% 90%) 120rem);
+      background: linear-gradient(to right, transparent, transparent 90rem, hsl(180deg 100% 90%) 120rem);
 
       &::before {
         content: "";
@@ -280,14 +285,54 @@ oom-carousel-navigation {
   }
 }
 
+.theme-dark,
+.theme-custom {
+  --link: color-mix(in oklab, var(--color), var(--background) 20%);
+  --link-visited: var(--link);
+
+  body {
+    background: none;
+
+    &::before {
+      display: none;
+    }
+  }
+}
+
 .theme-dark {
   --background: #14181f;
   --color: #e0e4eb;
-  --dim: #94a0b8;
-  --link: #94a0b8;
-  --link-visited: #94a0b8;
-  
-  &::before {
-    display: none;
+}
+
+.theme-custom {
+  --link: color-mix(in oklab, var(--color), var(--background) 20%);
+  --link-visited: var(--link);
+
+  body {
+    background: none;
+
+    &::before {
+      display: none;
+    }
+  }
+}
+
+theme-switcher {
+  position: fixed;
+  top: 1rem;
+  right: 1rem;
+
+  button {
+    border: none;
+    background: none;
+    cursor: pointer;
+    outline: none;
+    color: var(--color);
+    margin: 0;
+    padding: 8px;
+
+    &:hover {
+      color: var(--dim);
+    }
   }
 }

@@ -21,6 +21,7 @@
     </script>
     <link rel="stylesheet" href="/styles.css?cache={{ cache }}">
 
+    <script type="module" src="/scripts/theme.js?cache={{ cache }}"></script>
     {% if script %}
     <script type="module" src="{{ script }}?cache={{ cache }}"></script>
     {% endif %}
@@ -37,5 +38,6 @@
       <hr>
       {% include "./footer.njk" %}
     {% endif %}
+    <theme-switcher><theme-switcher/>
   </body>
 </html>
