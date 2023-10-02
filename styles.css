@@ -118,6 +118,7 @@ h2 + h3 {
 }
 
 hr {
+  color: currentColor;
   border: none;
   border-top: solid 3px;
   margin: 2em 0;
