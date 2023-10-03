@@ -150,17 +150,15 @@ li {
 }
 
 header {
-  font-family: var(--font-sans);
-  color: var(--color);
-
   > * {
     margin: 0;
   }
-}
-header + p,
-header + p + p {
-  font-size: 1rem;
-  font-family: var(--font-sans);
+
+  p {
+    font-family: var(--font-sans);
+    font-size: .9rem;
+    margin-top: .3em;
+  }
 }
 
 footer {
@@ -260,7 +258,7 @@ oom-carousel-navigation {
   }
 }
 
-.theme-light {
+.theme-light:not(.no-gradient) {
   /* Degradado chorra */
   @media (min-width: 700px) {
     body {
@@ -286,36 +284,9 @@ oom-carousel-navigation {
   }
 }
 
-.theme-dark,
 .theme-custom {
   --link: color-mix(in oklab, var(--color), var(--background) 20%);
   --link-visited: var(--link);
-
-  body {
-    background: none;
-
-    &::before {
-      display: none;
-    }
-  }
-}
-
-.theme-dark {
-  --background: #14181f;
-  --color: #e0e4eb;
-}
-
-.theme-custom {
-  --link: color-mix(in oklab, var(--color), var(--background) 20%);
-  --link-visited: var(--link);
-
-  body {
-    background: none;
-
-    &::before {
-      display: none;
-    }
-  }
 }
 
 theme-switcher {

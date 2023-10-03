@@ -14,6 +14,7 @@ class Theme extends HTMLElement {
       el.style.setProperty("--background", back);
       el.style.setProperty("--color", front);
       el.classList.add("theme-custom");
+      el.classList.add("no-gradient");
     });
   }
 }
