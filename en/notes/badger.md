@@ -7,7 +7,7 @@ htmlClass: "is-portfolio"
 script: "/scripts/portfolio.js"
 ---
 
-# Badger, the first steps
+# Badger,<br>the first steps
 
 Badger is a new product created by **marketgoo** to help SEO professionals like
 freelancers and agencies to build and share SEO reports with their clients.
@@ -67,7 +67,7 @@ Badger) and the green color as the primary color.
 
 This is the logotype I've created quickly for the MVP.
 
-![Badger logo](/portfolio/badger/prototypes/logo.webp){.is-maxwidth}
+![Badger logo](/portfolio/badger/prototypes/logo.webp){style="background-color:#213346;padding:1em"}
 
 We decided to reduce the scope of the first version, so some features initially
 proposed like the ability to compare date ranges or apply filters were
@@ -103,5 +103,4 @@ were created by me and
 ## Badger today
 
 The current version of Badger is available at
-[getbadger.io](https://getbadger.io). We are still validating the idea so for
-now it's open to signup and use for free.
+[getbadger.io](https://getbadger.io).

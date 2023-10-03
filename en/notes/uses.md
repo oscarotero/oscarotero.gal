@@ -15,7 +15,8 @@ interested in what I use, there's a small list. Why I do this? I got the idea
 ## Hardware
 
 - iMac 27" 5k (end of 2015)
-- MacBook Pro 13" (2017) connected to a LG 27UK850 27" 4K
+- MacBook Pro 13" (2017)
+- Monitor LG 27UK850 27" 4K
 - Xiaomi Mi A1 AndroidOne
 - Chair IKEA Markus
 
@@ -27,16 +28,13 @@ interested in what I use, there's a small list. Why I do this? I got the idea
 - [ClickUp](https://clickup.com/)
 - [Slack](http://slack.com/)
 - [uBlock Origin](https://github.com/gorhill/uBlock)
-- [Todoist](https://todoist.com/)
 - [Feedbin](https://feedbin.com/)
 
 ## Design
 
-- [Sketch](https://www.sketch.com/)
 - [Figma](https://www.figma.com/)
 - [Affinity Designer](https://affinity.serif.com/designer/)
 - [Zeroheight](https://zeroheight.com/)
-- [RightFont](https://rightfontapp.com/)
 - Paper & pencil
 
 ## Development
@@ -58,7 +56,6 @@ interested in what I use, there's a small list. Why I do this? I got the idea
 - [Fig](https://fig.io/)
 - [Homebrew](https://brew.sh/)
 - [Lume](https://lume.land/)
-- [postcss](https://postcss.org/)
 - [Composer](https://getcomposer.org/) & [Packagist](https://packagist.org/)
 - [SVGO](https://github.com/svg/svgo)
 - [Caniuse](https://caniuse.com/)
@@ -84,8 +81,8 @@ interested in what I use, there's a small list. Why I do this? I got the idea
 - [Spotify](https://www.spotify.com/)
 - [Youtube](https://www.youtube.com/)
 - [Nintendo Switch](https://www.nintendo.es/)
-- [Chess.com](https://www.chess.com/)
-- [Filmin](https://www.filmin.es/)
+- [Xbox + Game Pass](https://www.xbox.com/xbox-game-pass)
+- [Lichess](https://lichess.org/)
 - [Netflix](https://www.netflix.com/)
 - [HBO](https://hboespana.com/)
 - [Amazon Prime](https://www.primevideo.com/)

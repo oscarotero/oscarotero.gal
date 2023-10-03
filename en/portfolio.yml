@@ -7,7 +7,7 @@ alternate:
 
 tags: notes
 header:
-  title: Óscar Otero<br>digital designer
+  title: Some of my latest works<br>as digital designer
 
 portfolio:
   - title: Badger (wip)
@@ -86,7 +86,7 @@ portfolio:
   - title: NM type
     subtitle: Web design & development — 2021 — [nmtype.com](https://nmtype.com)
     description: |
-      I've collaborated with NM type guys —a digital type foundry based in Sweden and Spain— to create their new website.
+      I've collaborated with NM type —a digital type foundry based in Sweden and Spain— to create their new website.
       
       A pure typographic interface, without unnecessary icons or fancy shadows and everything in black & white (with a bit of gray).
     images:

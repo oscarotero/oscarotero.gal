@@ -148,6 +148,11 @@ ul {
 li {
   margin: 0.5em 0;
 }
+p > img {
+  max-width: 100%;
+  margin: 2rem 0;
+  display: block;
+}
 
 header {
   > * {
