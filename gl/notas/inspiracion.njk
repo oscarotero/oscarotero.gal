@@ -1,0 +1,19 @@
+---
+title: Inspiración
+url: /notas/inspiracion/
+---
+
+<h1>Inspiración</h1>
+
+<p>Lista de webs que me chamaron a atención por algún motivo.</p>
+
+<ul>
+  {% for item in inspiration %}
+  <li>
+    <a href="{{ item.url }}">
+      <strong>{{ item.title }}</strong>
+    </a><br>
+    <time>{{ item.published | date("HUMAN_DATE", "gl") }}</time>
+  </li>
+  {% endfor %}
+</ul>

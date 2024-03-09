@@ -124,17 +124,13 @@ comezou en 2019 e foi presentado
 
 ### Conferencias
 
-- **Deseño web** - CPI Alcalde Xosé Pichel, Coristanco 2022
-  \
+- **Deseño web** - CPI Alcalde Xosé Pichel, Coristanco 2022\
   ([slides en PDF](/keynotes/desenho-web.pdf))
-- **O redeseño de HA!** - Asemblea DAG, Ourense 2019
-  \
+- **O redeseño de HA!** - Asemblea DAG, Ourense 2019\
   ([slides en PDF](/keynotes/ha.pdf))
-- **Sistemas de deseño** - Meetup WordPress, Lugo 2019
-  \
+- **Sistemas de deseño** - Meetup WordPress, Lugo 2019\
   ([slides en PDF](/keynotes/sistemas-de-desenho.pdf))
-- **Os tres pés do deseño web** - FEED, A Coruña 2015
-  \
+- **Os tres pés do deseño web** - FEED, A Coruña 2015\
   ([vídeo en Youtube](https://www.youtube.com/watch?v=qZEqS2QSfrc),
   [slides en Slideshare](https://www.slideshare.net/asociaciondag/os-tres-pes-da-web))
 
@@ -162,8 +158,7 @@ que fago desde entón.
   conferencias interesantes sobre deseño en galego e castelán.
 - [Chipi](https://oscarotero.github.io/chipi-client/): Deseño e prototipado
   dunha aplicación de escritorio que permitía buscar en calquera servizo (Slack,
-  Google Docs, Trello, etc).
-  \
+  Google Docs, Trello, etc).\
   ([Prototipo en sketch](https://www.sketch.com/s/f46f510c-9f81-432b-be97-8b71d968f526),
   [Páxina web](https://chipi.io/#/))
 - Colaboro na [Tarugoconf](https://tarugoconf.com) axudándolles a construír as
