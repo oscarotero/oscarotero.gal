@@ -1,30 +1,30 @@
 <!doctype html>
 
-<html lang="{{ lang }}" class="{{ htmlClass or "theme-light" }}">
+<html lang="{{ lang }}" class="{{ it.htmlClass || "theme-light" }}">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>{{ title }}</title>
 
-    {% for lang, url in alternate -%}
+    {{ for lang, url of it.alternate -}}
     <link rel="alternate" hreflang="{{ lang }}" href="{{ url }}">
-    {% endfor -%}
+    {{ /for }}
 
-    <meta property="og:title" content="{{ title }}" />
+    <meta property="og:title" content="{{ it.title }}" />
     <meta name="author" content="Óscar Otero" />
-    <meta property="og:locale" content="{{ lang }}" />
-    <meta name="description" content="{{ description }}" />
-    <meta property="og:description" content="{{ description }}" />
-    <meta property="og:url" content="{{ url }}" />
+    <meta property="og:locale" content="{{ it.lang }}" />
+    <meta name="description" content="{{ it.description }}" />
+    <meta property="og:description" content="{{ it.description }}" />
+    <meta property="og:url" content="{{ it.url }}" />
     <script type="application/ld+json">
       {"url":"https://oscarotero.com/","headline":"Óscar Otero - Web designer and developer","name":"Oscar Otero","author":{"@type":"Person","name":"Oscar Otero"},"description":"I’m just a designer and web developer","@type":"WebSite","@context":"https://schema.org"}
     </script>
     <link rel="stylesheet" href="/styles.css?cache={{ cache }}">
 
     <script type="module" src="/scripts/theme.js?cache={{ cache }}"></script>
-    {% if script %}
+    {{ if it.script }}
     <script type="module" src="{{ script }}?cache={{ cache }}"></script>
-    {% endif %}
+    {{ /if }}
   </head>
 
   <body>
@@ -32,12 +32,12 @@
       <img src="/favicon.svg" width="48" height="48" alt="Logo" inline>
     </a>
 
-    {{ content | safe }}
+    {{ content |> safe }}
     
-    {% ifAsync footer %}
+    {{ if footer }}
       <hr>
-      {% include "./footer.njk" %}
-    {% endif %}
+      {{ include "./footer.vto" }}
+    {{ /if }}
     <theme-switcher><theme-switcher/>
   </body>
 </html>

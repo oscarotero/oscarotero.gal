@@ -8,12 +8,12 @@ url: /notas/con-estrela/
 <p>Listaxe de artigos que me gustaron:</p>
 
 <ul>
-  {% for item in starred %}
+  {{ for item of starred }}
   <li>
     <a href="{{ item.url }}">
       <strong>{{ item.title }}</strong>
     </a><br>
-    <time>{{ item.published | date("HUMAN_DATE", "gl") }}</time>
+    <time>{{ item.published |> date("HUMAN_DATE", "gl") }}</time>
   </li>
-  {% endfor %}
+  {{ /for }}
 </ul>

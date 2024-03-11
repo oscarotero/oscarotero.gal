@@ -8,12 +8,12 @@ url: /notes/starred/
 <p>List of articles I enjoyed:</p>
 
 <ul>
-  {% for item in starred %}
+  {{ for item of starred }}
   <li>
     <a href="{{ item.url }}">
       <strong>{{ item.title }}</strong>
     </a><br>
-    <time>{{ item.published | date("HUMAN_DATE", "en") }}</time>
+    <time>{{ item.published |> date("HUMAN_DATE", "en") }}</time>
   </li>
-  {% endfor %}
+  {{ /for }}
 </ul>

@@ -1,6 +1,6 @@
 ---
 title: Badger
-layout: base.njk
+layout: base.vto
 date: 2023-02-05
 url: /notes/badger/
 htmlClass: "is-portfolio"

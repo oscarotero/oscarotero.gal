@@ -1,0 +1,25 @@
+<footer>
+  <ul>
+    {{ for page of search.pages("notes lang=" + lang) }}
+    <li>
+      <a href="{{ page.url }}">
+        {{ page.title }}
+      </a>
+    </li>
+    {{ /for }}
+  </ul>
+
+  <ul>  
+    {{ for link of links }}
+    <li>
+      <a {{ if link.rel }}rel="{{ link.rel }}"{{ /if }} href="{{ link.href }}" title="{{ link.title }}">
+        {{ link.text }}
+      </a>
+    </li>
+    {{ /for }}
+  </ul>
+
+  <p>
+    <small>{{ texts.copy |> md(true) }}</small>
+  </p>
+</footer>

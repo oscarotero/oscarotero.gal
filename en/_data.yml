@@ -1,5 +1,5 @@
 lang: en
-layout: base.njk
+layout: base.vto
 footer: true
 
 texts:

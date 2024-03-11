@@ -1,8 +1,8 @@
 ---
 url: /robots.txt
-sitemap: ~/sitemap.njk
+sitemap: ~/sitemap.vto
 layout: false
 ---
 User-agent: *
 Allow: /
-Sitemap: {{ sitemap | url(true) }}
+Sitemap: {{ sitemap |> url(true) }}

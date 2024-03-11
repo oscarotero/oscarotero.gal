@@ -1,4 +1,4 @@
-layout: portfolio.njk
+layout: portfolio.vto
 key: home
 title: Portfolio
 url: /portfolio/

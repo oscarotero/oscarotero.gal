@@ -8,12 +8,12 @@ url: /notas/inspiracion/
 <p>Lista de webs que me chamaron a atención por algún motivo.</p>
 
 <ul>
-  {% for item in inspiration %}
+  {{ for item of inspiration }}
   <li>
     <a href="{{ item.url }}">
       <strong>{{ item.title }}</strong>
     </a><br>
-    <time>{{ item.published | date("HUMAN_DATE", "gl") }}</time>
+    <time>{{ item.published |> date("HUMAN_DATE", "gl") }}</time>
   </li>
-  {% endfor %}
+  {{ /for }}
 </ul>

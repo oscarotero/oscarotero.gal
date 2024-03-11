@@ -1,11 +1,11 @@
 import lume from "lume/mod.ts";
-import imagick from "lume/plugins/imagick.ts";
+import transformImages from "lume/plugins/transform_images.ts";
 import parcelCSS from "lume/plugins/lightningcss.ts";
 import date from "lume/plugins/date.ts";
 import favicon from "lume/plugins/favicon.ts";
 import filter from "lume/plugins/filter_pages.ts";
 import inline from "lume/plugins/inline.ts";
-import gl from "npm:date-fns/locale/gl/index.js";
+import { gl } from "npm:date-fns/locale/gl";
 
 const site = lume();
 
@@ -17,7 +17,7 @@ site.copy("keynotes")
   .copy("scripts")
   .copy("vendor")
   .copy("_redirects")
-  .use(imagick())
+  .use(transformImages())
   .use(parcelCSS())
   .use(favicon())
   .use(inline())
