@@ -213,46 +213,16 @@ imports,** and only `jsr:` and `npm:` specifiers are supported. Ironically JSR
 doesn't even support `https://deno.land/x` modules, the package registry created
 initially by Deno.
 
-### My unmet expectations
+## Conclusion
 
-I'm a designer who also likes to work as
-[front-of-the-front-end](https://bradfrost.com/blog/post/front-of-the-front-end-and-back-of-the-front-end-web-development/)
-developer. JavaScript is divided into two runtime categories: Node and the Web.
-Using Node to create something for the Web means dealing with missing Web APIs,
-among other stuff like transpiling, bundling, and all these tools that make
-front-end development so complicated nowadays.
+I'm not saying Deno is a bad runtime. It's still **the runtime that best meets
+my requirements** by far and I'll continue using it (I have a static site
+generator to maintain). Just saying that it's not the evolution that I was
+hoping for, and in some aspects, I'm a bit disappointed.
 
-When I watched Ryan's presentation of Deno, built on top of Web standards, one
-of my hopes was to have finally a runtime that would make more pleasant this
-kind of work. A runtime to make front-end development easy, closer to the
-browser and the standards.
-
-And initially, that's how it seemed. We even had the `emit` API to transpile and
-bundle Deno code for the browser. It was unstable and didn't work well in some
-cases, but it would be improved over time. Unfortunately,
-[Deno decided to remove this feature](https://deno.com/blog/v1.22#removal-of-unstable-denoemit-denoformatdiagnostics-and-denoapplysourcemap-apis)
-due to its complexity and
-[move it to an external package](https://github.com/denoland/deno_emit).
-
-Deno is great for building APIs and server-side code. But if you want to write a
-simple TypeScript file to run on a browser like this:
-
-```ts
-document.getElementById("foo").innerHTML = "Hello World!";
-```
-
-You will have TypeScript errors because the `dom` library is disabled by
-default. With the removal of the `Deno.emit` command, there's no straightforward
-way to convert this code to regular JavaScript to run by a browser.
-
-I'm not saying Deno is a bad runtime. It's still the runtime that best meets my
-requirements by far and I'll continue using it (I have a static site generator
-to maintain). Just saying that it's not the evolution that I was hoping for, and
-in some aspects, I'm a bit disappointed.
-
-Seems that every new runtime that appears (Deno, Bun, etc) is just another Node.
-**We don't have yet a "no Node" alternative.** Maybe a successful Deno fork
-comes up at some point (like io.js was for Node) or maybe a new runtime will be
-born with a different proposal.
+It seems that every new runtime that appears (Deno, Bun, etc) is just another
+Node. **We don't have yet a "no Node" alternative.** Maybe a successful Deno
+fork comes up at some point (like io.js was for Node) or maybe a new runtime
+will be born with a different proposal.
 
 For now, I'm afraid I have to make do with Deno and keep waiting.
