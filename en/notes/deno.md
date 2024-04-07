@@ -225,7 +225,7 @@ front-end development so complicated nowadays.
 When I watched Ryan's presentation of Deno, built on top of Web standards, one
 of my hopes was to have finally a runtime that would make more pleasant this
 kind of work. A runtime to make front-end development easy, closer to the
-browser and standards.
+browser and the standards.
 
 And initially, that's how it seemed. We even had the `emit` API to transpile and
 bundle Deno code for the browser. It was unstable and didn't work well in some
@@ -251,8 +251,8 @@ to maintain). Just saying that it's not the evolution that I was hoping for, and
 in some aspects, I'm a bit disappointed.
 
 Seems that every new runtime that appears (Deno, Bun, etc) is just another Node.
-We don't have yet a "no Node" alternative. Maybe a successful Deno fork comes up
+**We don't have yet a "no Node" alternative.** Maybe a successful Deno fork comes up
 at some point (like io.js was for Node) or maybe a new runtime will be born with
 a different proposal.
 
-For now, I'm afraid we have to wait more.
+For now, I'm afraid I have to make do with Deno and keep waiting.
