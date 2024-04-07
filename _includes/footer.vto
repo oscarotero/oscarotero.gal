@@ -1,6 +1,6 @@
 <footer>
   <ul>
-    {{ for page of search.pages("notes lang=" + lang) }}
+    {{ for page of search.pages("pages lang=" + lang, "title") }}
     <li>
       <a href="{{ page.url }}">
         {{ page.title }}

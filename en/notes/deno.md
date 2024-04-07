@@ -1,5 +1,6 @@
 ---
 title: Thoughts about Deno
+date: 2024-04-05
 ---
 
 # Thoughts about Deno
