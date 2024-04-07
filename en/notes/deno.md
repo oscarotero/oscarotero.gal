@@ -251,8 +251,8 @@ to maintain). Just saying that it's not the evolution that I was hoping for, and
 in some aspects, I'm a bit disappointed.
 
 Seems that every new runtime that appears (Deno, Bun, etc) is just another Node.
-**We don't have yet a "no Node" alternative.** Maybe a successful Deno fork comes up
-at some point (like io.js was for Node) or maybe a new runtime will be born with
-a different proposal.
+**We don't have yet a "no Node" alternative.** Maybe a successful Deno fork
+comes up at some point (like io.js was for Node) or maybe a new runtime will be
+born with a different proposal.
 
 For now, I'm afraid I have to make do with Deno and keep waiting.
