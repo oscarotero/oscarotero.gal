@@ -170,6 +170,7 @@ pre {
   padding-left: 2em;
   border-left: solid 3px;
   margin: 2em 0;
+  overflow-x: auto;
 }
 code {
   font-size: 0.9em;
