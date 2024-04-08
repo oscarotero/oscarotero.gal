@@ -107,8 +107,9 @@ Deno. Internally it must be a complicated piece of software because it needs to
 support two runtimes in one (Node and Deno). Node has added a lot of stuff in
 its 14 years of life: CJS, N-API, package.json, NPM configuration, Node global
 variables, a huge set of APIs, etc. This support must be deeply integrated into
-Deno, to be able to import NPM and Deno modules in the same script. It reminds
-me of when Internet Explorer could run in "quirks mode" or "standard mode", but
+Deno, to be able to import NPM and Deno modules in the same script or use them
+with Deno tools like `vendor`, `compile`, `doc`, `check`, etc. It reminds me of
+when Internet Explorer could run in "quirks mode" or "standard mode", but
 applied to the JavaScript runtimes world.
 
 After 2 years of development (NPM support was added in 2022), there are still
