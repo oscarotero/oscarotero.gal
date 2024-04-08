@@ -44,7 +44,7 @@ body {
   padding: 5vmax 0;
   font-family: var(--font-serif);
   font-size: clamp(1em, 4vmin, 1.2em);
-  line-height: 1.6;
+  line-height: 1.5;
   display: grid;
   grid-template-columns: 2rem [logo-start text-start] minmax(auto, 30rem) [logo-end text-end] minmax(2rem, 1fr);
   row-gap: 1rem;
