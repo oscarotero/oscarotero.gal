@@ -133,7 +133,7 @@ like an open source community. Who knows.
 
 ## JSR
 
-JSR is the full-featured package registry created by Deno, aimed to be
+[JSR](https://jsr.io/) is the full-featured package registry created by Deno, aimed to be
 compatible with all runtimes, not only Deno but also Node, Bun, and others. The
 goal is to implement the _publish once, run everywhere_ approach, which is the
 same strategy I told earlier about DNT: convert Deno in the source of truth and
