@@ -96,11 +96,12 @@ slate for web-centric ESM-first libraries to flourish. And suddenly, it changed
 from being the innovative and future runtime to running behind Node, trying to
 implement all the weird things of Node and NPM (and it never will be as good as
 Node in being Node itself). Node continues to be the source of truth and Deno is
-just an output format (or not output at all because it's not needed). Talking
-with some people about this, I remember the comment that this situation was like
-the Python struggle: So much energy was invested in converting python2 to
-python3 code, compared to 3to2 (reverse). For cross-compatibility, it was easier
-to keep the source of truth in python2.
+just an output format (or not output at all because it's not needed), making the
+Deno ecosystem even more irrelevant. Talking with some people about this, I
+remember the comment that this situation was like the Python struggle: So much
+energy was invested in converting python2 to python3 code, compared to 3to2
+(reverse). For cross-compatibility, it was easier to keep the source of truth in
+python2.
 
 This decision was also a compromise for the following years of development of
 Deno. Internally it must be a complicated piece of software because it needs to
@@ -112,12 +113,62 @@ with Deno tools like `vendor`, `compile`, `doc`, `check`, etc. It reminds me of
 when Internet Explorer could run in "quirks mode" or "standard mode", but
 applied to the JavaScript runtimes world.
 
+## Deno's module resolution
+
+The implementation of the Node compatibility layer increased the complexity of
+the module resolution system of Deno. It's also introduces some behaviors that
+are against
+[of the initial motivation of Ryan](https://www.youtube.com/watch?v=M3BM9TB-8yA)
+to create Deno, like CJS, `package.json` file, automatic `index.js` detection,
+`node_modules` folder, extensionless specifiers, etc.
+
+- The behavior is different depending on whether you have a `package.json` file
+  in your folder or if the `byonm` option is enabled in the `deno.json` file.
+- NPM packages can declare dependencies in multiple ways (`dependencies`,
+  `devDependencies`, `peerDependencies`, `optionalDependencies`) that Deno must
+  support.
+- Node has different package managers (NPM, Yarn, PNPM) with differences in the
+  dependency resolution algorithms, `node_module` structures, etc.
+- Deno cannot use import maps to change the dependencies of NPM packages.
+  Probably due the complexity of introducing another layer in the module
+  resolution.
+
 After 2 years of development (NPM support was added in 2022), there are still
 hundreds of issues opened on GitHub with bugs related to Node compatibility.
 Although they repeatedly said that the goal is not 100% compatibility, that's
 what people expect: if an NPM package doesn't work, it will be Deno's fault. I
 wonder how Deno would be today if **all this effort and resources reimplementing
 Node were spent on evolving and improving Deno itself.**
+
+Recently, Deno released also its package registry ([JSR](https://jsr.io/)) which
+borrows some of the ideas of NPM adapted to Deno. This introduced a new way to
+manage dependencies:
+
+- You can import a JSR module using `jsr:` specifier or from the URL
+  `https://jsr.io`. Both methods work differently.
+- Like NPM, it uses `exports` to map files to public modules, but this is
+  applied only for `jsr:` specifiers, not `https//jsr.io`, and introduces one
+  more level of complexity, making the module resolution less obvious. The
+  filename of a module imported from `jsr:` can be different from the same
+  module imported from `https://jsr.io/`.
+- The `jsr:` flavor introduced versioning resolution in the specifier. This
+  means that the same package can have different specifiers, for example,
+  `jsr:@scope/package@^1.0.0`, `jsr:@scope/package@^1`, `jsr:@scope/package@1`,
+  etc.
+- Technically, it's possible to use import maps with JSR specifiers, but it's a
+  pain due to the multiple specifiers for the same package and the mix of `http`
+  and `jsr` specifiers.
+- JSR gets rid of HTTP imports for dependencies. Only `jsr:` and `npm:`
+  dependencies are supported. This creates a big friction for Deno users and
+  moves away from the web standards.
+
+Fortunately, the complexity and inconsistencies introduced by NPM/JSR are not
+applied to HTTP and local imports which personally was always the main reason
+for using Deno. We have the problem of duplicated versions of the same package,
+but technically is not a problem of using or not HTTP imports but the lack of a
+good method to manage dependencies in Deno.
+
+## Conclusion
 
 Maybe the Deno mission of "modernizing the JavaScript ecosystem" was only in my
 head (to be honest, I don't know if they ever uttered those words), or maybe
@@ -131,16 +182,14 @@ databases, Crons, Queues, Fresh framework, SassKit...
 Perhaps it would be different if it was governed by a different organization
 like an open source community. Who knows.
 
-## Conclusion
-
-I'm not saying Deno is a bad runtime. It's still **the runtime that best meets
-my requirements** by far and I'll continue using it (I have a static site
-generator to maintain). Just saying that it's not the evolution that I was
+Don't get me wrong. Deno is not a bad runtime. It's still **the runtime that
+best meets my requirements** by far and I'll continue using it (I have a static
+site generator to maintain). Just saying that it's not the evolution that I was
 hoping for, and in some aspects, I'm a bit disappointed.
 
 It seems that every new runtime that appears (Deno, Bun, etc) is just another
-Node. **We don't have yet a "no Node" alternative.** Maybe a successful Deno
-fork comes up at some point (like io.js was for Node) or maybe a new runtime
-will be born with a different proposal.
+way to run Node code. **We don't have yet a "no Node" alternative.** Maybe a
+successful Deno fork comes up at some point (like io.js was for Node) or maybe a
+new runtime will be born with a different proposal.
 
 For now, I'm afraid I have to make do with Deno and keep waiting.
