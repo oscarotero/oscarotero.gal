@@ -170,14 +170,12 @@ good method to manage dependencies in Deno.
 
 ## Conclusion
 
-Maybe the Deno mission of "modernizing the JavaScript ecosystem" was only in my
-head (to be honest, I don't know if they ever uttered those words), or maybe
-everything changed when Deno became a Venture Capital-Backed company, which
-means their priority is growing fast. The business model of Deno is hosting
-(with Deno Deploy) and seems that they are trying to compensate for the lack of
-an ecosystem by not only implementing NPM compatibility but also creating
-Deno-specific versions of typical tools needed by startups like Deno KV for
-databases, Crons, Queues, Fresh framework, SassKit...
+Deno is getting bloated, trying to implement all the stuff already existing in
+the JavaScript ecosystem, in order to get a little more of the market. Maybe the
+Deno mission of "modernizing the JavaScript ecosystem" was only in my head (to
+be honest, I don't know if they ever uttered those words). Or maybe everything
+changed when Deno became a Venture Capital-Backed company, which means their
+priority is growing fast.
 
 Perhaps it would be different if it was governed by a different organization
 like an open source community. Who knows.
