@@ -156,8 +156,8 @@ manage dependencies:
   `jsr:@scope/package@^1.0.0`, `jsr:@scope/package@^1`, `jsr:@scope/package@1`,
   etc.
 - Technically, it's possible to use import maps with JSR specifiers, but it's a
-  pain due to the multiple specifiers for the same package and the mix of `http`
-  and `jsr` specifiers.
+  pain due to the multiple specifiers for the same package and the different
+  behavior of `http` and `jsr` specifiers.
 - JSR gets rid of HTTP imports for dependencies. Only `jsr:` and `npm:`
   dependencies are supported. This creates a big friction for Deno users and
   moves away from the web standards.
