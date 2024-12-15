@@ -25,11 +25,12 @@
 html {
   --background: white;
   --color: black;
-  --font-serif: Atlantica, Palatino, 'Palatino Linotype', Times, "Droid Serif", serif;
+  --font-serif:
+    Atlantica, Palatino, "Palatino Linotype", Times, "Droid Serif", serif;
   --font-sans: system-ui, sans-serif;
   --link: blue;
   --link-visited: darkblue;
-  
+
   overflow-x: hidden;
   text-rendering: auto;
   overflow-wrap: break-word;
@@ -46,12 +47,20 @@ body {
   font-size: clamp(1em, 4vmin, 1.2em);
   line-height: 1.5;
   display: grid;
-  grid-template-columns: 2rem [logo-start text-start] minmax(auto, 30rem) [logo-end text-end] minmax(2rem, 1fr);
+  grid-template-columns:
+    2rem [logo-start text-start] minmax(auto, 30rem) [logo-end text-end] minmax(
+    2rem,
+    1fr
+  );
   row-gap: 1rem;
 
   @media (min-width: 700px) {
     column-gap: 1.5rem;
-    grid-template-columns: 5vw [logo-start] 48px [logo-end text-start] minmax(auto, 30rem) [text-end] minmax(5vw, 1fr);
+    grid-template-columns:
+      5vw [logo-start] 48px [logo-end text-start] minmax(
+      auto,
+      30rem
+    ) [text-end] minmax(5vw, 1fr);
   }
 
   > * {
@@ -183,8 +192,8 @@ header {
 
   p {
     font-family: var(--font-sans);
-    font-size: .9rem;
-    margin-top: .3em;
+    font-size: 0.9rem;
+    margin-top: 0.3em;
   }
 }
 
@@ -260,7 +269,7 @@ oom-carousel-navigation {
     border: solid 2px;
     cursor: pointer;
     font-family: inherit;
-    padding: .25rem;
+    padding: 0.25rem;
     margin: 0;
 
     & + button {
@@ -273,7 +282,7 @@ oom-carousel-navigation {
     }
     &:disabled {
       cursor: default;
-      opacity: .1;
+      opacity: 0.1;
     }
     &:focus {
       outline: 0;
@@ -289,7 +298,12 @@ oom-carousel-navigation {
   /* Degradado chorra */
   @media (min-width: 700px) {
     body {
-      background: linear-gradient(to right, transparent, transparent 90rem, hsl(180deg 100% 90%) 120rem);
+      background: linear-gradient(
+        to right,
+        transparent,
+        transparent 90rem,
+        hsl(180deg 100% 90%) 120rem
+      );
 
       &::before {
         content: "";

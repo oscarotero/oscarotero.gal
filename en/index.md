@@ -152,14 +152,13 @@ Hugo or Eleventy. I use it for all web projects I work since then.
 ### Code
 
 I love to write HTML/CSS and build or experiment with very under-engineering
-solutions. I'm also a strong advocate of open source and maintainer of several
-projects like:
+solutions. I'm also a strong advocate of Open Source, Web standards and
+maintainer of several projects like:
 
 - [Lume](https://lume.land), a static site generator for Deno.
 - [A plugin for Figma](https://www.figma.com/community/plugin/1001444625792698603/marketgoo-copies)
   to work with copies using Google Spreadsheets documents
-  ([code](https://github.com/marketgoo/figma-copies)). Previously I had created
-  [the same plugin for Sketch](https://github.com/marketgoo/sketch-copies).
+  ([code](https://github.com/marketgoo/figma-copies)).
 - Some PHP projects: [PHP middlewares](https://github.com/middlewares) (a
   collection of PSR-15 HTTP middlewares),
   [PHP-Gettext](https://github.com/php-gettext), (a popular PHP library to work
@@ -168,16 +167,15 @@ projects like:
   [SimpleCrud](https://github.com/oscarotero/simple-crud) (easy and magic CRUD
   in SQL databases), [FormManager](https://github.com/oscarotero/form-manager)
   (to create and validate form data).
-- Several Node tools like
-  [node-sketch](https://github.com/oscarotero/node-sketch) (read and edit Sketch
-  documents) and
-  [keep-a-changelog](https://github.com/oscarotero/keep-a-changelog) (parse and
-  generate changelog files).
-- Other _frontend_ libraries like
-  [a carousel](https://github.com/oom-components/carousel) (a _web component_ to
-  create carousels) and
-  [page-loader](https://github.com/oom-components/page-loader) (to load and
-  create fancy transitions between pages).
+- Some web components with accessibility and progressive enhancement in mind:
+  - [mastodon-comments](https://github.com/oom-components/mastodon-comments) a
+    Mastodon + Bluesky comments system.
+  - [carousel](https://github.com/oom-components/carousel) a yet another
+    carousel.
+  - [page-loader](https://github.com/oom-components/page-loader) to load and
+    create fancy transitions between pages.
+  - [horizontal-menu](https://github.com/oom-components/horizontal-menu) to
+    create responsive horizontal menus.
 
 ---
 

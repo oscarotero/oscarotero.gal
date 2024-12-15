@@ -6,9 +6,9 @@ texts:
   label: En Galego
   base: https://oscarotero.gal
   copy: |
-    © Óscar Otero, 2023.  
+    © Óscar Otero, 2023.
     Grazas a Marcos Dopico pola tipografía [Atlantica Serif](http://maistypes.com/).
-  menu: 
+  menu:
     - text: O que uso
       href: /uses/
     - text: Inspiración

@@ -14,7 +14,7 @@ portfolio:
     subtitle: Product design — 2022 — [getbadger.io](https://getbadger.io/)
     description: |
       Badger is a new product from **marketgoo** to generate and share SEO reports for agencies and professional freelances.
-      
+
       It's still in progress. Some early mockups:
     images:
       - src: /portfolio/badger/badger-ui.webp
@@ -27,7 +27,7 @@ portfolio:
     subtitle: UI design & HTML prototype — 2020 — [zeroheight](https://zeroheight.com/22mjgbuf6/p/7085d5-introduction)
     description: |
       Ola is the design system of **marketgoo**, a DIY SEO tool for non expert people. The product must be easy to use and understand, avoiding jargon and complex features.
-      
+
       It's also a white label product, so the design system must be fully customizable for web and email.
     images:
       - src: /portfolio/ola/ola.webp
@@ -53,7 +53,7 @@ portfolio:
     subtitle: Product design & HTML prototype — 2018
     description: |
       Chipi (now shutted down) was a desktop app created in New Zealand to search documents in all your accounts like Slack, Gmail, Google Drive, Trello etc. Similar to Apple's Spotlight, the interface should be able to search, filter, preview, open, save and share documents **only using the keyboard**.
-      
+
       In addition to the design in Sketch, I've created [this interactive prototype](https://oscarotero.github.io/chipi-client/).
     images:
       - src: /portfolio/chipi/1-focus.webp
@@ -69,8 +69,8 @@ portfolio:
   - title: Historia Arte
     subtitle: Design & development — 2018 — [historia-arte.com](https://historia-arte.com)
     description: |
-      HA! (or Historia Arte) is an aside project, created with Miguel Calvo, to analyze an artwork every day. The design process was documented in *real time* in [several posts](https://medium.com/@misteroom/redese%C3%B1o-ha-parte-1-o-reto-e773e7ad6a43). 
-      
+      HA! (or Historia Arte) is an aside project, created with Miguel Calvo, to analyze an artwork every day. The design process was documented in *real time* in [several posts](https://medium.com/@misteroom/redese%C3%B1o-ha-parte-1-o-reto-e773e7ad6a43).
+
       It also won some design awards like [Mobile site of the week](https://www.awwwards.com/mobile-sites/ha) or the [Clap 2018 selection](https://premiosclap.org/ganador-730) for the best web design.
     images:
       - src: /portfolio/ha/home.webp
@@ -87,7 +87,7 @@ portfolio:
     subtitle: Web design & development — 2021 — [nmtype.com](https://nmtype.com)
     description: |
       I've collaborated with NM type —a digital type foundry based in Sweden and Spain— to create their new website.
-      
+
       A pure typographic interface, without unnecessary icons or fancy shadows and everything in black & white (with a bit of gray).
     images:
       - src: /portfolio/nmtype/home.webp

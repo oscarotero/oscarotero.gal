@@ -1,6 +1,6 @@
 links:
   - text: Email
-    href: 'mailto:oom@oscarotero.com'
+    href: "mailto:oom@oscarotero.com"
   - text: Github
     href: https://github.com/oscarotero
   - text: Mastodon
@@ -39,7 +39,7 @@ starred:
   - title: File over app
     url: https://stephanango.com/file-over-app
     published: 2023-07-01
-  - title: Design for the web without Figma 
+  - title: Design for the web without Figma
     url: https://world.hey.com/dhh/design-for-the-web-without-figma-4bc3a218
     published: 2023-06-29
   - title: "No Handoff: close the gap between product and engineering"

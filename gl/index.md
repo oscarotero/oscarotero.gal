@@ -172,8 +172,7 @@ que fago desde entón.
 - Fixen
   [un plugin de Figma](https://www.figma.com/community/plugin/1001444625792698603/marketgoo-copies)
   para traballar con textos desde arquivos de Google Spreadsheets
-  ([código](https://github.com/marketgoo/figma-copies)). Anteriormente fixera
-  [o mesmo plugin para Sketch](https://github.com/marketgoo/sketch-copies).
+  ([código](https://github.com/marketgoo/figma-copies)).
 - Cousas en PHP: [Middlewares](https://github.com/middlewares) (Colección de
   _middlewares_ en formato PSR-15),
   [PHP-Gettext](https://github.com/php-gettext) (conxunto de ferramentas para
@@ -183,16 +182,15 @@ que fago desde entón.
   operación CRUD en base de datos),
   [FormManager](https://github.com/oscarotero/form-manager) (para crear e
   validar datos en formularios).
-- Varias ferramentas en Node como
-  [node-sketch](https://github.com/oscarotero/node-sketch) (para editar
-  documentos de Sketch) e
-  [keep-a-changelog](https://github.com/oscarotero/keep-a-changelog) (para crear
-  changelogs).
-- Outras utilidades de javascript _frontend_ como
-  [carousel](https://github.com/oom-components/carousel) (_web component_ para
-  crear carruseis) ou
-  [page-loader](https://github.com/oom-components/page-loader) (para cargar e
-  crear transicións chulas entre páxinas).
+- Algúns _web components_ tendo en conta a accesibilidade e estratexias de
+  _progressive enhancement_:
+  - [mastodon-comments](https://github.com/oom-components/mastodon-comments)
+    sistema de comentarios baseado en Mastodon e Bluesky.
+  - [carousel](https://github.com/oom-components/carousel) si, outro carruel.
+  - [page-loader](https://github.com/oom-components/page-loader) para cargar e
+    crear transicións chulas entre páxinas
+  - [horizontal-menu](https://github.com/oom-components/horizontal-menu) para
+    crear un menú horizontal que funcione ben en móbiles.
 
 ---
 
