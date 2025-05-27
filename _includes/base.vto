@@ -9,13 +9,14 @@
     {{ for lang, url of it.alternate -}}
     <link rel="alternate" hreflang="{{ lang }}" href="{{ url }}">
     {{ /for }}
+    <link rel="webmention" href="https://webmention.io/oscarotero.com/webmention">
 
-    <meta property="og:title" content="{{ it.title }}" />
-    <meta name="author" content="Óscar Otero" />
-    <meta property="og:locale" content="{{ it.lang }}" />
-    <meta name="description" content="{{ it.description }}" />
-    <meta property="og:description" content="{{ it.description }}" />
-    <meta property="og:url" content="{{ it.url }}" />
+    <meta property="og:title" content="{{ it.title }}">
+    <meta name="author" content="Óscar Otero">
+    <meta property="og:locale" content="{{ it.lang }}">
+    <meta name="description" content="{{ it.description }}">
+    <meta property="og:description" content="{{ it.description }}">
+    <meta property="og:url" content="{{ it.url }}">
     <script type="application/ld+json">
       {"url":"https://oscarotero.com/","headline":"Óscar Otero - Web designer and developer","name":"Oscar Otero","author":{"@type":"Person","name":"Oscar Otero"},"description":"I’m just a designer and web developer","@type":"WebSite","@context":"https://schema.org"}
     </script>
