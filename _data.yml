@@ -3,6 +3,7 @@ links:
     href: "mailto:oom@oscarotero.com"
   - text: Github
     href: https://github.com/oscarotero
+    rel: me
   - text: Mastodon
     href: https://mastodon.gal/@misteroom
     rel: me
