@@ -1,0 +1,92 @@
+*|MC_PREVIEW_TEXT|*
+
+#006 - Abrir no navegador (*|ARCHIVE|*)
+
+
+** Acerca das subscricións
+------------------------------------------------------------
+https://us3.campaign-archive.com/feed?u=b76091042fc4e142a9360ebb0&id=5fe133b73cRSS é un deses inventos que non entendo como non ten máis éxito. Parece simple: un formato de arquivo ao que te podes subscribir e que te avisa dos novos contidos que haxa nun sitio web. E o certo é que durante certo tempo funcionou bastante ben, todo o mundo consumía blogs nos seus lectores de RSS (maiormente Google Reader). Mais foi pechar o servizo de Google e, de repente, todo se escureceu. Apareceron alternativas, algunhas de pagamento, outras de código aberto, mais ningunha conseguiu ocupar o lugar deixado por Google Reader.
+
+Por suposto, o RSS continúa vivo: practicamente todas as ferramentas para crear blogs manteñen esa funcionalidade por defecto e seguro que unha boa parte dos que estades a ler isto (sobre todo se tedes máis de 30 anos) continuades a consumir RSS. O máis interesante da subscrición por RSS é que se estabelece unha conexión máis directa e íntima entre o sitio e os seus lectores, sen intermediarios. Podes crear a túa propia biblioteca de subscricións: noticias, deseño, lecer... o teu curruncho privado de información curada por e para ti. En cambio, na época post-RSS o xeito habitual de saber das novidades é por medio das redes sociais, onde fai falla que alguén que sigas comparta o link para que che chegue. Perdeuse, por tanto, esa conexión, esa forma tan persoal e privada de recibir información.
+
+Un intento de recuperar esa relación apareceu coa estandarización das notificacións web (https://developer.mozilla.org/en-US/docs/Web/API/Notifications_API) grazas á cal se pode recibir notificacións push de calquera sitio web. A gran diferenza é que son precisamente push, e non pull, polo que resultan especialmente molestas, tanto que os navegadores tiveron que introducir restricións (https://wwwhatsnew.com/2019/11/07/firefox-impedira-el-abuso-de-las-ventanas-que-solicitan-permiso-para-el-envio-de-notificaciones/) para evitar o abuso. As notificacións push non se crearon precisamente para substituír o RSS: imaxina recibir unha notificación por cada post publicado en calquera dos blogs que acompañas.
+Outro método son as newsletters, agora tan de moda. O problema neste caso é que non se trata dun sistema escalable (non me imaxino estar subscrito a 50 ou 100 boletíns, como antes estaba subscrito a 50 ou máis blogs), ademais doutros problemas ben apuntados por Ascárida (https://twitter.com/ascarida/status/1240255957583740931) .
+
+O certo é que, a día de hoxe, non existe nada «moderno» que poida satisfacer esta demanda, e hai xente que parece que está redescubrindo de novo a maxia do RSS. Por pór un exemplo, hai un ano Javier Cañada volveu recuperar outra vez o seu blog e a consumir RSS (http://www.terremoto.net/blog-es/volver) . Mais a dúbida que teño é se as novas xeracións tamén acabarán por subir ao barco. Isto último creo que é máis complicado, e non é por falta de lectores de RSS, xa que, afortunadamente, segue habendo bastante onde escoller:
+* Unha opción é instalares un lector no teu servidor. O mellor para teres un control total e máxima privacidade. Aquí tes unha lista de software de código aberto (https://github.com/awesome-selfhosted/awesome-selfhosted#feed-readers) .
+* Se non te queres complicar, tamén podes probar algúns dos servizos online que hai:
++ Feedbin (https://feedbin.com/) : Cun prezo de 5$ ao mes, é unha das mellores alternativas, e que respecta a túa privacidade (https://feedbin.com/blog/2018/09/11/private-by-default/) .
++ NetNewsWire (https://ranchero.com/netnewswire/) : Software instalable en Mac ou iOS gratuíto e de código aberto.
+* Fraidycat (https://fraidyc.at/) : A opción máis orixinal. Trátase dunha extensión para Chrome/Firefox, aínda que tamén se pode instalar en desktop. Permite seguir persoas. Ademais ten soporte para algúns sitios que non teñen RSS como Twitter, Instagram ou SoundCloud.
+
+Por certo, Conxeito ten tamén RSS, (https://us3.campaign-archive.com/feed?u=b76091042fc4e142a9360ebb0&id=5fe133b73c) por se me queredes seguir por aí e non encher máis aínda a vosa bandexa de correo electrónico.
+
+E como curiosidade, o RSS apareceu en 1999, e un dos que colaboraron na súa definición foi Aaron Swartz (https://gl.wikipedia.org/wiki/Aaron_Swartz) , que tristemente se suicidaría 3 anos despois á idade de 26 anos, o que causara unha gran conmoción. Se non coñeces a súa vida, recoméndoche o documental The Internet's Own Boy (http://www.takepart.com/internets-own-boy/) .
+
+
+** Coronavirus
+------------------------------------------------------------
+Se algunha cousa positiva podemos tirar de todo isto é a cantidade de iniciativas que aparecen por todo o mundo para axudarnos no confinamento.
+https://www.youtube.com/playlist?list=PLvahqwMqN4M0GRkZY8WkLZMb6Z-W7qbLA
+
+Netflix decidiu deixar de balde en Youtube algunhas series documentais con carácter didáctico. Entre elas atopamos a primeira tempada de Abstract, que se non a viches, agora non tes escusa. Alén disto, podemos encontrar outras grandes series como Explained, onde nos explican de xeito moi didáctico cousas como por que as mulleres cobran menos (https://www.youtube.com/watch?v=hP8dLUxBfsU&list=PLvahqwMqN4M0GRkZY8WkLZMb6Z-W7qbLA) . Tedes todo o material nesta playlist. (https://www.youtube.com/playlist?list=PLvahqwMqN4M0GRkZY8WkLZMb6Z-W7qbLA)
+
+https://www.shirazanddaryan.com/caution/caution-font
+
+Shiraz & Daryan é un estudio escandinavo que deseñou unha fermosísima e orixinal tipografía inspirada no SARS-CoV-2 e que podes descargar gratuitamente (https://www.shirazanddaryan.com/caution/caution-font) . Ademais, vai acompañada deste divertido vídeo promocional (https://vimeo.com/399084023) .
+
+https://www.zetafonts.com/quarantype
+
+E continuamos con tipografías, xa que Zetafonts pon á nosa disposición esta orixinal colección tipográfica chamada Quarantype (https://www.zetafonts.com/quarantype) . Son 10 tipos de letra, cada unha máis extravagante que a anterior.
+
+https://bigfish.works/
+
+Dubem Kizito (@dubem_kizito (https://twitter.com/dubem_kizito) ) é un frontend, deseñador e ilustrador nixeriano que creou unha serie de ilustracións relacionadas co Coronavirus que podes descargar (https://bigfish.works/) gratuitamente nas túas comunicacións.
+
+https://aneventapart.com/news/post/the-complete-aea-dc-2019-now-online
+
+As conferencias de An Event Apart son practicamente obrigatorias para calquera que queira dedicarse ao deseño UX ou desenvolvemento frontend. Pois tiveron a feliz idea de liberar todas as conferencias de 2019 ao mesmo tempo. (https://aneventapart.com/news/post/the-complete-aea-dc-2019-now-online) Aínda non podo recomendar ningunha en particular porque non as vin todas, mais as dúas que vin (Design Ops de Kevin M. Hoffman e animación de Sarah Drasner) gustáronme moito.
+
+https://read-covid19.typeform.com/to/w7pxi9
+
+A READ (https://www.designread.es/) publicou esta semana unha enquisa para coñecer como afecta esta crise sanitaria o sector do deseño. Se es freelance ou traballas nunha axencia, anímote a que a cubras. (https://read-covid19.typeform.com/to/w7pxi9)
+
+https://www.washingtonpost.com/graphics/2020/world/corona-simulator/
+
+Moitas compañías SAAS están a ofrecer descontos nos seus servizos. Adriaan Van Rossum decidiu recompilar moitas delas neste directorio. (https://saasforcovid.com/)
+
+https://vimeo.com/407343244
+Esta semana, o documental de Gary Hustwit foi Workplace, (https://vimeo.com/407343244) nel fala do pasado, presente e futuro das oficinas. Foi gravado en 2016, antes da crise do covid-19, que seguramente mude moitas desas predicións. Aínda que o límite para velo rematou, deixouno colgado uns días máis.
+
+E esta semana, se despois de ver Helvetica, quedastes con ganas de máis, presenta o Bonus Footage (https://vimeo.com/409493610) , que dura incluso máis que o documental.
+https://www.youtube.com/watch?v=t69OHt1k_44
+É certo que agora están a saír palestras e webinars de deseño ata de debaixo das pedras e non hai tempo (ou ganas) de ver todo. Mais se esta semana tiveses que escoller só unha, eu recoméndoche a charla que Anxo López (https://www.instagram.com/anxolopez/) dou no FEED 2019, falándonos do valor do deseño. Non só polo que di, senón polo xeito ameno no que o di.
+https://m.signalvnoise.com/real-work-vs--imaginary-work/
+
+Dende hai uns meses, estamos empregando Basecamp (https://basecamp.com/) para xestionar os proxectos en marketgoo, e implementamos a metodoloxía Shape Up (https://basecamp.com/shapeup) . Unha das súas vantaxes é que nos permite distinguir entre o traballo imaxinario e o traballo real, e evitar sustos de última hora, grazas ao Hill Chart, que está moi ben explicado neste post (https://m.signalvnoise.com/real-work-vs--imaginary-work/) .
+
+
+** Name all colors
+------------------------------------------------------------
+RGB (ou HEX) pode representar ata 16.777.216 cores diferentes. Pois hai a quen se lle ocorreu a tolísima idea de lle pór nome a todas e cada unha desas cores (https://colornames.org/) . Por agora vai no 7,3%, asi que tampouco hai présa. Eu, por se acaso, acabo de buscar a cor empregada neste número do Conxeito para propor o nome «Conxeito 6» (https://colornames.org/color/08637f) .
+
+
+** Deseñar para o mundo que ven
+------------------------------------------------------------
+Se estas lendo esto antes das 18:00, aínda estas a tempo de asistir ao primeiro webinar #FSWD (https://fswd.es/) (From Spain With Design) organizado pola READ (https://www.designread.es/disenar-para-el-mundo-que-viene-fswd-read-webinar/) e onde podremos ver a Xènia Viladás, Miguel Zorraquino e Anxo López (si, outra vez Anxo 🙂) falando sobre como o deseño se vai ter que adaptar ao que nos chega por diante. Podes velo en directo por Youtube (https://www.youtube.com/watch?v=Vb42NNwdjpg) .
+
+============================================================
+** Comparte (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|*)
+** Comparte (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|*)
+** Tuitea (http://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE_LINK_SHORT|*)
+** Tuitea (http://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE_LINK_SHORT|*)
+** Reenvía (*|FORWARD|*)
+** Reenvía (*|FORWARD|*)
+** Creative Commons con Attribución (https://creativecommons.org/licenses/by/4.0/deed.gl)
+- *|LIST:COMPANY|* (*|CURRENT_YEAR|*)
+O logotipo de conxeito foi creado coa tipografía ** Movement de María Ramos (http://www.nmtype.com/movement/)
+
+Se non queres recibir máis correos ** date de baixa desta lista (*|UNSUB|*)
+.
+
+*|IF:REWARDS|* *|REWARDS_TEXT|* *|END:IF|*

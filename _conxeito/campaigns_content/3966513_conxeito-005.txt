@@ -1,0 +1,108 @@
+*|MC_PREVIEW_TEXT|*
+
+#005 - Abrir no navegador (*|ARCHIVE|*)
+
+
+** Sobre Deseño e código
+------------------------------------------------------------
+«Diseñar es ordenar», di Miguel Milá (https://www.revistaad.es/decoracion/diseno/articulos/miguel-mila-honestidad-del-diseno/24835) . Non lle falta razón: todos os deseñadores estamos obsesionados con ordenar e clasificar cousas. E para conseguilo dedicámonos a crear sistemas, calcular proporcións, distribuír elementos en grellas ou facer composicións dende hai séculos. Non traballamos de xeito aleatorio, senón sistematicamente: se un texto vai cunha determinada tipografía, cor ou tamaño, é porque eses atributos forman parte de algo superior que lle dá sentido a todo o conxunto. Pasa coa xanela dun edificio, a gabeta dun moble, o grosor do mango dunha vasoira ou o peto dun pantalón. Ás veces, esas conexións son máis obvias e fáciles de percibir, outras veces máis sutís e parece que só están na cabeza do deseñador, mais sempre están aí, habelas, hainas.
+
+O deseño dixital ten a particularidade de que non se proxecta sobre obxectos físicos, senón sobre software. Durante a miña vida profesional tiven a sorte de poder traballar con moi bos desenvolvedores, que coñecían os principios da boa programación e eran capaces de construír software de calidade. Mais, sorprendentemente, moi poucos eran capaces de escribiren CSS de calidade. Quizais debido ás propias características desta linguaxe, tan sinxela e fácil de aprender, como difícil de aplicar. Igual que un piano, que todo o mundo sabe como se toca, pero poucos saben facer música con el.
+
+CSS é unha linguaxe que serve para construír interfaces e, durante moito tempo, os responsables de escribila eran os mesmos enxeñeiros que se encargaban de programar o resto do software. Moitos non tiñan demasiadas nocións de deseño polo que se limitaban a replicar os prototipos ou bosquexos que lles chegaban dos deseñadores. E quizais aí está o problema, en que se empregaba para «pintar» ou copiar as pantallas pero non eran capaces de entender e implementar a lóxica ou modelo mental que había detrás.
+Un exemplo sinxelo: Se o texto dun título ten un tamaño de 25px, quizais non sexa unha medida aleatoria, senón que estea en consonancia co tamaño do corpo de texto. Pero iso o programador non o sabe —a non ser que lle contemos o porqué de todas as nosas decisións— así que acabará facendo algo como isto:
+
+.titulo {
+font-size: 25px;
+}
+.corpo {
+font-size: 16px;
+}
+
+En cambio, na cabeza do deseñador, seguramente habería algo máis próximo a isto:
+
+.artigo  {
+--base: 16px;    /* Tamaño base */
+--escala: 1.618; /* Proporción áurea */
+}
+.titulo {
+font-size: calc(var(--base) * var(--escala));
+}
+.corpo {
+font-size: var(--base);
+}
+
+É un exemplo moi sinxelo, aínda que creo que ilustra ben o que quero dicir. Quizais nos dous casos temos o mesmo resultado, mais no segundo exemplo o programador non só se limitou a aplicar uns valores a uns elementos, senón que percibiu a lóxica que hai detrás. O segundo non só contén o resultado final, senón o proceso (ou cálculo) necesario para chegar a ese resultado.
+
+Hai tempo que a CSS deixou de ser unha «linguaxe para pintar» e agora pode facer cálculos matemáticos (https://developer.mozilla.org/en-US/docs/Web/CSS/calc) , definir grellas (https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Grid_Layout) , comportamentos (https://css-tricks.com/thinking-in-behaviors-not-screen-sizes/) , transicións (https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Transitions/Using_CSS_transitions) , animacións (https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations) etc. Seguramente sexa a ferramenta máis potente que existiu nunca (ademais do lapis) para definir interfaces, porque pode entender e aplicar as nosas decisións e lóxicas de deseño, facendo o traballo sucio por nós.
+
+A típica pregunta que rexorde cada certo tempo é se os deseñadores deben saber escribir código. (https://duckduckgo.com/?q=should+designers+learn+to+code) Esta pregunta está mal formulada porque non se especifica que tipo de código: PHP, Javascript, Python, Ruby, SQL, Cobol...? Se a reformulamos a: Deben os deseñadores dixitais saber escribir código CSS? A miña opinión é que si.
+
+É certo que existen bos deseñadores que non dominan o CSS, igual que tamén existiron grandes músicos que non sabían ler unha partitura (Jimi Hendrix, por exemplo). Pero temos a inmensa sorte de poder ter unha linguaxe de programación que podemos facela nosa, tirarlle moito máis partido do que se estaba a facer ata agora e conseguir, deste xeito, un dominio aínda maior do deseño de produtos dixitais. Non desperdiciemos a oportunidade.
+
+
+** O confinamento continúa
+------------------------------------------------------------
+Outra semana máis na casa. Eu lévoo ben, aínda que cada vez boto máis en falta poder saír á rúa, dar un paseo pola zona vella, ir comer a algún restaurante ou tomar algo nun bar. Hai que ter paciencia e mentres tanto:
+https://twitter.com/brais_lorenzo/status/1248333303905746946
+
+Brais Lorenzo (@brais_lorenzo (https://twitter.com/brais_lorenzo) ) é un fotoxornalista galego que decidiu compartir connosco unha foto diaria relacionada co confinamento na súa conta de Twitter. É difícil seleccionar unha, mellor explorade vós (https://twitter.com/search?q=%40brais_lorenzo%20%23covid19&src=typed_query&f=live) .
+
+https://twitter.com/modesto_garcia/status/1242872971179540480
+
+Un día, o deseñador Modesto García (https://twitter.com/modesto_garcia) xuntouse co ilustrador Javi de Castro (https://twitter.com/javi_decastro) e crearon este xogo de misterio en forma de imaxes en que debemos descubrir o asasino. Xa levan 3 casos diferentes, e pódese xogar tanto dende Twitter como dende Instagram:
+* Caso 1: Instagram (https://www.instagram.com/p/B-KutKKjM_U/) / Twitter (https://twitter.com/modesto_garcia/status/1242872971179540480)
+* Caso 2: Instagram (https://www.instagram.com/p/B-hXyOyjgqy/) / Twitter (https://twitter.com/modesto_garcia/status/1246075222723190786)
+* Caso 3: Instagram (https://www.instagram.com/p/B-4XFYwDTR3/) / Twitter (https://twitter.com/modesto_garcia/status/1249310404020449292)
+
+https://imisstheoffice.eu/
+
+Despois de tanto tempo de confinamento, quizais botes de menos o ruído da oficina ou coworking. Para os máis nostálxicos, a axencia Kids Creative (https://www.thekids.eu/en/) creou un xerador de ambiente de oficina. (https://imisstheoffice.eu/) Simplemente indica o número de persoas que sodes, e dálle ao play. Eu, dende logo, non o penso usar, mais aquí o deixo.
+
+https://imisstheoffice.eu/
+
+Os que coñezades a escola Unitaria (https://escolaunitaria.com/) , estaredes ao tanto das proxeccións que están facer durante o confinamento (https://www.facebook.com/pg/escolaunitaria/photos/) . Cada vez que algo se fai popular, o meu amigo Berto Yáñez (@bertez (https://twitter.com/bertez/) ) crea un xerador para a ocasión. Agora non podía ser menos. Así que xa podedes xerar as vosas propias proxeccións (https://proxecta.netlify.com/) sen gastar cartos nun proxector real.
+
+https://imisstheoffice.eu/
+
+O escritor Ramón D. (@ramoninguez (https://www.instagram.com/ramoninguez/) ) e o ilustrador Iván R. (@ivan_r_ (https://www.instagram.com/ivan_r_/) ) agasallan os máis pequenos con este libro infantil #euquedonacasa que podedes descargar en formato PDF en Vinte (https://vinte.praza.gal/artigo/un-contino-para-crianzas-en-confinamento) .
+
+https://www.youtube.com/watch?v=C5NiAoT3xsY
+Marabilloso documental sobre o deseño das pixel fonts que se empregaban nos xogos arcade de 8 bits, onde cada carácter tiña que encaixar nunha grella de 8x8 píxeles. Ademais, o documental tamén dura 8 minutos, todo encaixa.
+https://ai-art.tokyo/en/
+
+Sato (@sato_neet (https://twitter.com/sato_neet) ) é un full-stack developer que acaba de crear un artista virtual chamado AI Gahaku por intelixencia artifical (https://ai-art.tokyo/en/) . Sube unha fotografía e en cuestión de segundos o artista pintarache unha «obra de arte» con ela.
+
+https://quintob.substack.com/
+
+O noso querido Anxo López vive en Madrid e deduzo que no piso 5º B, polo nome da súa nova aventura: «Postales desde el quinto B» (https://quintob.substack.com/about) . A idea é fantástica: enviarnos unha postal cada semana (foto e texto). Agora que te metiches no mundo dos boletíns semanais, recoméndoche que tamén te subscribas a este. (https://quintob.substack.com/subscribe)
+
+https://animockup.com/
+
+Se precisas xerar o típico mockup para ver a túa aplicación nun iPhone ou un portátil, e logo promocionala nas redes sociais ou nunha landing, Animockup (https://animockup.com/) é a túa ferramenta. Ademais, é open source (https://github.com/alyssaxuu/animockup) .
+
+https://animockup.com/
+
+Esta semana tiña que facer unha cousa cunha fotografía e, como non teño Photoshop, decidín probar Krita, (https://krita.org/) un programa gratuíto, mais bastante avanzado para pintar, debuxar banda deseñada ou crear texturas. Posúe moitos pinceis diferentes que emulan todo tipo de ferramentas e superficies.
+
+http://oa.letterformarchive.org/
+
+Letterform é unha asociación sen ánimo de lucro localizada en San Francisco que posúe un catálogo inmenso de exemplares de lettering, ilustración, caligrafía, pósters etc de todas as épocas. Recentemente acaban de liberar o seu arquivo online (https://letterformarchive.org/news/the-online-archive-is-now-open-to-all) para que todo aquel que o desexe poida exploralo en busca de inspiración.
+
+https://www.youtube.com/watch?v=f12Fs5JLTdc&list=PLC3OzNzetyTk34hW74fS0vRoofkLRAhhl&index=15&t=0s
+
+Finalmente, o sábado pasado púidose realizar o #zapatillasFromMars sen problemas. 13 palestras online que se poden resumir nesta playlist de youtube (https://www.youtube.com/playlist?list=PLC3OzNzetyTk34hW74fS0vRoofkLRAhhl) . Aínda non as puiden ver todas, mais do que vin, gustoume especialmente a de Sergio de la Casa (https://www.youtube.com/watch?v=f12Fs5JLTdc&list=PLC3OzNzetyTk34hW74fS0vRoofkLRAhhl&index=15&t=0s) . Desde que a vin, teño ganas de saír romper escaparates.
+
+http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|* Compartir (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|*)
+http://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE_LINK_SHORT|* Twitear (http://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE_LINK_SHORT|*)
+*|FORWARD|* Enviar por email (*|FORWARD|*)
+
+============================================================
+** Creative Commons con Attribución (https://creativecommons.org/licenses/by/4.0/deed.gl)
+- *|LIST:COMPANY|* (*|CURRENT_YEAR|*)
+O logotipo de conxeito foi creado coa tipografía ** Movement de María Ramos (http://www.nmtype.com/movement/)
+
+Se non queres recibir máis correos ** date de baixa desta lista (*|UNSUB|*)
+.
+
+*|IF:REWARDS|* *|REWARDS_TEXT|* *|END:IF|*

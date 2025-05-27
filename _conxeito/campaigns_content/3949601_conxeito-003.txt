@@ -1,0 +1,82 @@
+*|MC_PREVIEW_TEXT|*
+
+#003 - Abrir no navegador (*|ARCHIVE|*)
+
+
+** Principios de deseño
+------------------------------------------------------------
+Na empresa na que traballo (marketgoo (https://www.marketgoo.com/) ) estivemos a facer nas últimas semanas un intenso exercicio de «visión de produto» que, entre outras cousas, nos levou a definir uns novos Principios de deseño (aínda que no noso caso chamámoslles Product Values). É certo que xa tiñamos uns principios (https://zeroheight.com/22mjgbuf6/p/93c9d7-principles) definidos anteriormente, pero nesta ocasión, foi un traballo colaborativo de todo o equipo de produto, cun resultado moito máis acorde coa compañía e co produto que ofrecemos. Cando rematemos de darlle forma, farémolos públicos, e substituirán os anteriores.
+
+Os «principios de deseño» son un conxunto de regras que nos axudan na toma de decisións. A pesar do seu nome, non son algo relacionado exclusivamente co deseño, nin sequera con empresas de produto como a miña. Poden ser implementados por calquera empresa, organización ou colectivo que queira establecer unha serie de valores ou principios que sirvan de guía á hora de darlle forma a calquera produto, tecnoloxía ou servizo que ofreza.
+
+Un exemplo aplicado á tecnoloxía son os principios de deseño da linguaxe HTML (https://www.w3.org/TR/html-design-principles/) coa que está construída a web. Outro bo exemplo de principios de deseño témolo nos Design Principles do Goberno do Reino Unido (https://www.gov.uk/guidance/government-design-principles) , sobre os que falou Coca Rivas nesta palestra do FEED de 2017 (https://www.youtube.com/watch?v=cvScsRgmmSg) . Incluso me aventuro a dicir que o decálogo ético para a práctica do deseño (https://www.designread.es/decalogo-etico-para-la-practica-del-diseno/) que definimos dende a READ podería considerarse unha síntese dos principios de deseño da profesión de deseñador/a 🙂
+
+Se queres ver centos de exemplos aplicados a todo tipo de empresas, colectivos ou mesmo tecnoloxías, recoméndoche que lle botes un ollo a este enorme repositorio (https://principles.design/) creado por Ben Brignell (@benbrignell (https://twitter.com/benbrignell) ), un deseñador e artista inglés que, ademais, fai fermosos bosquexos urbanos (https://vimeo.com/203998275) .
+
+
+** Aprender deseño confinado
+------------------------------------------------------------
+Existen infinidade de iniciativas para axudarnos aos que temos que permanecer nas nosas casas, a facer o trámite máis soportable. Decidín facer unha pequena recompilación daquelas relacionadas co mundo do deseño, para que todos poidamos aproveitar o tempo para formarnos.
+https://www.antonsten.com/books-are-free/
+
+Anton Sten (@antonsten (https://twitter.com/antonsten) ) leva máis de 20 anos traballando como deseñador dixital, e decidiu plasmar todo este coñecemento acumulado en dous libros: User Experiences that Matter (https://www.antonsten.com/books/user-experiences-matter/) (un bo comezo para os que se queiran iniciar no mundo da UX), e Mastering Freelance (https://www.antonsten.com/books/masteringfreelance/) (se es freelance e tes dúbidas de como atopar clientes ou pór prezo ao teu traballo, este libro pódeche responder algunhas destas preguntas).
+
+Con motivo da crise do coronavirus, o bo do Antón decidiu poñelos a disposición de todas as persoas interesadas de xeito gratuíto (https://www.antonsten.com/books-are-free/) (ou pagando o prezo que queiran).
+
+https://vimeo.com/402413663
+Gary Hustwit segue co seu programa (https://www.ohyouprettythings.com/free) de poñer semanalmente a disposición de todos, un dos seus documentais sobre deseño de forma gratuíta. Esta semana tocoulle a Urbanized, (https://vimeo.com/402413663) que nos fala sobre as cidades e o deseño urbano. Os documentais anteriores (Helvetica e Objectified) xa os vira, mais este aínda non. Supoño que xa teño plan para esta finde.
+
+https://www.youtube.com/watch?v=OlziyCrnRjQ&feature=youtu.be
+Por fin podemos ver a recomendadísima palestra de Carmen Lanza no FEED 2019, (https://www.youtube.com/watch?v=OlziyCrnRjQ) e na que falou da evolución da interactividade nos produtos dixitais, de diferentes interfaces máis alá da pantalla e de espazos e obxectos interactivos. Por certo, quen me dera ter unha máquina de fume como a que comenta!
+https://vimeo.com/236847038
+E agora, algo completamente oposto ao concepto «dixital». Tiven a sorte de poder ver este documental no evento EXPRESS organizado pola DAG (https://dag.gal/gl/express/) con charla posterior de Pablo Pivetta. Para os frikis dos tipos móbiles, ou os que queirades saber como se imprimía antes de que a impresión offset e dixital o dominase todo, «Los últimos» é ideal, mestura de humor e melancolía.
+
+
+** Deseño en tempos de crise
+------------------------------------------------------------
+Esta semana descubrín máis cousas interesantes relacionadas coa pandemia do coronavirus que me gustaría comentar. Se imos morrer todos, polo menos que sexa con bo deseño ✊
+https://static01.nyt.com/images/2020/03/27/nytfrontpage/scan.pdf
+
+O xornal The New York Times, na súa edición en papel do 27 de marzo, chántanos un gráfico a 6 columnas coas solicitudes de desemprego realizadas semanalmente. Brutal, esa combinación gráfica/texto, non fai falla que vos diga que prestedes atención á última semana, non?
+
+Aquí podedes descargar a portada en PDF (https://static01.nyt.com/images/2020/03/27/nytfrontpage/scan.pdf) para aprecialo aínda mellor.
+
+https://www.stay-sane-stay-safe.com/
+
+Stay Sane / Stay Safe (https://www.stay-sane-stay-safe.com/) é unha iniciativa do estudio de deseño Lennarts & De Brujin, na Haia. Nesta páxina podemos encontrar máis de 500 carteis creados por deseñadores de 66 países diferentes, listos para descargar e imprimir, ou se non tedes impresora, compartir nas redes sociais. Boto en falta algo máis de variedade lingüística, a ver se algún de vós se anima a enviarlles algún.
+
+https://estopasara.wdc2022.com/
+
+Valencia, que será a capital mundial do deseño en 2022, creou a plataforma #EstoPasará (https://estopasara.wdc2022.com/) , un proxecto colectivo onde poñer o deseño ao servizo das persoas, para axudalas nestes momentos tan difíciles. Planos para imprimir en 3D material sanitario, cursos de deseño e ilustración, xogos para os máis pequenos etc.
+
+https://mxb.dev/blog/emergency-website-kit/
+
+Max Böck (@mxbck (https://twitter.com/mxbck) ) é un programador / deseñador (e parece ser que tamén músico) que creou un kit para publicar unha web de emerxencia (https://mxb.dev/blog/emergency-website-kit/) . A razón é que nestes casos, ás veces non hai tempo para pararse a deseñar e construír unha web para amosar información crítica e os CMS actuais non manexan ben os picos de tráfico. Por iso creou este modelo (https://emergency-site.dev/) listo para publicar e actualizar contido. Ademais anda a barallar varias ideas (https://mxb.dev/blog/emergency-website-kit/#h-not-everyone-is-a-developer) para aquelas persoas que non son programadoras, para que sexa aínda máis fácil de empregar.
+
+
+** Variable font pola cara
+------------------------------------------------------------
+Your Typeface (https://www.yourtypeface.com/) é un divertido experimento no que podes
+controlar dous eixes dunha fonte variable movendo a boca (activando antes a webcam, claro). Unha vez escollido o grosor e largo desexados, podes descargala.
+
+
+** Deseña unha tipografía cos máis pequenos
+------------------------------------------------------------
+Se estás confinado con crianzas, unha actividade que podes facer con eles é
+crear unha tipografía coa súa letra. Kidpofy é unha ferramenta gratuíta (https://kidpofy.com/) que che permite facelo de xeito doado e así terás un recordo para sempre.
+
+
+** Subtitulado para xordos
+------------------------------------------------------------
+Os que me coñecen saben que
+son un firme defensor do uso dos estándares web e de accesibilidade. Non entendo a profesión de deseñador (ou desenvolvedor) web sen ter en conta estas boas prácticas. Esta semana batín con este post sobre como subtitular vídeos para xordos. (http://dichodeotraforma.blogspot.com/2012/10/subtitulado-para-sordos.html) Spoiler: é moi diferente ao subtitulado xenérico ao que todos estamos acostumados.
+
+============================================================
+** Creative Commons con Attribución (https://creativecommons.org/licenses/by/4.0/deed.gl)
+- *|LIST:COMPANY|* (*|CURRENT_YEAR|*)
+O logotipo de conxeito foi creado coa tipografía ** Movement de María Ramos (http://www.nmtype.com/movement/)
+
+Se non queres recibir máis correos ** date de baixa desta lista (*|UNSUB|*)
+.
+
+*|IF:REWARDS|* *|REWARDS_TEXT|* *|END:IF|*

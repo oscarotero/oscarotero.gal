@@ -1,0 +1,82 @@
+*|MC_PREVIEW_TEXT|*
+
+#018 - Abrir no navegador (*|ARCHIVE|*)
+
+
+** Deseño transformador
+------------------------------------------------------------
+«O deseño pode cambiar o mundo», teño oído máis dunha vez. Supoño que ante esta afirmación haberá moitas opinións distintas. Se teño que dar a miña (que para algo escribo este boletín), diría que non somos tan importantes, non temos tanto poder como para facer isto. O deseño é simplemente unha profesión, unha peza máis dentro da engrenaxe que fai funcionar o mundo pero, ten o poder de cambialo? Vai ser que non.
+
+Tatiana Mac (https://tatianamac.com/) é unha deseñadora norteamericana especializada en accesibilidade que foi convidada no Clarity 2019 (https://www.clarityconf.com/) (un ciclo de conferencias sobre sistemas de deseño) para dar a inspiradora palestra Systems of Systems (https://www.youtube.com/watch?v=TzGfBV67Tac) , onde nos ofrece unha perspectiva máis global acerca dos sistemas de deseño. Normalmente pensamos neles como sistemas recursivos nos que, usando a nomenclatura de Atomic design, temos átomos (por exemplo, un selector) que combinados entre si poden constituír moléculas (un patrón de formulario) e se combinarmos estas moléculas teremos organismos (un formulario de rexistro). Porén, Tatiana vai mais alá neste proceso e afirma que combinando estes organismos acabamos por obter un ser vivo (o noso produto), por súa vez, combinando todos estes seres vivos formamos un ecosistema (unha industria) e todos os ecosistemas acaban confluíndo no mundo enteiro (a sociedade).
+
+Se invertemos esta secuencia, podemos comprobar que realmente non son só os nosos sistemas de deseño os que transforman o mundo, senón que tamén acontece ao revés, é a sociedade na que vivimos, a política, cultura e toda a infraestrutura a que acaba por definir as diferentes industrias que, ao mesmo, tempo afectan os diferentes produtos e son estes os que acaban por condicionar os nosos deseños.
+
+Un exemplo podémolo ver naqueles produtos en que se nos pide que indiquemos o noso sexo e só nos dan dúas opcións: home ou muller, deixando de lado outras opcións como a das persoas intersexuais (https://es.wikipedia.org/wiki/Intersexualidad) . Parece ser que vivir nunha sociedade excluínte fai que, de xeito consciente ou inconsciente, acabemos construíndo sistemas de deseño tamén excluíntes, e estes, á súa vez, seguen alimentando esa mesma sociedade excluínte para entrarmos así nun bucle infinito.
+
+Así que quizais o que podemos facer os deseñadores e deseñadoras é cortar estes bucles e tentar paliar ou erradicar determinadas dinámicas nocivas dentro das nosas posibilidades. Non poderemos cambiar o mundo mais si facelo un chisquiño mellor. Oportunidades para facelo hai de sobra:
+
+Cada vez que deseñes un novo compoñente, preocúpate pola súa accesibilidade, e así axudarás a ter unha sociedade inclusiva na que todas as persoas poidan acceder ao contido e servizos dixitais.
+
+Cando penses nos copies dunha interface, usa unha linguaxe inclusiva, evitando pór todo en masculino, para paliar a invisibilidade que o xénero feminino sufriu durante séculos.
+
+Nos sitios web multiidioma, preocúpate por detectar o idioma do navegador para que se mostre o galego cando for preciso, en vez de cargar por defecto o castelán. E se non o podes detectar, usa o galego por defecto. Estaremos combatendo o desprezo e a irrelevancia que este idioma está a padecer, e os que queiran cambiar a castelán saberán como facelo.
+https://bancosantander.invisionapp.com/dsm/santander-group/flame-ds-santander
+
+O banco Santander fixo público recentemente o seu sistema de deseño «Flame» (https://bancosantander.invisionapp.com/dsm/santander-group/flame-ds-santander) . O máis interesante, na miña opinión, son os criterios de accesibilidade (https://bancosantander.invisionapp.com/dsm/santander-group/flame-ds-santander/nav/build/asset/componentContainers/5ee1e66fdddf7629dfb15f5b/tab/accessibility?version=5f7c4775f78321b92f5e727d&mode=preview) que acompañan moitos dos seus compoñentes.
+
+https://stewartsmith.io/blackswan/
+
+Stewart Smith é unha desas persoas que fai programación creativa. Un dos seus últimos proxectos foi este «videoclip web» feito empregando unicamente html, css e javascript (https://stewartsmith.io/blackswan/) , co tema Black Swan, pertencente ao álbum The Eraser (https://en.wikipedia.org/wiki/The_Eraser) de Thom Yorke (vocalista e compositor de Radiohead).
+Na web explica máis cousas sobre este interesante traballo que ademais está dispoñible como código aberto en github (https://github.com/stewdio/blackswan) .
+
+https://www.w3.org/International/questions/qa-personal-names
+
+A propósito de cousas inclusivas, chamoume a atención este artigo da W3C sobre os nomes de persoas nas diferentes culturas (https://www.w3.org/International/questions/qa-personal-names) e como esta circunstancia pode influír no deseño de formularios ou no seu almacenamento en bases de datos. Formatos cun só apelido, con dous, en orde inversa, con iniciais polo medio etc. Quen dixo que ser inclusivo era fácil?
+
+https://www.figma.com/blog/when-fonts-fall/
+
+Marcin Wichary (@mwichary (https://twitter.com/mwichary) ) é un tipógrafo e design manager en Figma que escribiu este recomendadísimo artigo sobre como funcionan exactamente as fontes (https://www.figma.com/blog/when-fonts-fall/) cando hai que representar un carácter que non está incluído.
+
+http://www.vatican.va/content/francesco/es/messages/communications/documents/papa-francesco_20190124_messaggio-comunicazioni-sociali.html
+
+Seguramente moitos de vós vistes xa o documental de Netflix The social dilema (https://www.netflix.com/es/title/81254224) sobre os perigos das redes sociais e como estas están deseñadas para causar adicción. O documental xerou tanto ruído que ata a igrexa (que, recoñezámolo, historicamente tampouco foi exemplo de nada) fixo público un comunicado sobre este problema (http://www.vatican.va/content/francesco/es/messages/communications/documents/papa-francesco_20190124_messaggio-comunicazioni-sociali.html) en que o papa Francisco recoméndanos ir do «like» ao «amén».
+
+https://lea.verou.me/2020/09/the-failed-promise-of-web-components/
+
+Os web components estaban chamados a ser o estándar web que ía facilitar o uso de compoñentes personalizados nas webs máis rápidos e accesibles, mais acabou por cometer os mesmos erros que outros frameworks como React, Angular ou Vue: excesivo tooling con dependencias e configuracións complexas, o que fai que sexan difíciles de utilizar por persoas non enxeñeiras. Por sorte temos a Lea Verou, que neste artigo nos alerta sobre esa promesa frustrada e de como podemos reconducir a situación (https://lea.verou.me/2020/09/the-failed-promise-of-web-components/) .
+
+https://keyboardsimulator.xyz/
+
+Hoxe en día, o teclado do computador é unha das nosas principais ferramentas para traballar. O seu deseño e ergonomía é crucial se vas pasar moito tempo diante del escribindo texto ou picando código. Carson Britt creou este curioso simulador de teclados (https://keyboardsimulator.xyz/) que nos permite deseñar e testar o noso propio teclado virtual.
+
+https://utopia.fyi/
+
+Un dos xeitos de aplicarmos tipografía nun deseño é empregando unha escala. No mundo dixital responsive, isto complícase máis porque a escala tipográfica nun móbil non debería ser igual que nunha pantalla grande. No redeseño de HA! (https://medium.com/@misteroom/redese%C3%B1o-ha-parte-2-tipograf%C3%ADa-2a34ac09dc3c) xa falei diso pero recentemente atopeime con Utopia, (https://utopia.fyi/) unha ferramenta para calcular escalas tipográficas que ademais ten un blog onde aborda estas escalas fluídas (https://utopia.fyi/blog/dealing-with-negativity-in-fluid-type-scales/) .
+
+Non sei se sodes conscientes de que na web da DAG tamén hai artigos escritos polos socios. (https://dag.gal/gl/artigos/) Aínda non hai moitos pero os que hai son unha marabilla. Neles trátanse temas tan diversos como tipografía, arquivos dixitais, accesibilidade, CMF, historia do deseño galego... Non deixedes de visitar esta páxina de cando en vez.
+
+https://phosphoricons.com/
+
+En internet podes atopar miles de coleccións de iconas. Phosphor (https://phosphoricons.com/) gustoume especialmente por varias razóns: tanto as iconas como a web están moi ben, a colección é bastante extensa, dispón de versión (https://uxmovement.com/mobile/solid-vs-outline-icons-which-are-faster-to-recognize/) fill (https://uxmovement.com/mobile/solid-vs-outline-icons-which-are-faster-to-recognize/) (tamén chamada solid) e de duotone.
+
+https://phosphoricons.com/
+
+Levo uns meses probando mymind (https://mymind.com/) , unha especie de repositorio onde podes ir metendo todo o que vexas por aí (unha páxina, unha imaxe, un texto etc.) e que dispón dun potente buscador que che permite localizar calquera contido gardado. Hai moitas aplicacións que fan algo parecido pero esta gustoume pola facilidade de uso e o escrupuloso respecto pola privacidade explicada no seu manifesto (https://mymind.com/manifesto) . Trátase dun proxecto secreto no que Tobias van Schneider (https://vanschneider.com/my-new-secret-project-an-extension-of-your-mind) estivo traballando xunto co seu socio dende hai máis dun ano. De feito, descubrino grazas a estar subscrito ao seu boletín e tiven a sorte de ser un dos primeiros en probalo.
+
+O caso é que teño algúns códigos de invitación que pensei en regalar. Se tes interese en probalo, contacta comigo. Aos tres primeiros que o fagan dareilles un código para que se rexistren.
+
+============================================================
+** Comparte (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|*)
+** Comparte (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|*)
+** Tuitea (http://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE_LINK_SHORT|*)
+** Tuitea (http://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE_LINK_SHORT|*)
+** Reenvía (*|FORWARD|*)
+** Reenvía (*|FORWARD|*)
+** Creative Commons con Attribución (https://creativecommons.org/licenses/by/4.0/deed.gl)
+- *|LIST:COMPANY|* (*|CURRENT_YEAR|*)
+O logotipo de conxeito foi creado coa tipografía ** Movement de María Ramos (http://www.nmtype.com/movement/)
+
+Se non queres recibir máis correos ** date de baixa desta lista (*|UNSUB|*)
+.
+
+*|IF:REWARDS|* *|REWARDS_TEXT|* *|END:IF|*

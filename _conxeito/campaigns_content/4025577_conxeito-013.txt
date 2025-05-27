@@ -1,0 +1,68 @@
+*|MC_PREVIEW_TEXT|*
+
+#013 - Abrir no navegador (*|ARCHIVE|*)
+
+
+** Sobre ferramentas
+------------------------------------------------------------
+O deseño sempre estivo influenciado pola tecnoloxía e as ferramentas. A invención do computador supuxo unha revolución que, xunto a aparición de aplicacións como Photoshop, Illustrator ou máis recentemente Sketch, mudaron para ben ou para mal o xeito de traballar nesta profesión. Hoxe en día, despois de tantos anos de monopolio de Adobe, estamos nun momento no que nunca houbo tanta oferta de ferramentas de deseño (https://uxtools.co/survey-2019/) . Cada vez son máis intelixentes, facilítannos máis as cousas e incluso poden chegar a facer o traballo por nós.
+
+Hai unha semana, Máximo Gavete (do que recomendo fervorosamente o seu boletín Honos (https://www.honos.es/) ) deixaba un tuit criticando unha aplicación para prototipar (https://twitter.com/omixam/status/1268071743652007936) chamada Inspireframe (https://inspireframe.io/) . Persoalmente comparto ao 100% esta crítica e dá para pensar se este tipo de ferramentas realmente están para axudarnos a ser mellores deseñadores, ou polo contrario, nos están «idiotizando», eliminando a necesidade de coñecemento e experiencia en prol dunha suposta eficiencia mal entendida. Ferramentas como esta, fanme lembrar o vídeo de Javier Cañada onde fala sobre a compañía Buy'n'Large (https://www.youtube.com/watch?v=3fi9VKRJ7NA) da película Wall-E.
+
+Por suposto, este tipo de ferramentas que non precisan «design skills» existiron dende hai moito tempo. Dende un template de WordPress, ata xeradores de logotipos. E non me parece mal que existan estas cousas, non todo o mundo se poder permitir contratar un deseñador e ás veces é mellor consumir fast-food que pasar fame. Pero hai que ter en conta que son ferramentas destinadas precisamente a non-deseñadores, non a profesionais. E iso é algo que debemos ter todos claro. Por moi tentador que sexa obter un resultado «aceptable» en poucos minutos, o deseño é moito máis que combinar unha serie de solucións e clixés prefabricados.
+https://www.blackillustrations.com/
+
+O sucedido nos Estados Unidos prendeu unha chispa que se estendeu ao resto do mundo. O racismo é unha praga que debemos eliminar e un xeito de facelo é visibilizando e, sobre todo, normalizando a diversidade. Black Illustrations (https://www.blackillustrations.com/) é un proxecto de John D Saunders (https://www.johndsaunders.co/) que pon á nosa disposición unha colección de ilustracións de xente negra para usar nos nosos proxectos e axudar a esa visualización.
+
+https://www.blackillustrations.com/
+
+Unha tendencia que leva xa tempo vixente, sobre todo se es desenvolvedor, é a de ter unha páxina /uses na túa web na que detallas as ferramentas que empregas. Aquí podes ver unha recompilación (https://uses.tech/) con moitos exemplos e ata eu me animei a crear a miña propia páxina ( https://oscarotero.com/uses/) .
+
+https://www.nngroup.com/articles/designops-maturity-low/
+
+Unha das novas profesións que está a nacer ao redor do deseño dixital é a de designOps, o encargado de optimizar o funcionamento interno das empresas para conseguir que o deseño teña o máximo impacto. Se non tes claro de que vai, Kevin M. Hoffman explícao mellor nesta palestra (https://aneventapart.com/news/post/what-is-design-ops-and-why-do-i-care) . Nielsen Norman Group fixo un estudo para coñecer a madurez desta nova disciplina (https://www.nngroup.com/articles/designops-maturity-low/) .
+
+https://www.nngroup.com/articles/designops-maturity-low/
+
+E postos a falar de ferramentas para non deseñadores, parece ser que existe o movemento #nodesigndev que ofrece ferramentas para programadores sen ningún talento para o deseño. (https://nodesign.dev/) Supoño que é a súa maneira de vingarse do movemento no-code (https://www.inc.com/greg-satell/how-no-code-platforms-are-disrupting-software.html) .😛
+
+https://www.nngroup.com/articles/designops-maturity-low/
+
+Service Station (https://servicestation.menu/) é un pequeno programa gratuíto para macOS que descubrín hai unhas semanas e que permite personalizar o menú contextual do Finder, engadindo máis opcións como abrir programas ou executar scripts. Moi útil.
+
+https://onesignal.com/blog/push-notification-design-anatomy/
+
+As notificacións push son diferentes dependendo do navegador e o sistema operativo polo que o número de variantes existentes pode ser abrumador. Pareceume interesante e moi útil este artigo onde se recompilan e analizan as máis habituais (https://onesignal.com/blog/push-notification-design-anatomy/) .
+
+https://dag.gal/gl/deseno-confinamento/
+
+A DAG fixo unha recompilación de moitas das iniciativas xurdidas durante o confinamento no mundo do deseño. Algunhas xa saíron aquí, mais hai moitas outras que se me escaparon. Podedes ler a noticia e descargar o PDF (https://dag.gal/gl/deseno-confinamento/) dende a súa páxina web.
+
+https://gruppo-due.com/
+
+Gruppo Due (https://gruppo-due.com/) é unha fundición tipográfica dixital que ten unha web ben curiosa, onde a protagonista é unha pedra que fai trasnadas. Si, liches ben, unha pedra.
+
+
+** E para rematar...
+------------------------------------------------------------
+Despois de chegar á edición 13, decidín mudar a frecuencia de publicación deste boletín e facelo máis espazado no tempo. Hai varias razóns, a máis importante: a falta de tempo, pero tamén porque non quero baixar a calidade do contido simplemente por querer cumprir cunha autoencarga semanal. A verdade é que despois destes tres meses, admiro aínda máis a xente que leva tanto tempo mantendo un boletín semanal e xerando contido de calidade.
+
+Entón, como é o conto? vai ser quincenal? mensual? Pois aínda non o sei mais gústame a idea de facelo irregular, que saia só cando for necesario.
+
+E por último, se tedes algún tema que vos gustaría que se tratase neste boletín, agradeceríavos que mo comunicásedes.
+
+============================================================
+** Comparte (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|*)
+** Comparte (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|*)
+** Tuitea (http://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE_LINK_SHORT|*)
+** Tuitea (http://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE_LINK_SHORT|*)
+** Reenvía (*|FORWARD|*)
+** Reenvía (*|FORWARD|*)
+** Creative Commons con Attribución (https://creativecommons.org/licenses/by/4.0/deed.gl)
+- *|LIST:COMPANY|* (*|CURRENT_YEAR|*)
+O logotipo de conxeito foi creado coa tipografía ** Movement de María Ramos (http://www.nmtype.com/movement/)
+
+Se non queres recibir máis correos ** date de baixa desta lista (*|UNSUB|*)
+.
+
+*|IF:REWARDS|* *|REWARDS_TEXT|* *|END:IF|*

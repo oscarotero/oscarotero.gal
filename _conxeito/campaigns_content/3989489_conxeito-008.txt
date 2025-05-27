@@ -1,0 +1,62 @@
+*|MC_PREVIEW_TEXT|*
+
+#008 - Abrir no navegador (*|ARCHIVE|*)
+
+
+** Tokens
+------------------------------------------------------------
+Chamámoslles design tokens ao conxunto de constantes que conforman un sistema de deseño ou branding para ser distribuído a todos os deseñadores e programadores que os van usar. Os típicos exemplos de tokens son estilos tipográficos, cores, especificacións de sombras, animacións, espazos... A idea xeral é usar un formato xenérico (tipo json, xml ou yaml) que os deseñadores poidan xerar facilmente e os programadores importar e actualizar automaticamente cada vez que se produza un cambio cambio.
+
+A primeira vez que vin ese termo, foi neste artigo de Nathan Curtis (https://medium.com/eightshapes-llc/tokens-in-design-systems-25dd82d58421) que data de xuño do 2016, pero xa en 2014 existía Theo (https://github.com/salesforce-ux/theo) , a primeira ferramenta para manipularmos estes tokens creada por Salesforce para o seu sistema de deseño (https://lightningdesignsystem.com/design-tokens/) . Dende entón apareceron innumerables artigos (https://www.uifrommars.com/design-tokens-que-son-ventajas/) , conferencias (https://www.youtube.com/watch?v=OCMt-aA8XBA) e novas ferramentas para xestionalos como Style Dictionary, (https://amzn.github.io/style-dictionary/) creada por Amazon ou Diez (https://diez.org/) . Eu mesmo falei diso nunha pequena charla que dei en Lugo o ano pasado e da que podes ver as diapositivas na miña web (https://oscarotero.com/keynotes/sistemas-de-desenho.pdf) .
+
+O caso é que todo o mundo está entusiasmado coa idea dos design tokens, tanto que na W3C xa hai un grupo de traballo (https://www.w3.org/community/design-tokens/) para crear un formato estándar para xestionalos e documentalos. Quen está neste grupo? Pois practicamente todos os grandes actores relevantes: Adobe, Sketch, Figma, InVision, Amazon, Diez, zeroheight, zeplin... así que é posible que saia algo con xeito (ups). Podes seguir as discusións dende o seu repositorio de Github (https://github.com/design-tokens/community-group) . Por agora aínda están a comezar e hai moito brainstorming, pero xa se poden ver algunhas cousas interesantes (https://github.com/design-tokens/community-group/issues/1) como a idea de apoiarse en CSS como formato para gardar determinados valores. Ten todo o sentido: por que reinventar de novo a roda cando CSS xa ten moito traballo avanzado? Como dixen no conxeito #005 (https://us3.campaign-archive.com/?u=b76091042fc4e142a9360ebb0&id=74779ceedd) , é a linguaxe dos
+deseñadores e é a linguaxe que os conecta cos programadores. Non sería marabilloso ter a posibilidade de modificar os estilos en calquera programa de deseño que empreguemos usando CSS?
+https://thetokens.com/
+
+
+** Coronavirus
+------------------------------------------------------------
+Esta semana a procura de propostas interesantes ao redor do coronavirus non foi tan prolífica como en veces anteriores. Quizais debín xestionar mellor a época de bonanza. Nótase a pouca experiencia nisto de facer boletíns. 🤷‍♂️
+https://helpmedecideplease.com/
+
+Os parisienses Bright (@brig_ht (https://twitter.com/brig_ht) ) dedicados a crearen todo tipo de experiencias interactivas, decidiron regalarnos esta sorprendente infografía en 3D (https://coronavirusnow.artworks.brig.ht/en) cos datos do coronavirus en diferentes países.
+
+https://helpmedecideplease.com/
+
+Pareceume interesante esta aplicación para axudar a tomar decisións (https://helpmedecideplease.com/) . Tanto o xeito no que te vai guiando como a interface tan núa, sen practicamente nada de CSS. Nunha época onde parece que hai que engadir efectos e animacións a todo, este tipo de propostas resultan, como mínimo, chocantes e rompedoras.
+
+https://twitter.com/MiriSuzanne/status/1255567501359853570
+
+As composicións de tipo «masonry» son aquelas que tentan encaixar pezas de diferente tamaño. Na web podemos encontralas en Pinterest ou nas novas na portada da DAG (https://dag.gal/gl/) . Para implementalas é necesario botar man de complicadas librarías como Masonry (https://masonry.desandro.com/) e similares. Felizmente, estase discutindo a posibilidade de estandarizalas e que se poida facer cunha simple liña de CSS. Firefox, que sempre estivo na vangarda nestas cousas, xa comezou a facer tests na súa versión Nightly. (https://twitter.com/MiriSuzanne/status/1255567501359853570) De todos os xeitos non significa que isto vaia ser unha realidade, a sempre xenial Rachel Andrew comparte connosco as súas dúbidas (https://rachelandrew.co.uk/archives/2020/05/05/does-masonry-belong-in-the-css-grid-specification/) no seu blog.
+
+https://andwalsh.com/work/all/designer-emoji/
+
+Que alegría saber que a tipografía do logo de ConXeito acaba de gañar o ouro nos premios European Design. (https://europeandesign.org/submissions/movement/) Sobre todo por estar deseñada por unha grande deseñadora e amiga como é María Ramos (http://www.marsidesino.com/) , e aproveito para recomendarvos a inesquecible palestra que nos brindou no último FEED 2019 (https://www.youtube.com/watch?v=OrGbKDJJD88) .
+
+https://andwalsh.com/work/all/designer-emoji/
+
+A axencia neoiorquina &Walsh (https://andwalsh.com/) mola por moitas cousas. Primeiro porque está fundada (e formada maiormente) por mulleres, segundo porque son condenadamente boas e terceiro porque crearon unha colección de emojis e stickers para deseñadores/as (https://andwalsh.com/work/all/designer-emoji/) que non teñen desperdicio.
+
+https://timesnewarial.liebermannkiepereddemann.de/
+
+As fontes variables teñen moito potencial creativo. Ao estudio alemán Liebermann Kiepe Reddemann ocorréuselle facer unha fonte onde podemos oscilar entre unha Times New Roman e unha Arial (https://timesnewarial.liebermannkiepereddemann.de/) , e que vai formar parte da súa nova identidade visual. Ademais, están dispostos a compartila, sempre que sexa con fins educativos.
+
+https://nonymous.com/
+
+A axencia Nonymous (https://nonymous.com/) ten una web que, cando a vin por primeira vez, deixoume coa boca aberta e aínda non a pechei. Esas transicións co scroll a medida que se deforma o logotipo. Simplemente xenial.
+
+============================================================
+** Comparte (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|*)
+** Comparte (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|*)
+** Tuitea (http://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE_LINK_SHORT|*)
+** Tuitea (http://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE_LINK_SHORT|*)
+** Reenvía (*|FORWARD|*)
+** Reenvía (*|FORWARD|*)
+** Creative Commons con Attribución (https://creativecommons.org/licenses/by/4.0/deed.gl)
+- *|LIST:COMPANY|* (*|CURRENT_YEAR|*)
+O logotipo de conxeito foi creado coa tipografía ** Movement de María Ramos (http://www.nmtype.com/movement/)
+
+Se non queres recibir máis correos ** date de baixa desta lista (*|UNSUB|*)
+.
+
+*|IF:REWARDS|* *|REWARDS_TEXT|* *|END:IF|*

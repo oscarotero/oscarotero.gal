@@ -1,0 +1,67 @@
+*|MC_PREVIEW_TEXT|*
+
+#010 - Abrir no navegador (*|ARCHIVE|*)
+
+
+** Métodos e ferramentas
+------------------------------------------------------------
+A raíz deste vídeo de Jaime Altozano (https://www.twitch.tv/videos/606090769) , decidín probar o método Getting Things Done, de David Allen para organizarme nas tarefas do día a día. Trátase dun método de organización e xestión persoal que che permite estar máis enfocado no que esteas a facer en cada momento. Non quero profundar moito nel, así que se estás interesado/a, podes ver o vídeo de Jaime ou directamente visitar a páxina de David Allen e comprarlle o libro (https://gettingthingsdone.com/what-is-gtd/) .
+
+Este método consta de varias fases, na primeira temos o inbox, un espazo onde vas metendo todas as novas cousas que van xurdindo: Acabouse o leite? apuntas no inbox que hai que comprar máis. Saíuche un proxecto para a semana? Mándalo rapidamente ao inbox. Tes unha idea para o próximo boletín de conxeito? Ao inbox. Vaise estrear esa película que levas tanto tempo agardando? xa sabes o que hai que facer.
+
+A idea é sacar inmediatamente da cabeza todas estas cousas que van xurdindo, para seguires coa túa vida ou co que esteas a facer nese momento. Eliminar a carga que supón ter que lembrarse de tantas cousas e manter a cabeza despexada. A seguinte fase, que normalmente faise unha vez ao día é a catalogación, onde repasamos o noso inbox e organizamos todas estas cousas en diferentes listas dependendo de varios criterios e lóxicas explicadas neste diagrama:
+https://en.wikipedia.org/wiki/Getting_Things_Done
+O interesante desta metodoloxía é que é completamente independente da tecnoloxía. Podes empregar calquera software para implementala, ou simplemente papel e lapis. E tamén é bastante flexible, podendo adaptala ao teu propio modo de vida.
+
+No meu caso, quería un software que me axudase a empregar este método, que ademais fose multidispositivo (para poder entrar dende o móbil ou computador), e que se gardase «na nube» para evitar perder os datos. Despois dalgunhas probas, optei por Todoist. (https://todoist.com/) E foi curioso porque cando ía facer a conta, descubrín que xa tiña unha conta creada de hai tempo, cunha lista con algunhas pelis (de terror) que quería ver e tarefas do traballo. Non lembro cando a creei, supoño que a abrín para probar, non me debeu impresionar e esquecinme dela. En cambio, nesta segunda oportunidade pareceume unha aplicación absolutamente marabillosa, moi ben deseñada, simple e flexible. Entón: por que non percibín esa satisfacción a primeira vez? Cal foi a diferenza?
+
+Quizais a diferenza estivo en que nesta ocasión sabía o que quería, buscaba unha ferramenta que fose compatible cun xeito concreto de facer as cousas. Na propia web de Getting Things Done, hai unha listaxe de ferramentas e software que che poden axudar (https://gettingthingsdone.com/common-tools-software/) , que dalgún xeito son compatibles con esta metodoloxía, e entre elas está Todoist. Imaxino que cando a probei por primeira vez simplemente estaba experimentando a interface e vendo como estaba formulada, en modo pasivo. Pero nesta segunda oportunidade foi precisamente o contrario: eu sabía o que quería e só estaba comprobando se a ferramenta me podía satisfacer. E esa é a maxia que se produce cando unha ferramenta está pensada cunha metodoloxía en mente, cunha idea concreta de facer as cousas, e non como un conxunto de funcionalidades. Cando o método vai antes da ferramenta, e non ao revés.
+
+Outro exemplo aínda máis claro estouno vivindo con Basecamp. (https://basecamp.com/) Creo que xa comentei nalgunha entrega anterior que na miña empresa levamos uns meses empregando o método Shape Up para os proxectos. É un método creado por Basecamp (anteriormente coñecidos como 37signals), froito da súa experiencia durante 20 anos traballando en deseñar e desenvolver produtos dixitais e que divide o traballo en dúas fases diferentes:
+* A fase shape Up: Onde se lle dá forma ao proxecto, explicando claramente o problema, o «apetito» (si, chámase así) que hai para abordalo, e a solución proposta segundo ese apetito.
+* A fase build: É a fase onde se deseña e implementa esa solución.
+
+https://basecamp.com/shapeup
+
+Se queres aprender máis sobre este xeito de traballar, podes ler o libro Shape Up, (https://basecamp.com/shapeup) que os de Basecamp puxeron gratuitamente como web book. O curioso é que, igual que con Getting Things Done, podes implementar esta metodoloxía con calquera software, non precisas usar Basecamp. Pero «casualmente» a súa aplicación está deseñada con esta metodoloxía en mente e trae todo o necesario para comezar a implementala, co cal moita xente interesada que lea o libro, acabará probando Basecamp, asimilando non só a ferramenta senón a «filosofía» e os principios nos que se basea.
+
+Estes son dous claros exemplos de produtos dixitais pensados e deseñados seguindo unha idea de como facer algo. Moitas veces a innovación non está tanto na interface ou na experiencia de uso senón na filosofía que hai detrás de todo isto. En arquitectura e no deseño funcionalista existe un principio que di que «a forma segue a función». Poderiamos estendelo dicindo que a función segue ao método.
+https://falame.gal/
+
+O domingo pasado foi o día das letras galegas que, alén de para homenaxear  un escritor ou escritora galega, serve tamén para reivindicar o uso do idioma galego como ferramenta para expresarmos e comunicarmos. Esta ano ademais descubrín a web Fálame, (https://falame.gal/) onde podemos ver colaboracións de varios deseñadores e deseñadoras coñecidos.
+
+https://www.youtube.com/watch?v=0xsVJvvnKJ8
+Pablo Honey (@pablohoneyhoney (https://twitter.com/pablohoneyhoney) ) é un deseñador galego que vive en Nova York e traballa como Design Lead en Automattic (https://automattic.com/) (a empresa que está detrás de WordPress entre outros produtos). Os que sexades fans de WordPress estaredes ao tanto de Gutemberg, o novo editor de contido. Neste vídeo explícanos algunhas decisións de deseño que tomaron para a nova versión que vai vir.
+
+https://sketchappdata.com/
+
+Atrás quedaron os tempos de Lorem Ipsum. O mellor é traballar con datos reais, mais se iso non é posible, outra opción é empregar datos que parecen reais (nomes, emails, avatares, cidades etc). Sketch App Data (https://sketchappdata.com/) contén un repositorio inmenso de datos ordenados por tipoloxía e formato que podes empregar nos programas Sketch, Figma, Adobe XD ou Photoshop.
+
+Unha das cousas que máis me gusta de facer un boletín como este é recibir comentarios con suxestións, opinións ou ideas. Con motivo dos fondos de pantalla do estudio Ghibli do número anterior, Manuel del Río (https://twitter.com/manuel2R) pasoume este fantástico documental sobre o proceso creativo de Miyazaki (https://www3.nhk.or.jp/nhkworld/es/ondemand/program/video/10yearshayaomiyazaki/) .
+Continuade mandándome cousas 😀
+
+Lembro cando escribín o artigo dedicado ás tipografías no redeseño de Historia Arte. (https://medium.com/@misteroom/redese%C3%B1o-ha-parte-2-tipograf%C3%ADa-2a34ac09dc3c) Nel falaba da interpolación de tamaños e do complexo que era implementala naquel momento, con complicadas fórmulas matemáticas. Pois ben, as novas funcións de CSS min() max() e clamp() permiten facer isto e moito máis de forma supersinxela, co que elevan o deseño responsive ao seguinte nivel. Se non sabes de que falo, Ahmad Shadeed explícacho bastante ben neste artigo (https://ishadeed.com/article/css-min-max-clamp/) .
+
+https://pudding.cool/2020/04/music-challenge/
+
+A xente de Pudding lanzou hai pouco este test (https://pudding.cool/2020/04/music-challenge/) para identificar o coñecemento da música de distintas épocas por parte de cada xeración (boomers, xeración x, milenials e xeración z). Curioso para pasar o tempo e darte conta da nosa ignorancia musical.
+
+https://sketch.io/sketchpad/
+
+Levo uns meses empregando Sketchpad (https://sketch.io/sketchpad/) no traballo, para facer bosquexos de interfaces de xeito rápido e a verdade é que me está gustando bastante. Permite centrarte na idea, no contido, e esquecerte do detalle, que xa virá despois. Ademais podes conectalo con Google Drive e gardar aí o teu traballo. A aplicación web é gratuíta e ten unha versión de pagamento para iPad.
+
+============================================================
+** Comparte (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|*)
+** Comparte (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|*)
+** Tuitea (http://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE_LINK_SHORT|*)
+** Tuitea (http://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE_LINK_SHORT|*)
+** Reenvía (*|FORWARD|*)
+** Reenvía (*|FORWARD|*)
+** Creative Commons con Attribución (https://creativecommons.org/licenses/by/4.0/deed.gl)
+- *|LIST:COMPANY|* (*|CURRENT_YEAR|*)
+O logotipo de conxeito foi creado coa tipografía ** Movement de María Ramos (http://www.nmtype.com/movement/)
+
+Se non queres recibir máis correos ** date de baixa desta lista (*|UNSUB|*)
+.
+
+*|IF:REWARDS|* *|REWARDS_TEXT|* *|END:IF|*

@@ -1,0 +1,106 @@
+*|MC_PREVIEW_TEXT|*
+
+#004 - Abrir no navegador (*|ARCHIVE|*)
+
+
+** Sobre cursores e punteiros
+------------------------------------------------------------
+O cursor tipo punteiro (a man a sinalar cun dedo) comezou a usarse na web dende os seus inicios para indicar que un texto contiña un hipervínculo. Outros elementos, tamén interactivos, como botóns ou checkboxes resultaban máis familiares por estaren presentes noutras interfaces e por teren unha aparencia que os facía «clicables», mais os hipervínculos eran algo novo, podían ir no medio dun texto e só diferenciados pola cor azul e un subliñado que naquel momento non tiña a connotación de clicable que ten agora, polo que precisaban dalgunha pista visual máis para que o usuario soubese que aí se podía premer, e por iso se decidiu empregar o punteiro.
+
+Este criterio mantívose ata os nosos días e podemos comprobar como, por defecto, só as ligazóns web teñen ese cursor, mentres que o resto de elementos interactivos usan o cursor da frecha, como podes apreciar nesta demostración (https://codepen.io/oscarotero/full/dyoBxOB) .
+
+Se miramos o estándar da W3C (https://www.w3.org/TR/css-ui-3/#valdef-cursor-pointer) , este corrobórao coa seguinte frase:
+—The cursor is a pointer that indicates a link.
+
+Ademais da web, outros contornos como os sistemas operativos comparten o mesmo criterio. Se entramos na guía de estilo de interface de Apple, podemos ver a seguinte explicación para a Pointing hand (https://developer.apple.com/design/human-interface-guidelines/macos/user-interaction/mouse-and-trackpad/#pointers) :
+—The content beneath the pointer is a URL link to a webpage, document, or other item.
+
+E na de Microsoft Windows, máis do mesmo (https://docs.microsoft.com/en-us/windows/win32/uxguide/inter-mouse#pointer-shapes) :
+—Used for text and graphics links because of their weak affordance.
+
+Ou sexa, tanto ten se estamos nunha páxina web ou nun sistema operativo, o cursor en forma de punteiro posúe case sempre o mesmo significado: unha ligazón web.
+Mais como CSS permite mudar todos os estilos por defecto, co tempo, o seu uso foise estendendo ao resto de elementos interactivos, sobre todo botóns. Finalmente, esa anomalía acabou por ser o normal, e o punteiro pasou a ser sinónimo de «cousa interactiva». Se un elemento non tiña ese cursor, tiñamos a impresión de que non se podía premer nel ou de que estaba desactivado. Da demostración que vos puxen inicialmente, fixen esta nova versión co punteiro en todos os elementos (https://codepen.io/oscarotero/pen/QWbegYN) , algo máis acorde co que podemos encontrar hoxe en día en calquera web.
+
+Esta mudanza xerou moita controversia e houbo moitas discusións entre os que querían corrixir esta má práctica e volver ás orixes, e aqueles que argumentaban que xa era demasiado tarde e que había que aceptar que o punteiro pasara de ser o cursor dos hipervínculos a ser o cursor estándar para indicar que algo era interactivo.
+
+Adam Silver (https://adamsilver.io/) é un deseñador de interactividade que escribiu unha serie de artigos en que explica por que os botóns NON deberían usar o punteiro: Parte 1 (https://adamsilver.io/articles/buttons-shouldnt-have-a-hand-cursor/) e parte 2 (https://adamsilver.io/articles/buttons-shouldnt-have-a-hand-cursor-part-2/) . E hai aínda unha versión ampliada e dividida en 3 partes no seu blog de medium (https://medium.com/simple-human/buttons-shouldnt-have-a-hand-cursor-b11e99ca374b) .
+
+O certo é que hai bos argumentos nos dous lados, e todos teñen parte de razón. Eu mesmo tiven opinións diferentes en varios momentos da miña vida e teño discutido (incluso recentemente) tanto con compañeiros de traballo como con outros colegas sobre este tema.
+* Nos sistemas operativos, ese cursor só se usa para ligazóns web. E como dixo Jakob Nielsen en Mobile Usability Futures (https://www.youtube.com/watch?v=sELOUAmFHjA&feature=youtu.be&t=3m4s) , moitos usuarios non son capaces de distinguir o que é un navegador, unha web ou un sistema operativo, onde remata unha cousa e comeza a outra. E agora coas PWA (ver conxeito #002 (https://us3.campaign-archive.com/?u=b76091042fc4e142a9360ebb0&id=ff73c55cca) ) será incluso máis difícil. Por que non volver unificar entón os criterios?
+* Os dispositivos táctiles nin sequera teñen cursor, polo que depender del para que o usuario saiba que algo é clicable é unha pésima estratexia. Os elementos deberían recoñecerse como clicables visualmente (https://www.nngroup.com/articles/clickable-elements/) , non esperes que un usuario vaia movendo o rato pola pantalla agardando «descubrir» as túas ligazóns.
+* Con todo, tamén hai que recoñecer que a maioría dos usuarios non distinguen entre o que é unha ligazón e o que é un botón. Para eles, todo é clicable, polo que ter cursores diferentes pode resultar confuso, sobre todo agora que os sistemas de deseño tenden a unificar visualmente os dous, (https://getbootstrap.com/docs/4.0/components/buttons/#button-tags) co que os tornan indistinguibles.
+
+Esta conversa tivérona no grupo de traballo da W3C (https://github.com/w3c/csswg-drafts/issues/1936) que está a traballar na seguinte versión do módulo UI de CSS. A conversa durou 2 anos e concluíu coa decisión de engadir o seguinte textiño a maiores no estándar:
+—Authors should use pointer on links and may use on other interactive elements.
+
+Tampouco se posicionan en se debemos usar o punteiro ou non, máis alá das ligazóns, simplemente indican que «podemos facelo», se así o decidimos.
+
+Este tipo de temas poden resultar insignificantes ou incluso frikis para moita xente. A min parécenme apaixonantes porque, como deseñador de interactividade, me axudan a coñecer e entender moito máis alá da parte visual dunha interface, dun sistema ou dunha convención establecida.
+
+E no caso de ter dúbidas sobre se o cursor non é suficientemente claro, tamén podes optar por meter máis fogos artificiais (https://tympanus.net/Development/AnimatedCustomCursor/index3.html) 😉.
+
+
+** Máis coronavirus
+------------------------------------------------------------
+Algunhas cousas que descubrín esta semana relacionadas co coronavirus:
+
+Co tema do distanciamento social, hai moitas marcas que decidiron modificar os seus logos para concienciaren a xente sobre manter unha distancia de seguridade. Non sei se é tendencia ou coincidencia, mais podemos citar varias: Audi (https://twitter.com/Audi/status/1241114477111545856) , MacDonals (https://www.facebook.com/McDonaldsBrasil/photos/a.293025867402637/3032441983460998/?type=1&theater) , Zara (https://twitter.com/ZARA/status/1245373455236825088) , Volkswagen...
+
+https://bored.solutions/
+
+Hai xente que non sabe estar soa ou que se aburre na casa. Non é o meu caso, como podedes comprobar por este marabilloso boletín, con todo, se precisas que che lancen ideas e desafíos para non te aburrires, en Bored Solutions (https://bored.solutions/) tes moito onde escoller.
+
+https://cuarentenaactiva.es/
+
+E outro catálogo de ideas e cousas para facer na corentena. #CuarentenaActiva (https://cuarentenaactiva.es/) contén moitas ideas para xogar, formarte ou simplemente pasar o tempo en solitario, en familia ou cos máis pequenos.
+
+https://vimeo.com/404760526
+Chegou o momento! Gary Hustwit libera por fin o documental de Dieter Rams, ao que lle tiña unhas ganas inmensas. Tes ata o próximo martes día 14 de límite. E se tes problemas co inglés, desta vez dispós de subtítulos en portugués ou español.
+
+https://static01.nyt.com/images/2020/04/08/nytfrontpage/scan.pdf
+
+O New York Times segue a sacar deseños interesantes na súa portada. Nesta ocasión, un gráfico co número de mortes en EUA, no que a barra correspondente á cidade de Nova York acaba por atravesar o logotipo superior. Aquí podes ver a portada completa en PDF. (https://static01.nyt.com/images/2020/04/08/nytfrontpage/scan.pdf)
+
+
+** Copiando a Google
+------------------------------------------------------------
+Adrian Roselli (@aardrian (https://twitter.com/aardrian) ) é un desenvolvedor web especializado en usabilidade que escribiu este interesante artigo (https://adrianroselli.com/2020/03/i-dont-care-what-google-or-apple-or-whomever-did.html) sobre os perigos de facer as cousas porque «Google ou Apple o fai así, logo estará ben». Eu teño oído este tipo de argumentos moitas veces e seguro que ti tamén.
+
+
+** Inspecciona e compara tipografías
+------------------------------------------------------------
+FontGoggles (https://fontgoggles.org/) é unha aplicación gratuíta, financiada por Google Fonts, que che permite
+comparar e inspeccionar tipografías (ollo, non é un xestor para instalares e desinstalares, senón un previsualizador). Soporta moitos formatos, tipos de escritura, características avanzadas de OpenType, interpolación de fontes variables etc.
+
+
+** Aprende a terminoloxía UI
+------------------------------------------------------------
+Chenghan Ke é un product designer que decidiu recompilar e ordenar nun documento de Google Sheets (https://docs.google.com/spreadsheets/u/1/d/1XMdzbylu10auGFyfJjc5yzn3-rYk-89rqBna0TBvL2M/edit?usp=sharing) toda a terminoloxía usada nos sistemas de deseño como Material Design, iOS etc. Isto confirma a teoría de que todo, absolutamente todo nesta vida, se pode facer en excel.
+
+
+** Como Tinder transforma o 8% dos solteiros/as en clientes en 15 minutos
+------------------------------------------------------------
+En
+Growth Design dedícanse a analizar aplicacións e servizos dende unha perspectiva de growth (os métodos para melloraren as métricas de negocio) mediante a aplicación do deseño. No seu último estudo, analizan a aplicación Tinder (https://growth.design/case-studies/tinder-monetization/) , dende o onboarding inicial. As conclusións tiradas desta análise revelan o emprego de técnicas psicolóxicas e de experiencia de uso por parte de Tinder para conseguir os mellores resultados de conversión.
+
+
+** CSS naked day
+------------------------------------------------------------
+Como todos os anos, o
+9 de abril (este xoves), celebrouse o día do CSS nu. Basicamente consiste en eliminar todo o código CSS das webs durante ese día, para promocionar o bo uso dos estándares web e do código semántico. A idea é que, unha web ben feita debería continuar sendo usable aínda que eliminásemos os estilos. Tes máis información na súa web oficial. (https://css-naked-day.github.io/)
+
+
+** #zapatillasFromMars
+------------------------------------------------------------
+Cris Busquets (@cbusquets (https://twitter.com/cbusquets) ) é unha deseñadora que comezou hai un par de anos o boletín de UX uiFromMars (https://www.uifrommars.com/) . Coa comunidade que se foi xerando, creou unha canle de Slack á que calquera se pode unir (https://www.uifrommars.com/comunidad/) , e aproveitando que agora estamos todos confinados, organizou #zapatillasFromMars: (https://www.uifrommars.com/zapatillas/) un
+evento online gratuíto con palestras de 30 minutos sobre UI, UX, SEO, creative coding etc. Este evento ía ter lugar a semana pasada, pero Youtube bloqueoulles o directo por problemas nas condicións de uso. Esta semana van facer un novo intento (creo que noutra plataforma máis aberta) por tanto, se queres asistir, simplemente apúntate na súa web (https://www.uifrommars.com/zapatillas/) e estate preparado/a este sábado ás 3 da tarde.
+
+============================================================
+** Creative Commons con Attribución (https://creativecommons.org/licenses/by/4.0/deed.gl)
+- *|LIST:COMPANY|* (*|CURRENT_YEAR|*)
+O logotipo de conxeito foi creado coa tipografía ** Movement de María Ramos (http://www.nmtype.com/movement/)
+
+Se non queres recibir máis correos ** date de baixa desta lista (*|UNSUB|*)
+.
+
+*|IF:REWARDS|* *|REWARDS_TEXT|* *|END:IF|*

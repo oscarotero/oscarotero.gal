@@ -1,0 +1,60 @@
+*|MC_PREVIEW_TEXT|*
+
+#016 - Abrir no navegador (*|ARCHIVE|*)
+
+
+** O deseño público
+------------------------------------------------------------
+Recordo que hai uns meses quixen renovar o meu certificado dixital (https://www.sede.fnmt.gob.es/) , que estaba a piques de caducar, e non fun quen de facelo. Redinme despois de varios intentos sen éxito. O motivo foi que o sistema só era compatible cos navegadores Firefox 68 (11 versións anteriores á que teño neste momento) e Internet Explorer. Resulta paradoxal que para empregar unha funcionalidade que en teoría proporciona seguridade para realizar trámites online, sexa necesario ter un navegador inseguro, ou cando menos obsoleto.
+
+Que a administración pública dixital funciona mal (https://twitter.com/craselrau/status/1286201698768347136) é algo que creo que todos percibimos (https://twitter.com/david_bonilla/status/1270658227416563713) . Descoñezo as razóns polas que pasa isto, se é por incompetencia, polo tipo de organización interna, o xeito no que funcionan as adxudicacións ou unha mestura de todo. O certo é que quen finalmente pagamos as consecuencias, en todos os sentidos, somos nós, os cidadáns.
+
+Pero ademais do pésimo funcionamento técnico, outro aspecto tan importante ou máis aínda é o pouco coidado que existe no que respecta ao deseño e á pouca empatía coas persoas que temos que usar (ou mellor dito, sufrir) estas ferramentas. Requisitos técnicos incomprensibles, navegacións tediosas, explicacións confusas, funcionalidades que se solapan entre si... Nielsen Norman Group fixo hai anos un estudo sobre a destreza das persoas á hora de manexar a tecnoloxía (https://www.nngroup.com/articles/computer-skill-levels/) . Só un 5% da poboación chegaba ao nivel máximo (o 3), e non estamos a falar de enxeñeiros informáticos, senón de persoas que sexan capaces de facer tarefas como reservar unha sala de reunións nunha aplicación de reservas, empregando a información obtida de varias mensaxes de correo electrónico. Para min, que me considero dentro dese 5%, resúltame moi complicado facer calquera trámite online da administración pública.
+
+GOV.UK (https://www.gov.uk/) ensinounos como debe funcionar a administración dixital (aproveito para recomendar a palestra de Coca Rivas no FEED'17 (https://www.youtube.com/watch?v=cvScsRgmmSg) ) e Canadá (https://www.canada.ca/) continuou a percorrer ese camiño. Moitos outros países tamén están comezando a darlle importancia ao deseño na súa relación co cidadán, e mesmo a crearen sistemas de deseño como nos Estados Unidos (https://designsystem.digital.gov/) , Nova Zelanda (https://design-system-alpha.digital.govt.nz/) ou Italia (https://designers.italia.it/) (por citar só uns poucos exemplos).
+
+Aquí seguimos a anos luz. Por un lado, existe unha publicación (https://www.ciencia.gob.es/stfls/MICINN/Ministerio/FICHEROS/Diseno_adm_publica_online.pdf) recente do Ministerio de Ciencia e Innovación onde podemos ver unha certa intención que podería darnos algo de esperanza, mais por outro lado depareime con outro plan do Goberno de España (https://www.lamoncloa.gob.es/presidente/actividades/Documents/2020/230720-Espa%C3%B1aDigital_2025.pdf) sobre «Transformación dixital» que tira toda a ilusión. O propio deseño do PDF é bastante esclarecedor, mais se buscas algunha referencia ao deseño, mellor nin te molestes. O deseño e a tecnoloxía, dous conceptos que en calquera empresa ou produto dixital van de mans dadas, na administración seguen a ser mundos diferentes sen ningunha conexión aparente.
+
+O caso da Xunta de Galicia tampouco é moito mellor. A experiencia que tiven eu e algúns coñecidos meus á hora de realizar trámites online tampouco dá para moitas celebracións. Existe un programa dentro da Axencia Galega de Innovación (http://gain.xunta.gal/artigos/351/programa+deseno+innovacion+2020) para fomentar o uso do deseño nas empresas e incluso unha interesante publicación sobre os futuros posibles (https://online.flippingbook.com/view/139387/) despois da crise do Covid, porén, se só quedan en palabras bonitas e non van acompañadas de ningunha acción, de pouco valen.
+
+Quizais debería comezar a propia administración por dar exemplo.
+https://www.youtube.com/watch?v=uH_-_mrksV4
+Unha das mellores e máis orixinais palestras que podes ver é esta de Zach Leatherman, (https://www.zachleat.com/) creador ademais do meu xerador de páxinas estáticas favorito: Eleventy (https://www.11ty.dev/) . Xa ten uns anos pero segue a ser igual de divertida: «A Hypocrite’s Guide to Public Speaking» onde nos ensina que debemos facer cando queiramos falar en público.
+https://failflow.com/humansounds/
+
+O son tamén é un factor importante nalgunhas aplicacións (un exemplo son as notificacións do WhatsApp). En Human Sounds (https://failflow.com/humansounds/) poderás atopar unha colección de diferentes sons cunha característica común: están feitos por un humano en vez de cun sintetizador. Podes ver ata os vídeos de como foron feitos. Ademais, todos os cartos gañados serán doados a unha ONG.
+
+https://21wallpaper.design/batch/
+
+21wallpaper (https://21wallpaper.design/batch/) é un proxecto que se actualiza cada 3 meses, e no que 7 ilustradores deseñan 3 fondos de pantalla cada un: 21 fondos en total. A colección número 9 (https://21wallpaper.design/batch/) ten unhas preciosas ilustracións que podes empregar tanto para o teu computador como para o móbil.
+
+https://www.xuntos.org/
+
+Preséntanse como «Xuntos: A Galician word which means together» (https://www.xuntos.org/) e é unha comunidade do Reino Unido formada por xente nova que fai proxectos tecnolóxicos. Non puiden descubrir moito máis, aínda que supoño que detrás deste nome haberá algún galego ou galega.
+
+https://ciechanow.ski/lights-and-shadows/
+
+Bartosz Ciechanowski (menos mal que só o teño que escribir e non pronunciar) é capaz de crear artigos tan espectaculares como este, onde explica como funciona a luz, (https://ciechanow.ski/lights-and-shadows/) e acompaña o texto cunha serie de pequenas microinteraccións para experimentares, feitas tamén por el. No seu blog (https://ciechanow.ski/archives/) podes atopar moitos outros artigos similares.
+
+https://ralphammer.com/make-me-think/
+
+Seguramente todos coñezades o libro «Don't Make Me Think (https://www.amazon.com/Dont-Make-Me-Think-Usability/dp/0321344758) », the Steve Krug. Pola contra, Ralph Ammer cóntanos no seu artigo «Make me think!» (https://ralphammer.com/make-me-think/) os perigos da excesiva simplificación das interfaces actuais, de acordo cos principios do deseño centrado no usuario e as consecuencias de que o usuario realmente non teña que pensar nada. Ademais explícao marabillosamente ben con gifs animados.
+
+https://www.youtube.com/watch?v=1IbQXtCcX5M
+Cando Castelao chegou a Bos Aires en 1940 foi recibido como se fose practicamente unha estrela de rock. A gravación que se conserva da súa chegada está restaurada polo CGAI cunha resolución de 720x480 e 25fps. O xornalista César Galdo (que foi compañeiro meu na miña época de Vieiros) estivo experimentando con intelixencia artificial para ampliar a imaxe a 8K (7680x4320) e 60fps. Isto lémbrame aquelas películas de policías nas que a partir dunha imaxe dixital pixelada, os investigadores podían facer un zoom imposible para obter a matrícula dun coche. Xa falta pouco para chegar a iso.
+
+============================================================
+** Comparte (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|*)
+** Comparte (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|*)
+** Tuitea (http://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE_LINK_SHORT|*)
+** Tuitea (http://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE_LINK_SHORT|*)
+** Reenvía (*|FORWARD|*)
+** Reenvía (*|FORWARD|*)
+** Creative Commons con Attribución (https://creativecommons.org/licenses/by/4.0/deed.gl)
+- *|LIST:COMPANY|* (*|CURRENT_YEAR|*)
+O logotipo de conxeito foi creado coa tipografía ** Movement de María Ramos (http://www.nmtype.com/movement/)
+
+Se non queres recibir máis correos ** date de baixa desta lista (*|UNSUB|*)
+.
+
+*|IF:REWARDS|* *|REWARDS_TEXT|* *|END:IF|*

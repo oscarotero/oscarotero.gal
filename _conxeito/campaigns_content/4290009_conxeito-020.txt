@@ -1,0 +1,81 @@
+*|MC_PREVIEW_TEXT|*
+
+#020 - Abrir no navegador (*|ARCHIVE|*)
+
+
+** O deseño da fala
+------------------------------------------------------------
+Os textos das interfaces (ou copies, se seguimos a tendencia actual de chamarlle a todo en inglés) non só inflúen en como de fácil sexa de entender e usar a aplicación, senón que fan parte da súa personalidade. Adoptamos un ton máis formal ou informal? Optamos por ser máis técnicos ou somos didácticos? Engadimos un toque de humor? Estas decisións son máis importantes do que parece e poden afectar ao éxito ou fracaso (https://vanschneider.com/ux-copy-sells) do produto final.
+
+Realizar estes textos paréceme un traballo complexo que require de perfís especializados, xente que domine perfectamente a linguaxe e que sexa capaz non só de explicar as cousas de maneira comprensible, senón de facelo tamén no ton adecuado. Se temos en conta que, polo xeral, á xente non lle gusta ler textos longos, (https://vanschneider.com/we-dont-want-to-read-your-ux-writing) e que escanea visualmente a pantalla, o medio tampouco axuda demasiado. Lin por aí que Blaise Pascal dixo nalgunha ocasión «Redactei esta carta máis extensa do habitual porque non teño tempo para escribila máis breve». Non sei se realmente dixo iso (quizais lle pasa como con Albert Einstein que lle atribúen todas as citacións do mundo (https://web.archive.org/web/20111022161551/http://v1.anavallasuiza.com/somos/oscar/) ), mais serve para ilustrar o traballo que leva eliminar todo o superficial e ficar co realmente importante, co que achega valor.
+
+En marketgoo, levamos varios meses traballando cunha UX copywriter, que nos está a axudar a mellorar esa parte da interface. Como resultado desta experiencia, quería compartir convosco tres reflexións que creo que se deben tomar en consideración á hora de traballar cos textos como parte do fluxo de traballo de deseño.
+
+
+**
+Define unha guía de estilo
+------------------------------------------------------------
+Nas guías de estilo para copies documéntase o ton da comunicación, a personalidade do produto, como se deben explicar as cousas, que tipo de linguaxe empregar e como hai que referirse ao usuario (en 1º persoa ou 3º persoa (https://medium.com/@jsaito/is-this-my-interface-or-yours-b09a7a795256) ). Tamén outras cousas máis técnicas, relacionadas coa gramática como o tratamento de datas ou regras de puntuación. Penso que é bastante importante elaborar un vocabulario ou dicionario con aquelas palabras ou expresións máis importantes para asegurarmos de que lles chamamos ás cousas sempre do mesmo xeito e incluso ter una listaxe de palabras que non se deberían empregar nunca. En Internet podes atopar moitos exemplos de guías de estilo de texto, como a de Mailchimp (https://styleguide.mailchimp.com/) ou Shopify (https://polaris.shopify.com/content/voice-and-tone) .
+
+
+
+** Contrata falantes nativos
+------------------------------------------------------------
+Ou se non son nativos, cun dominio da lingua similar ao dun nativo. No noso caso, o idioma principal é o inglés de Estados Unidos, polo que temos unha copywriter norteamericana (de Missouri, concretamente). Contares con profesionais cun gran dominio dese idioma asegúrache unha maior precisión no resultado. Son capaces de percibir se algo é demasiado formal ou informal, ou se soa raro aínda que gramaticalmente sexa correcto. A mala calidade lingüística repercute na percepción (https://twitter.com/ebaconube/status/1325424004413480961) que teñen os usuarios do produto.
+
+
+**
+Os textos forman parte do deseño
+------------------------------------------------------------
+Traballar os textos por un lado e o deseño por outro nunca trae bos resultados (o lorem ipsum moito mal fixo no mundo). Canto máis pegados estean mellor e, se é posible, traballar todos no mesmo documento. No nivel de ferramenta, é algo que aínda non conseguín solucionar. Quizais sexa porque usamos Sketch (teño entendido que Figma ofrece máis posibilidades). A miña ferramenta ideal sería unha na que non só se poida editar o deseño por parte de varias persoas, senón tamén discutir sobre diferentes alternativas antes de tomar unha decisión final. Agora mesmo estamos empregando comentarios nun Google Docs. Se alguén coñece outro xeito mellor de facelo, agradecería que mo fixese saber.
+
+E isto é todo o que teño que dicir neste primeiro conxeito do 2021. Apertas!
+https://www.tiki-toki.com/timeline/entry/1402210/Ao-principio-foi-Vieiros.-Do-Blogomillo-ao-Galituter/
+
+Tróuxome moitas lembranzas esta liña cronolóxica cos eventos sobranceiros (https://www.tiki-toki.com/timeline/entry/1402210/Ao-principio-foi-Vieiros.-Do-Blogomillo-ao-Galituter/) na construción do ciberespazo galego. Tiven a sorte de estar no lugar e no momento adecuados para formar parte dalgúns deles, dende o xornal Vieiros, A navalla suíza, o deseño de Praza, Flocos ou Eufalo.
+
+https://lukashermann.dev/writing/why-the-iphone-timer-displays-fake-time/
+
+Este artigo de Lukas Hermann é un bo exemplo do deseño que prioriza o factor humano por riba da corrección e da exactitude tecnolóxica. Nel explícanos como funciona o temporizador de iPhone (https://lukashermann.dev/writing/why-the-iphone-timer-displays-fake-time/) para facelo máis intuitivo. Basicamente, engádeselle medio segundo ao tempo que queiras contar, polo que se o programas para 5 segundos, comezaría en 5,5 e pararía en 0,5.
+
+https://10ideesrecuesenuxdesign.castoretpollux.com/en/
+
+A axencia parisina Castor & Pollux creou este divertido xogo (https://10ideesrecuesenuxdesign.castoretpollux.com/en/) que nos presenta 10 crenzas bastante espalladas no mundo UX para que respondamos se son correctas ou non. Recomendable para todo o mundo, sobre todo para os que están comezando.
+
+https://colormixer.web.app/
+
+Sen exaxerar, penso que existen centos (ou miles?) de ferramentas online para traballar con cores. Parametric Color Mixer (https://colormixer.web.app/) é unha delas e crea escalas de cor. Chamoume a atención pola interface tan bonita e intuitiva que ten e polas opcións que proporciona.
+
+https://www.isaacdiazpardo.gal/gl
+
+En 2020 fixéronse os 100 anos do nacemento de Isaac Díaz Pardo e resultado da exposición que houbo na Cidade da Cultura lanzouse esta web (https://www.isaacdiazpardo.gal/gl) onde podemos coñecer máis sobre a vida e obra deste referente do deseño e da cultura galega. A web foi creada polo estudio coruñés Costa (http://costa.io/) empregando, como non podía ser doutro xeito, a tipografía de Marcos Dopico «Isaac Sans (https://maistypes.cargo.site/Isaac-Sans) ».
+
+Xa falei en anteriores números de Pablo Stanley (https://www.pablostanley.com/) , e dos seus proxectos de ilustración. Ultimamente está publicando divertidos vídeos con temas tan actuais como a rivalidade Sketch vs. Figma (https://twitter.com/pablostanley/status/1338855738651840513) en formato telenovela, ou a serie Pablito Planeta - design astrologist. (https://twitter.com/pablostanley/status/1349455679023681543) Sería un bo convidado para o próximo FEED 😉.
+
+https://www.xataka.com/medicina-y-salud/tecnologia-nos-fallo-fallamos-nosotros-asi-ha-sido-fracaso-aplicaciones-rastreo-contactos
+
+Ao final, case todas as aplicacións de rastrexo de contactos, como Radar Covid en España, non valeron para nada (https://www.xataka.com/medicina-y-salud/tecnologia-nos-fallo-fallamos-nosotros-asi-ha-sido-fracaso-aplicaciones-rastreo-contactos) porque a maioría da xente non as chegou a instalar. Descoñezo os motivos, que supoño que serán moitos e moi variados e creo que toda esta experiencia servirá para pensar e tirar conclusións.
+
+https://brailleinstitute.org/freefont
+
+O Braille Institute of America publicou o ano pasado a tipografía Atkinson Hyperlegible (https://brailleinstitute.org/freefont) . Pódese descargar gratuitamente e promete unha lexibilidade sen precedentes, sobre todo para persoas con problemas de visión, grazas ao deseño dalgúns caracteres para diferencialos doutros similares (como as letras I e l).
+
+https://www.thepolitetype.com/
+
+E outra ligazón máis sobre tipografía gratuíta especial. Nesta ocasión, The Polite Type (https://www.thepolitetype.com/) , unha fonte pensada para combater o bullying e o racismo, desenvolvida por un amplo grupo de persoas en Finlandia. Ao detectar unha palabra ofensiva (en inglés), esta vira unha mancha.
+
+============================================================
+** Comparte (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|*)
+** Comparte (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|*)
+** Tuitea (http://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE_LINK_SHORT|*)
+** Tuitea (http://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE_LINK_SHORT|*)
+** Reenvía (*|FORWARD|*)
+** Reenvía (*|FORWARD|*)
+** Creative Commons con Attribución (https://creativecommons.org/licenses/by/4.0/deed.gl)
+- *|LIST:COMPANY|* (*|CURRENT_YEAR|*)
+O logotipo de conxeito foi creado coa tipografía ** Movement de María Ramos (http://www.nmtype.com/movement/)
+
+Se non queres recibir máis correos ** date de baixa desta lista (*|UNSUB|*)
+.
+
+*|IF:REWARDS|* *|REWARDS_TEXT|* *|END:IF|*

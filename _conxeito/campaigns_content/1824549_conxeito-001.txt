@@ -1,0 +1,88 @@
+*|MC_PREVIEW_TEXT|*
+
+#001 - Abrir no navegador (*|ARCHIVE|*)
+
+
+** Benvida
+------------------------------------------------------------
+Hai dous motivos principais polos que decidín facer un boletín de deseño. O primeiro é persoal: non hai mellor maneira de aprender e asimilar conceptos de deseño (ou de calquera outra cousa) que escribindo sobre eles.
+
+O segundo motivo é colectivo: sen contar o estupendo traballo que se fai dende a DAG, (https://dag.gal/gl/) e profesionais como Pepe Barro (https://twitter.com/BarroDesign) , non existe unha grande abundancia de contido sobre deseño en galego. Ou se existe, non está suficientemente visibilizado (e nese caso, gustaríame que me enviásedes recomendacións).
+
+Neste boletín falarei das cousas que me interesan, sobre todo relacionadas co deseño dixital (entendendo o dixital como aquilo que se consome interactuando cunha pantalla): ligazóns interesantes, noticias que se produzan, novas ferramentas, curiosidades, tecnoloxías etc.
+
+Seguramente, os primeiros subscritores deste boletín semanal sexades amigos e coñecidos meus. Iso tranquilízame enormemente, porque cometerei erros que estou seguro que saberedes entender e perdoar. Non estou acostumado a escribir con tanta frecuencia (realmente non estou acostumado a escribir con ningunha frecuencia), e agardo ir mellorando pouco a pouco, non só na escolla dos temas e contidos senón tamén o xeito de tratalos.
+
+Dito isto, agardo que gocedes tanto léndoo como eu escribíndoo.
+
+
+** Coronavirus
+------------------------------------------------------------
+É o monotema. E non me estraña dada a gravidade do asunto. Como todo suceso importante sobre o que existe unha grande cantidade de información, podemos atopar de todo. Pero isto é un boletín de deseño, así que vou chamar a atención sobre un casos que exemplifican como o deseño pode axudar nesta crise.
+https://www.washingtonpost.com/graphics/2020/world/corona-simulator/
+
+As simulacións realizadas por Harry Stevens (https://www.washingtonpost.com/graphics/2020/world/corona-simulator/) para o Washington Post coas que explica as diferentes estratexias para combater a propagación do virus son mel nas filloas. Deseño e animación ao servizo da historia, para explicar visualmente algo que con texto sería moito máis complexo. Por que non se fan máis cousas coma esta?
+
+https://elpais.com/elpais/2020/03/06/ciencia/1583515780_532983.html
+
+Un dos nosos grandes deseñadores galegos, Artur Galocha, realizou estas detalladas infografías para o xornal El País (https://elpais.com/elpais/2020/03/06/ciencia/1583515780_532983.html) , cun carácter máis científico, onde se pode ver o xeito de infectar deste virus.
+
+https://washyourlyrics.com/
+
+William (@neoncloth (https://twitter.com/neoncloth) ) é un deseñador e programador inglés, artífice deste xerador automático de pósters (https://washyourlyrics.com/) con indicacións para lavar as mans, empregando como contido a letra da túa canción favorita. Si, oíches ben 😱.
+
+https://washyourlyrics.com/
+
+O deseñador e artista visual Max Siedentopf (@maxsiedentopf (https://www.instagram.com/maxsiedentopf/) ) acaba de lanzar a serie How-To Survive a Deadly Global Virus (http://maxsiedentopf.com/how-to-survive-a-deadly-global-virus/) chea de sentido de humor (tamén necesario nestes días). Xeniais tamén moitas das fotografías enviadas polos seus seguidores a través das redes sociais. Por suposto, non pensedes que pór unha leituga na cara vos vai protexer!!
+
+https://washyourlyrics.com/
+
+JWDK é unha axencia de branding especializada no mercado chinés que acaba de crear unha serie de carteis gratuítos (https://www.jwdkpartners.com/jwdk-draws-covid-19-out-of-the-workplace/) con medidas para protexerte do virus seguindo o estilo gráfico dos típicos carteis de sanidade pública chinesa da década dos 50. Grazas a estas fermosas ilustracións, non fai falla saber chinés para entender o que din.
+
+https://washyourlyrics.com/
+
+Andrew Sondern, (https://standardregular.com/) director de arte do New York Times, compartiu na súa conta de Twitter esta xenial composición para un artigo sobre o distanciamento social (https://twitter.com/standardregular/status/1240071365715255296) , supernecesario para reducir o risco de contaxio. Non teño nada máis que dicir, a imaxe xa o di todo. Bravo.
+
+
+** Redeseño da marca da Xunta de Galicia
+------------------------------------------------------------
+Un días antes de que o Coronavirus o monopolizase todo, comezárase a falar da mudanza que fixo a Xunta de Galicia na súa marca. Unha mudanza que se foi introducindo pouco a pouco, de xeito silencioso. Non existe moita información ao respecto, agás unha noticia en Praza (https://praza.gal/politica/a-xunta-redesena-o-seu-logotipo-decada-e-media-despois-da-mudanza-de-fraga-na-crise-do-prestige) e algúns comentarios por Twitter.
+
+A mudanza inclúe un reestyling do símbolo, entendo que para adaptarse mellor ás pantallas dixitais (algo parecido ao que fixo Correos (https://summa.es/case/correos/) recentemente) e o escurecemento do azul corporativo (quizais para corrixir problemas de lexibilidade co contraste?). Pero o que máis chamou a atención foi o cambio do logotipo, que troca o lettering creado ex profeso por Alberte Permuy en 2003 por unha pau seco.
+
+Non se sabe moito máis deste traballo, nin a autoría, nin o tempo que levan traballando nisto, os motivos polos que se fixo a mudanza ou como se vai aplicar. Tendo en conta a importancia e impacto desta mudanza, manter este silencio é un erro de comunicación moi grande por parte da Xunta. Agardemos ter máis información proximamente.
+
+
+** Documentais de Gary Hustwit
+------------------------------------------------------------
+Con motivo da crise do Coronavirus,
+Gary Hustwit decidiu permitir a reprodución de balde dos seus documentais sobre deseño, (https://twitter.com/gary_hustwit/status/1240308271669563392) e liberar un por semana. O primeiro en ser liberado é Helvética, e tes ata o martes 24 para velo. (https://www.ohyouprettythings.com/free)
+
+
+** Ordena a pantalla (do Mac)
+------------------------------------------------------------
+Seguramente che soa esta escena: estás a revisar o teu último proxecto web dende un navegador, ao mesmo tempo que axustas un estilo de CSS no editor de código, mentres ves o deseño de Sketch noutro.
+Traballar con moitas xanelas na mesma pantalla é unha lea e durante moito tempo usei Spectacle (https://www.spectacleapp.com/) para telas todas ordenadiñas. Pero este marabilloso programa deixouse de actualizar e acabo de descubrir o seu substituto: Rectangle (https://rectangleapp.com/) que é incluso mellor.
+
+
+** Tipografía
+------------------------------------------------------------
+Nesta época que nos tocou vivir temos a sorte de contar cunha grande cantidade de eventos e conferencias de deseño que gravan e colgan as súas palestras na Internet para delicia de todos nós. Un exemplo é o
+FrontFest, que se celebrou en febreiro e do que me gustaría destacar a palestra de Elena Ramírez (https://www.youtube.com/watch?v=s7FEziUDXyA) na que se fala non só do termo de moda na tipografía: variable fonts, senón tamén de como empregar moitas das características Open Type na web.
+
+
+** Iconas
+------------------------------------------------------------
+Traballar nunha web ou app require traballar con iconas. Se estás farto de non encontrar a icona necesaria nesa colección infinita descargaches, quizais che interese probar Iconset (https://iconset.io/) , un estupendo xestor de iconas gratuíto e moi fácil de usar.
+E isto foi todo neste primeiro número. Agardo que vos gustase e lembrade: lavade as mans!!
+Apertas e vémonos o próximo venres.
+
+============================================================
+** Creative Commons con Attribución (https://creativecommons.org/licenses/by/4.0/deed.gl)
+- *|LIST:COMPANY|* (*|CURRENT_YEAR|*)
+O logotipo de conxeito foi creado coa tipografía ** Movement de María Ramos (http://www.nmtype.com/movement/)
+
+Se non queres recibir máis correos ** date de baixa desta lista (*|UNSUB|*)
+.
+
+*|IF:REWARDS|* *|REWARDS_TEXT|* *|END:IF|*

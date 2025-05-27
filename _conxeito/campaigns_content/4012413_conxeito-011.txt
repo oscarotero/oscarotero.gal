@@ -1,0 +1,75 @@
+*|MC_PREVIEW_TEXT|*
+
+#011 - Abrir no navegador (*|ARCHIVE|*)
+
+
+** Sobre cores
+------------------------------------------------------------
+Está comunmente aceptado que as cores deben ir en CMYK cando o noso traballo se vai imprimir e en RGB cando se vai ver en pantalla. Ten lóxica: as tintas destinadas a imprimir van nesas catro cores e todas as pantallas empregan as tres cores aditivas. O principal problema deste sistema é que depende demasiado do hardware. Cando dicimos que unha cor ten uns valores de ciano, maxenta, amarelo e negro, non estamos a falar da cor que queremos, senón de como se debe reproducir. E eses mesmos valores poden dar diferentes resultados dependendo do tipo de tinta que se use e do papel; ou, no caso de RGB, do tipo de pantalla (TFT, LCD...) e da calidade.
+
+Os perfís de cor apareceron para resolver ese problema, posto que permiten corrixir estes valores para reproducir a cor exacta que queremos e non a que estea especificada en porcentaxes de tinta ou luz. Vén sendo algo así como dicir «aínda que aquí diga 70 de vermello, non lle fagas caso, para ti é 75». Mais todo isto á custa de engadir moita máis complexidade ao proceso, xa non só nos temos que preocupar da cor, senón tamén do perfil que se vai utilizar, o que causa non poucos problemas.
+Esta imaxe mostra a mesma web en dous navegadores diferentes. Á esquerda, Firefox; á dereita, Chrome. Por que esta diferenza de cores? Porque Firefox non aplica o perfil sRGB, senón que emprega o mesmo espazo de cor do sistema operativo, mentres que Chrome si aplica ese perfil. Hai que lembrar que na web o espazo de cor estándar é sRGB (https://www.w3.org/Graphics/Color/sRGB) , un sistema creado nos anos 90 para pantallas CRT (as típicas televisións de tubo) e que permite reproducir unha cantidade de cores limitada hoxe en día. A maioría de pantallas modernas poden reproducir moitas máis cores que as incluídas en sRGB.
+
+A pregunta que me fago é: non podería haber un sistema de cores mellor? que sexa independente do hardware onde se reproduza?
+
+Por sorte haino. Chamase Lab (ou CIELab) e no mundo das artes gráficas xa hai anos que se emprega. Polo menos durante a miña curta experiencia laboral en imprentas (alá no 2001) xa traballei con Lab, sobre todo naquelas publicacións que requirían a máxima precisión coas cores.
+
+Lab é un sistema deseñado para incluír todas as cores que o ollo humano pode percibir, polo que ofrece moitísimas máis cores que CMYK ou RGB, incluso cores que unha pantalla moderna non é capaz de reproducir. En definitiva, calquera cor que nós poidamos ver, poderase representar en Lab. LCH é unha variación de Lab moito máis intuitiva porque permite definir as cores con Lightness, Chroma e Hue.
+David Johnstone creou unha ferramenta para xerar degradados entre varias cores que podes ver aquí (http://davidjohnstone.net/pages/lch-lab-colour-gradient-picker) e que permite seleccionar unha cor usando Lab ou LCH. O interesante deste xerador é que resalta en vermello aquelas cores que non son reproducibles pola túa pantalla (ou polo menos que non entran dentro do espectro sRGB) e dá para ver a cantidade de cores que nos estamos perdendo. Outra ferramenta, moito máis sinxela é o LCH Colour picker (https://css.land/lch/) de Lea Verou.
+
+En CSS existen moitos xeitos de definir unha cor, mais todos están baseados en RGB, con todas as limitacións que supón. Non sería marabilloso poder definir unha cor en Lab ou LCH, e que eses mesmos valores servisen tanto para unha web, unha aplicación móbil ou unha publicación impresa? Que os manuais de identidade ou as guías de estilo solo tivesen que especificar as cores dun único xeito, universal para todas as aplicacións posibles, sen necesidade de convertela a CMYK ou RGB? Algo así como o Unicode das cores.
+
+Por sorte, a versión 4 do módulo de cores de CSS ofrece a posibilidade de definir cores como Lab ou LCH (https://www.w3.org/TR/css-color-4/#specifying-lab-lch) , co cal ese futuro está cada vez máis preto.
+
+Lea Verou, unha das grandes especialistas en todo o relativo á cor na web, explícao moito mellor ca min neste artigo sobre o que é o LCH e por que é tan importante (http://lea.verou.me/2020/04/lch-colors-in-css-what-why-and-how/) . Ollie Williams tamén nos fala sobre a ampliación da gama de cores na web nun artigo para CSS-Tricks (https://css-tricks.com/the-expanding-gamut-of-color-on-the-web/) . A ver se todo isto serve, polo menos, para que as cores se vexan iguais en Firefox e Chrome 😉.
+https://www.desonhos.gal/compra-segura-compra-local/
+
+Os nosos amigos de Desoños están a apoiar o comercio local a recuperarse dos efectos da pandemia con esta preciosa iniciativa (https://www.desonhos.gal/compra-segura-compra-local/) . Se tes un comercio, ou simplemente queres apoiar a túa tenda de confianza, descarga, imprime e colga algún dos carteis que hai. Tes máis información nesta noticia da Voz (https://www.lavozdegalicia.es/noticia/vigo/vigo/2020/05/27/diseno-grafico-ayudar-comercio-local/0003_202005V27C8991.htm) .
+
+https://www.dropbox.com/care-package
+
+Pareceume unha idea (de márketing) brutal por parte de Dropbox. O concepto: unha carpeta onde meter fotografías, vídeos, libros, audios... e compor un agasallo dixital para que os teus seres queridos te lembren e te teñan presente mentres que non vos volvedes encontrar. (https://www.dropbox.com/care-package)
+
+https://petersaville.info/
+
+É posible que saibas quen é Peter Saville. Mais aínda que o ignores, se es un comprador habitual de discos, seguramente tiveches xa entre as túas mans algúns dos seus traballos. Acaba de saír un repositorio de todas (ou case todas) as capas que fixo. (https://petersaville.info/sleeves/) Malo será que non teñas algunha na túa casa.
+
+http://visual.gi/victor-moscoso-psicodelia-con-acento-gallego/
+
+Hoxe que me puxen un pouco «técnico» falando de cores, que mellor que traer este artigo publicado na revista Visual sobre Víctor Moscoso, (http://visual.gi/victor-moscoso-psicodelia-con-acento-gallego/) un dos deseñadores galegos máis coloridos e psicodélicos. Por certo, que pasa con Visual? Agradecería un pouco máis de coidado na web.
+
+https://twitter.com/presentcorrect/status/1261263164932530178
+
+Ao ver este fío de Twitter, (https://twitter.com/presentcorrect/status/1261263164932530178) onde listan diversos arquivos online de deseño en varios países, lembreime dunha suxestión que nos fixo Pepe Barro hai uns anos (creo que foi no encontro de Rianxo (https://dag.gal/gl/rianxo/) ) sobre a posibilidade de crear un museo do deseño galego online. Quen se apunta?
+
+https://twitter.com/presentcorrect/status/1261263164932530178
+
+Norde (https://norde.io/) é outro xestor máis de iconas que podes descargar e usar de balde. O máis interesante é que permite reescalalas e editar a cor de todas ao mesmo tempo, ademais de exportalas en diferentes formatos.
+
+https://colorpush.wetransfer.com/
+
+Aínda que non sexa con cores Lab ou LCH, é curioso este experimento por parte de Wetransfer. (https://colorpush.wetransfer.com/) Podes crear pinturas dixitais movéndote pola pantalla e logo descargalas para, quen sabe? penduralas na parede.
+
+https://diana-adrianne.com/purecss-gaze/
+
+Diana Smith é unha mestra do CSS. Usando simplemente «divs» e CSS, é capaz de crear pinturas como esta (https://diana-adrianne.com/purecss-gaze/) . Xa hai uns anos nos sorprendera con Francine (https://diana-adrianne.com/purecss-francine/) . Excesivo e innecesario? pode ser. Sorprendente e inspirador? Tamén.
+
+https://randoma11y.com/
+
+E para rematar este especial cores, unha desas ferramentas hipersimples que uso bastante. Randoma11y (https://randoma11y.com/) xera unha combinación de dúas cores de xeito aleatorio, mais sempre co suficiente contraste para cumprir co estándar AA de accesibilidade. Ou como cres que escollo a cor de cada número de Conxeito?
+
+============================================================
+** Comparte (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|*)
+** Comparte (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|*)
+** Tuitea (http://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE_LINK_SHORT|*)
+** Tuitea (http://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE_LINK_SHORT|*)
+** Reenvía (*|FORWARD|*)
+** Reenvía (*|FORWARD|*)
+** Creative Commons con Attribución (https://creativecommons.org/licenses/by/4.0/deed.gl)
+- *|LIST:COMPANY|* (*|CURRENT_YEAR|*)
+O logotipo de conxeito foi creado coa tipografía ** Movement de María Ramos (http://www.nmtype.com/movement/)
+
+Se non queres recibir máis correos ** date de baixa desta lista (*|UNSUB|*)
+.
+
+*|IF:REWARDS|* *|REWARDS_TEXT|* *|END:IF|*

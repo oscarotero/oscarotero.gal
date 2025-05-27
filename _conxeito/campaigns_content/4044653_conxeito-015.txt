@@ -1,0 +1,69 @@
+*|MC_PREVIEW_TEXT|*
+
+#015 - Abrir no navegador (*|ARCHIVE|*)
+
+
+** Dixital e sustentable
+------------------------------------------------------------
+Hai unhas semanas falei de libros electrónicos (https://oscarotero.com/conxeito/009/) e Anxo López (http://anxolopez.com/) comentoume un dato interesante: os eReaders dende un punto de vista ambiental non son sustentables, producir o soporte ten o impacto en emisións de carbono equivalente á impresión de 100 libros. Ollo, e isto sen meter un só libro no aparello. Hai que ler moito para que sexa viable.
+
+O certo é que «dixital» non significa necesariamente sustentable, e non só polo grande impacto na fabricación dos dispositivos electrónicos, senón tamén pola electricidade necesaria para facelos funcionar.
+
+O bo deseño consiste en quitar todo o que sobra, economizar recursos para conseguir obter máis con menos. Nese sentido, os deseñadores tamén somos responsables da súa pegada ambiental. Manu Abuín (@AbuinManu (https://twitter.com/AbuinManu) ) escribiu un interesante artigo en Kristala (https://www.kristaladesign.com/tecnologia-naif-menos-es-suficiente) , sobre os excesos no uso da tecnoloxía para solucionar os problemas actuais.
+
+Emerge é unha axencia dixital de Portland que escribiu este impactante estudo (https://www.emergeinteractive.com/insights/detail/does-irresponsible-web-development-contribute-to-global-warming/) sobre a irresponsabilidade do desenvolvemento web actual e sóltanos un pequeno dato: 1 GB descargado produce uns 3Kg de CO2. Tendo en conta que cada vez as páxinas web son máis pesadas, (https://speedcurve.com/blog/web-performance-page-bloat/) é un dato bastante preocupante. Afortunadamente, hai xeito de reducir este impacto e podemos encontrar diversas iniciativas dentro do mundo do deseño e do desenvolvemento web.
+
+Un exemplo é Codeception, unha libraría de testing en PHP moi popular, con 370.000 instalacións mensuais. Hai un ano deixaron de incluír determinados arquivos innecesarios no zip instalable, (https://github.com/Codeception/Codeception/pull/5527) para baixar o seu tamaño dende 1.1 MB ata 0.4 MB, o equivalente a reducir máis de 700 Kg de emisións de CO2 cada mes.
+
+Outro exemplo interesante é o de Danny van Kooten, un programador holandés que decidiu deixar de comer carne e de viaxar en avión (https://www.wired.com/story/sustainable-software-design-climate-change/) para reducir a súa pegada de carbono, mais o maior impacto conseguiuno facendo un pequeno cambio no seu popular plugin de WordPress para reducir 20 KB o tamaño do código que o plugin insería no HTML das webs que o tiñan instalado. Considerando que uns 2 millóns de sitios están usando este plugin, estímase que o cambio aforrou unhas 59 toneladas de CO2 mensuais, o equivalente a voar dende Nova York a Amsterdam, ida e volta, 85 veces.
+
+Mozilla ten un proxecto dedicado á sustentabilidade (https://blog.mozilla.org/blog/2020/05/28/mozillas-journey-to-environmental-sustainability/) , que entre outras cousas conta cunha lista de de ideas (https://wiki.mozilla.org/Projects/Sustainability/Ideas) para reducirmos o impacto ambiental, como o bloqueo de anuncios, a creación dun certificado verde, a promoción dos sitios estáticos (algún día falarei disto) ou o uso do buscador Ecosia, (https://www.ecosia.org/) en vez de Google.
+
+Á hora de deseñar webs e produtos dixitais, tamén debemos ter en conta cousas como o rendemento das webs, o consumo de recursos e gasto enerxético, sobre todo en sitios con moito tráfico onde eses pequenos cambios afectan de xeito exponencial a cantidade de CO2 producida. De vez en cando debemos preguntarnos se vale a pena meter este efecto na web, ou usar determinada tecnoloxía se iso vai supor contribuír a empeorar aínda máis o noso ambiente.
+https://aquarium.ru/en
+
+Miguel Grandío (@ (https://twitter.com/Mixigodo) Mixigodo (https://twitter.com/Mixigodo) ) mandoume esta semana a ligazón á web de Aquarium, (https://aquarium.ru/en) unha banda de rock psicodélico rusa que leva tocando dende principios dos anos 70. Quizais non é a web máis ecolóxica, nin a máis adecuada para epilépticos, mais pareceume impresionante o xeito que teñen de contar a súa historia. En Genbeta explican máis detalles (https://www.genbeta.com/web/abstenerse-personas-epilepsia-esta-web-viaje-tridimensional-psicodelico-musical) .
+
+https://spotify.design/article/reimagining-design-systems-at-spotify
+
+Pareceume interesante este artigo de Spotify sobre como foi evolucionando o seu sistema de deseño. (https://spotify.design/article/reimagining-design-systems-at-spotify) Pasaron dende non ter nada a ter 22 sistemas de deseño diferentes, para finalmente crear un framework que se vai ramificando para dar acubillo a diferentes sistemas independentes, mais conectados entre si. Isto dos sistemas de deseño pode chegar a complicarse moito, sobre todo neste tipo de empresas grandes con tantas plataformas diferentes.
+
+https://boingboing.net/2020/06/24/goldman-sachs-releases-its-own.html
+
+Goldman Sachs acaba de lanzar unha tipografía propia, a Goldman Sans (https://design.gs.com/d/design-system/foundation/typography/) que podes descargar libremente. O curioso é que na súa licenza prohiben explicitamente empregala para criticalos a eles (https://boingboing.net/2020/06/24/goldman-sachs-releases-its-own.html) , xunto con outras lindezas. Non sei por que, non me sorprende nada. 🙈
+
+https://www.keengamer.com/articles/features/opinion-pieces/the-last-of-us-part-2-just-set-an-example-future-devs-should-follow/
+
+A accesibilidade é outra batalla que aínda se nos resiste. Por sorte, de vez en cando temos boas noticias. The Last of Us - Part 2, é un xogo que saíu hai un mes para a PS4. Steve Saylor é un gamer cego que despois de probar o xogo, subiu un vídeo na súa conta de Twitter, (https://twitter.com/stevesaylor/status/1271404306697158659) no que se ve totalmente emocionado pola cantidade de opcións de accesibilidade que contén (máis de 60). Neste artigo de KeenGamer (https://www.keengamer.com/articles/features/opinion-pieces/the-last-of-us-part-2-just-set-an-example-future-devs-should-follow/) explican máis sobre este xogo e o importante que é ter en conta a accesibilidade en calquera produto dixital.
+
+https://atozofai.withgoogle.com/
+
+A intelixencia artificial é un deses conceptos cada vez máis de moda que vai mudar (estao facendo xa) o noso mundo. A universidade de Oxford, xunto con Google, fixeron esta bonita web onde nos explican de xeito moi básico en que consiste e en que se está a aplicar. (https://atozofai.withgoogle.com/)
+
+https://whimsical.club/
+
+Gustoume moito o artigo de Sarah Drasner (https://sarahdrasnerdesign.com/) : In Defense of a Fussy Website (https://css-tricks.com/in-defense-of-a-fussy-website/) , onde fala deses pequenos detalles ou microinteraccións que fan a web un chisco máis divertida e humana, en contraposición á web como un simple lector de documentos. Por mor deste artigo, Max Böck creou o repositorio The Whimsical Web (https://whimsical.club/) , onde vai recompilando webs que teñen algún detalle divertido.
+
+https://brandingwikipedia.org/
+
+Lembro a fantástica iniciativa de Mozilla para o redeseño do seu logo (https://blog.mozilla.org/opendesign/) de realizar un proceso aberto e participativo (aínda que guiado por profesionais, claro). Wikimedia (a fundación que está detrás da Wikipedia e moitos outros proxectos (https://wikimediafoundation.org/our-work/wikimedia-projects/) ) parece que quere facer algo parecido, polo que explican nesta web (https://brandingwikipedia.org/) . Por agora estiveron a traballar coa empresa noruega Snøhetta (https://snohetta.com/projects/488-new-visual-identity-for-the-wikipedia-movement) na investigación e na xeración de conceptos que usarán na segunda metade do ano no desenvolvemento da nova marca.
+
+https://www.miltonglaser.com/milton/c:essays/#3
+
+O venres pasado, morreu Milton Glaser, o mesmo día que facía 91 anos. Máis alá do seu famosísimo logo «I ❤️ NY» gustaríame rescatar a súa listaxe de 10 cousas que aprendeu como deseñador, que forma parte dunha palestra da AIGA que deu en Londres en 2011 e que se pode descargar en PDF na súa páxina web. (https://www.miltonglaser.com/files/Essays-10things-8400.pdf)
+
+============================================================
+** Comparte (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|*)
+** Comparte (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|*)
+** Tuitea (http://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE_LINK_SHORT|*)
+** Tuitea (http://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE_LINK_SHORT|*)
+** Reenvía (*|FORWARD|*)
+** Reenvía (*|FORWARD|*)
+** Creative Commons con Attribución (https://creativecommons.org/licenses/by/4.0/deed.gl)
+- *|LIST:COMPANY|* (*|CURRENT_YEAR|*)
+O logotipo de conxeito foi creado coa tipografía ** Movement de María Ramos (http://www.nmtype.com/movement/)
+
+Se non queres recibir máis correos ** date de baixa desta lista (*|UNSUB|*)
+.
+
+*|IF:REWARDS|* *|REWARDS_TEXT|* *|END:IF|*

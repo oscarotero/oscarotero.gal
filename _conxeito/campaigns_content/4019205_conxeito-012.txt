@@ -1,0 +1,60 @@
+*|MC_PREVIEW_TEXT|*
+
+#012 - Abrir no navegador (*|ARCHIVE|*)
+
+
+** Jobs to be done
+------------------------------------------------------------
+A teoría «Jobs To be done» (non confundir con «Getting things done», da que falei no Conxeito #010) (https://oscarotero.com/conxeito/010/) foi creada por Anthony W. Ulwick a medidados dos anos 90. A idea é simple e ao mesmo tempo complicada: trátase de coñecer a motivación dos clientes, a razón pola que empregan o teu produto, e usar esa información para melloralo e innovar.
+
+Recoñezo que non coñecía a teoría ata que cheguei a traballar en marketgoo e Wences (https://twitter.com/wencesg) me pasou uns vídeos de Clayton Christensen, comentando o exemplo do batido de McDonald's, (https://hbswk.hbs.edu/item/clay-christensens-milkshake-marketing) que ilustra moi ben en que se basea a teoría:
+
+Hai anos, McDonald's quixo aumentar a venda dos seus batidos, polo que comezou a facer entrevistas aos seus clientes coas típicas preguntas sobre o prezo, a textura, o tamaño, se lles gustaría que tivesen máis sabores etc. Despois de recompilar toda esa información e usala para mellorar os batidos, viron que non conseguían mellorar as súas vendas, polo que decidiron contratar a Clayton Christensen como consultor, que decidiu aplicar a teoría de Jobs to be done.
+
+O bo de Clayton pasou o día enteiro dentro dun único restaurante e viu que a metade dos batidos se vendían antes das 8:30 da mañá. Normalmente eran clientes que viñan sós e compraban unicamente o batido para levalo no coche, non o bebían dentro do restaurante. Ao día seguinte, despois de falar con algúns deses clientes, descubriu que o motivo da súa compra era que tiñan un longo traxecto en coche ata chegar ao lugar do traballo e precisaban algo que facer durante o camiño. Conducían cunha soa man, polo que tiñan a outra libre, sen saber moi ben que facer con ela. Podían comer un plátano ou galletas pero era algo que se remataba pronto e axiña lles volvía a fame. En cambio, a viscosidade do batido coa palliña facía que rematalo lles levase moito máis tempo e deixáballes o estómago cheo, co que enganaban a fame ata a media mañá. O Job to be done dos batidos era, polo tanto, acompañalos e mantelos entretidos durante o camiño ao traballo sen quedaren durmidos e coa barriga chea.
+
+O motivo polo que as primeiras mudanzas non deran resultados era porque resultaban irrelevantes para o traballo que tiñan que desempeñar os batidos. Non facía falta crear máis sabores nin mudar os ingredientes porque a súa competencia non eran os batidos de Burguer King, senón as bananas, os donuts, as bolachas e calquera alimento de almorzo. Despois de facer varias alteracións baseadas neste descubrimento, como poñelos máis visibles para a xente que chegaba en coche, facelos aínda máis viscosos para que duren máis tempo, máis fáciles de agarrar mentres conduces etc, conseguiron finalmente vender moitos máis.
+En produtos dixitais, igual que con calquera outro produto, coñecer o motivo polo que a xente usa o noso produto é fundamental para saber onde se debe innovar. Se queres saber máis, recoméndoche o artigo «Know Your Customers' "Jobs to be Done"» (https://hbr.org/2016/09/know-your-customers-jobs-to-be-done) do propio Clayton Christensen, xunto con Taddy Hall, Karen Dillon e David S. Duncan que publicaron na revista Hardward Business Review en setembro do 2016 ou o libro (gratuíto) do creador da teoría (https://jobs-to-be-done-book.com/) , Anthony Ulwick.
+https://swach.io/
+
+Swach (https://swach.io/) é un pequeno programa gratuíto para crear e gardar paletas de cores. Na miña opinión é un pouco limitado, mais supoño que o irán mellorando e seguramente te poida sacar dun apuro, como cando queres capturar unha cor da pantalla rapidamente.
+
+https://pudding.cool/2020/05/wrestling/
+
+As análises e infografías de The Pudding sempre sorprenden. Nesta ocasión fixeron unha guía das máscaras de loita libre, (https://pudding.cool/2020/05/wrestling/) cunha estética de videoxogos dos anos 90 moi interesante.
+
+https://www.typearture.com/variable-color-font-initials/
+
+Todo o mundo fala das variable fonts e moi poucos das color fonts (un formato que permite incluír varias cores na tipografía). Mais, postos a darlle unha volta máis, xa temos as variable color fonts, (https://www.typearture.com/variable-color-font-initials/) ás que se ademais lles metes animación (por CSS) xa non lles falta nada.
+
+https://web.dev/maskable-icon/
+
+Con isto das web apps instalables, nalgúns sistemas operativos (sobre todo Android) as iconas móstranse enmascaradas dentro dun círculo ou cadrado redondeado, o que fai que o teu logo se vexa recortado. Os maskables icons é un novo formato que asegura que a túa icona se vai ver ben, independentemente de se se enmascara ou non. Neste artigo de Google (https://web.dev/maskable-icon/) tes máis información, e nesta aplicación (https://maskable.app/editor) podes crear e testar a túa icona.
+
+https://vole.wtf/scunthorpe-sans/
+
+Scunthorpe Sans (https://vole.wtf/scunthorpe-sans/) é unha tipografía que detecta palabróns (en inglés, claro) para ocultalas por medio dun cadrado. A súa función é evitar que a túa web poida ser bloqueada por conter determinadas palabras (https://en.wikipedia.org/wiki/Scunthorpe_problem) . Non deixa de ser curiosa.
+
+https://openai.com/blog/jukebox/
+
+Isto da intelixencia artificial cada vez é máis sorprendente. Jukebox (https://openai.com/blog/jukebox/) é unha rede neuronal que é capaz de compoñer e interpretar cancións de diferentes xéneros e estilos como un rock ao estilo Elvis, ou pop tipo Katy Perry.
+
+https://medium.com/disney-streaming/bringing-new-aspects-of-the-simpsons-to-disney-d6067226556e
+
+Pareceume interesante este artigo de como Disney remasterizou as primeiras tempadas dos Simpsons (https://medium.com/disney-streaming/bringing-new-aspects-of-the-simpsons-to-disney-d6067226556e) para adaptalas á proporción 16:9 das televisións HD actuais.
+
+============================================================
+** Comparte (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|*)
+** Comparte (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|*)
+** Tuitea (http://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE_LINK_SHORT|*)
+** Tuitea (http://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE_LINK_SHORT|*)
+** Reenvía (*|FORWARD|*)
+** Reenvía (*|FORWARD|*)
+** Creative Commons con Attribución (https://creativecommons.org/licenses/by/4.0/deed.gl)
+- *|LIST:COMPANY|* (*|CURRENT_YEAR|*)
+O logotipo de conxeito foi creado coa tipografía ** Movement de María Ramos (http://www.nmtype.com/movement/)
+
+Se non queres recibir máis correos ** date de baixa desta lista (*|UNSUB|*)
+.
+
+*|IF:REWARDS|* *|REWARDS_TEXT|* *|END:IF|*

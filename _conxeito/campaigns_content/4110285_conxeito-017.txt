@@ -1,0 +1,66 @@
+*|MC_PREVIEW_TEXT|*
+
+#017 - Abrir no navegador (*|ARCHIVE|*)
+
+
+** Logos internos
+------------------------------------------------------------
+En marketgoo levamos traballando dende hai varios meses na mellora do noso produto (unha ferramenta para optimizar o SEO, destinado a persoas non expertas) co obxectivo de levar a solución «aceptable» que temos agora a un novo nivel. Trátase dunha mudanza ambiciosa que nos fixo repensar todo, dende definir un novo enfoque, estabelecer uns principios de deseño e traballar nunha nova visión de produto para implementar nos próximos anos. Case nada!
+
+Para enfrontarnos a un cambio tan profundo, é necesario estarmos todas as persoas que formamos parte de marketgoo involucradas, conscientes do que estamos a facer, por que o queremos facer e como o imos levar a cabo. Non se trata do traballo dun único equipo, nin dun proxecto que se presenta un día con fogos de artificio para caer no esquecemento despois dun tempo. Queremos manter a tensión en todo momento dun proxecto que ten un obxectivo e duración concretos e onde todos debemos estar remando na mesma dirección.
+
+Por iso decidimos poñerlle un nome: Wanderlust mission, en referencia a Wanderlust Ironworks, (https://www.wanderlustironworks.com/) un artesán de mobles que grazas á nosa ferramenta conseguiu ter éxito online coa súa empresa. E fixemos isto:
+Este logotipo, de temática mariña como non podía ser doutro xeito, mostra o faro de Punta Robaleira (https://www.turismo.gal/recurso/-/detalle/36816/punta-robaleira?langId=gl_ES&ctre=44&tp=9) no cabo Home, un faro do que gardamos grandes recordos dunha visita anterior, e acompañámolo dunha onda en alusión a «Ola» (https://zeroheight.com/22mjgbuf6/p/56796c-ola) , o noso sistema de deseño. Non hai nada casual neste logo, todo fai referencia a momentos importantes.
+
+Por suposto, ter un logo para un proxecto interno non é nada novo, 2 anos antes en onTruck xa facían parches de misión (https://twitter.com/chocotuits/status/971097863752167424) por cada proxecto importante, no seu caso inspirados nas misións espaciais. Seguro que hai máis empresas que fan cousas parecidas.
+
+O interesante de todo isto é que funciona. Polo menos no noso caso, ter un nome e un logotipo destinado unicamente para uso interno estanos axudando a manternos enfocados neste obxectivo e conscientes da súa importancia (https://twitter.com/wencesg/status/1300432395384938497) . O logo está presente en todos os ámbitos, encabezando documentos, presentacións e todo o relacionado con esta misión. E tamén estamos traballando na produción de merchandising como camisetas, adhesivos, cadernos ou botellas de auga.
+
+Isto fíxome pensar na importancia do deseño no funcionamento interno das empresas e institucións, non só destinado ao cliente final. É evidente que cun logo nada máis non se soluciona nada, ten que haber moito traballo detrás de coordinación, comunicación e organización, pero si que pode ser a cereixa do pastel, o que marque a diferenza entre algo ben feito mais que se debilita co tempo ou algo que nos axude a manter a tensión.
+https://github.com/manueldelrio/faino-estante
+
+En Galicia temos a sorte de contar con deseñadores tan bos como Manuel del Río, (https://twitter.com/manuel2R) cofundador de cenlitrosmetrocadrado, que decidiu liberar en licenza Creative Commons o deseño do seu estante Faino estante (https://github.com/manueldelrio/faino-estante) , coa filosofía DIWO (Do it with others). Mesmo comezou a crear unha lista (https://github.com/manueldelrio/faino-estante/blob/develop/DIWO.md) de posibles fabricantes, deseñadores e provedores aos que poder ir cos planos para que che adapten e constrúan o estante.
+
+https://www.independent.co.uk/life-style/gadgets-and-tech/news/microsoft-internet-explorer-out-use-11-edge-a9676176.html
+
+Creo que todos os que nos dedicamos á web soñamos con isto máis dunha vez e parece que por fin se fixo realidade: Internet Explorer finalmente morreu! (https://www.independent.co.uk/life-style/gadgets-and-tech/news/microsoft-internet-explorer-out-use-11-edge-a9676176.html) 🥳 Realmente, non creo que ningunha persoa o empregue actualmente, non sendo en grandes empresas que non se poden desprender del tan facilmente. Pero Microsoft vai finalmente deixar de dar soporte a IE11 e servizos importantes como Office 360 deixarán de funcionar.
+
+https://whydoweinterface.com/
+
+Marabilloso micro-book o que Ehsan Noursalehi nos agasalla. Why Do We Interface? (https://whydoweinterface.com/) rescata a estética píxel que tan de moda estivo nos 90 para ofrecernos un percorrido polo pasado, presente e futuro das interfaces.
+
+https://github.com/minvws/nl-covid19-notification-app-website/commit/ce16c03b221c1ba1f18035f3a11907039c663871
+
+Hai uns meses, o ministro de sanidade holandés decidiu inaugurar a web CoronaMelder.nl (http://coronamelder.nl/) facendo un commit no código do repositorio en github (https://github.com/minvws/nl-covid19-notification-app-website/commit/ce16c03b221c1ba1f18035f3a11907039c663871) . Non sei se todo o mundo entende o que significa isto, pero a min pareceume magnífico que un político se prestase a facer isto. Son un firme defensor de que o código creado con diñeiro público debería ser aberto (https://publiccode.eu/) , algo que aquí tamén se fixo coa aplicación de Radar COVID, (https://github.com/RadarCOVID) aínda que sen «inauguración».
+
+https://www.logodesignlove.com/yukio-ota-locos
+
+Imaxina un idioma que todas as persoas do mundo (videntes) poidamos entender para comunicarnos. Pois é o que fixo o deseñador xaponés Yukio Ota (https://www.logodesignlove.com/yukio-ota-locos) . Un idioma pictográfico no que estivo a traballar dende 1964 chamado LoCoS (abreviatura de Lovers Communication System).
+
+https://w3c.studio24.net/timeline/
+
+A W3C está a redeseñar a súa web, e para iso contou coa axencia inglesa Studio24. O interesante é que teñen todo o proceso en aberto e podes acceder a todo o traballo feito neste (https://w3c.studio24.net/timeline/) timeline (https://w3c.studio24.net/timeline/) , incluso subscribirse por RSS. Moi interesante para aprender como se traballa nunha web destas dimensións.
+
+https://w3c.studio24.net/timeline/
+
+Para a semana hai ENAD, o encontro nacional de asociacións de deseño que cada ano organiza a READ (https://designread.es/) (da que a DAG (https://dag.gal/gl/) forma parte). Nesta oitava edición vai ter un formato principalmente online e o tema é o deseño aplicado á gastronomía (https://designread.es/8enad/) . Podes apuntarte gratuitamente na súa web (https://designread.es/8enad/inscribete/) .
+
+https://vinte.praza.gal/artigo/os-mellores-boletins-dixitais-que-podes-recibir-en-galego
+
+Para finalizar, en vinte fixeron unha reportaxe sobre newsletters en galego, (https://vinte.praza.gal/artigo/os-mellores-boletins-dixitais-que-podes-recibir-en-galego) na que incluíron a miña 😊, mais tamén outras que vale a pena seguir. Anímovos a que vos subscribades e as apoiedes.
+
+============================================================
+** Comparte (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|*)
+** Comparte (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|*)
+** Tuitea (http://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE_LINK_SHORT|*)
+** Tuitea (http://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE_LINK_SHORT|*)
+** Reenvía (*|FORWARD|*)
+** Reenvía (*|FORWARD|*)
+** Creative Commons con Attribución (https://creativecommons.org/licenses/by/4.0/deed.gl)
+- *|LIST:COMPANY|* (*|CURRENT_YEAR|*)
+O logotipo de conxeito foi creado coa tipografía ** Movement de María Ramos (http://www.nmtype.com/movement/)
+
+Se non queres recibir máis correos ** date de baixa desta lista (*|UNSUB|*)
+.
+
+*|IF:REWARDS|* *|REWARDS_TEXT|* *|END:IF|*

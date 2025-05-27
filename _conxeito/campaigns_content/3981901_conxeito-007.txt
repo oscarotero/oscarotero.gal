@@ -1,0 +1,78 @@
+*|MC_PREVIEW_TEXT|*
+
+#007 - Abrir no navegador (*|ARCHIVE|*)
+
+
+** Especialización e fragmentación
+------------------------------------------------------------
+Hai un par de semanas, David Bonilla falounos da especialización na súa Bonilista (https://mailchi.mp/bonillaware/especialistas?e=a8b33bdf16) , comparando as vantaxes de especializarte nun campo específico coas de seres un perfil máis xeral. Este debate tamén existe no deseño dixital, onde podemos encontrar perfís de todo tipo. Dende un moi específico (tipo deseñador de iconas) ata outro moito máis xenérico e transversal como o perfil dun deseñador de produto ou dun deseñador-desenvolvedor.
+
+Esta especialización trouxo consigo unha fragmentación da profesión en múltiples subdivisións, que se diferencian entre si polo rango que abarcan no proceso de creación, e normalmente con nomes en inglés: UX designer, UX/UI designer, visual designer, digital designer, product designer, web designer, interaction designer... termos con límites difusos entre eles, e incluso con diferentes interpretacións dependendo da empresa ou do cliente.
+Non estou certo de se esta fragmentación resulta beneficiosa ou non para o sector. Dominar ou coñecer o deseño dende un contexto máis amplo danos moita máis perspectiva do proxecto, do seu alcance e das ferramentas e materiais das que dispomos para abordalo. Na miña opinión, un deseñador dixital, como mínimo debería ter os coñecementos necesarios para poder realizar un proxecto web por si só. Tanto ten que sexa algo pequeno e simple, un prototipo ou un MVP. Dende idear a solución, o deseño da interface, o ton da comunicación e os copies, os fluxos e interactividade, maquetación (html + css cando menos) e valorar o éxito e posibles melloras unha vez estea publicada. Non hai necesidade de ser un experto en todas estas tarefas, mais, polo menos, ter uns coñecementos mínimos que permitan comunicarnos cos que si son expertos e comprender o valor e o alcance de cada un destes pasos. Jonas Downey, product designer en Basecamp falounoshai un tempo sobre a fragmentación dos traballos de deseño (h
+ttps://m.signalvnoise.com/the-unnecessary-fragmentation-of-design-jobs/) e a necesidade de definirnos simplemente como «Deseñadores» (sen máis, e co D maiúsculo).
+
+A especialización nalgún destes campos supoño que depende de cada un, e moitas veces nin sequera se debe a unha decisión tomada a priori, senón que é froito da curiosidade, das necesidades laborais ou simplemente da casualidade. Podes sentirte cómodo na busca da excelencia nunha tarefa concreta, ou expandirte, tentando tocar todos os paus posibles (aínda que tamén é necesario saber cando parar). Jed Lehmann rescata a frase do escritor Gregory Benford «a especialización é para insectos (https://uxdesign.cc/specialisation-is-for-insects-a-product-designer-impacts-the-entire-user-experience-ded69e87a1f6) » coa que quere destacar que un product designer debe saber impactar en toda a experiencia de uso dun produto.
+
+
+** O confinamento continúa
+------------------------------------------------------------
+Non sei cantas semanas pasaron xa, perdín a noción do tempo. E aínda así, continúo atopando novas propostas «deseñísticas» relacionadas co covid.
+https://peopleofthepandemicgame.com/
+
+Shirley Wu (@sxywu (https://twitter.com/sxywu) ) é unha deseñadora especializada en traballar na visualización de datos que acaba de lanzar (xunto con outros compañeiros) un xogo onde simula como as decisións persoais de cada un afectan na expansión do virus. No seu twitter tendes unha explicación máis detallada (https://twitter.com/sxywu/status/1252335685115101184) , e podedes xogalo en People of the Pandemic (https://peopleofthepandemicgame.com/) .
+
+https://www.dropbox.com/s/4806ztr55sh14aa/stay_home_custom.ai?dl=0
+
+Stephen Kelleher (http://https://stephenkelleher.com/) é un deseñador neoiorquino que decidiu crear un símbolo universal para o concepto «fica na casa». Podes descargalo en diferentes idiomas (https://www.dropbox.com/sh/hfjp5sw87quenvn/AAAXv-2rNtvokw7lO-LNuhkka?dl=0) ou a grella en Illustrator (https://www.dropbox.com/s/4806ztr55sh14aa/stay_home_custom.ai?dl=0) para poder facer a túa versión. Eu acabo de facer unha versión en galego (https://www.dropbox.com/sh/qi66sw4uf6frczh/AAAuAoy3YsCW7Qp__TDNK6LHa?dl=0) .
+
+https://www.vice.com/en_uk/article/m7q8a4/illustrations-environment-good-news-coronavirus
+
+Unha cousa boa que podemos tirar de estarmos confinados é a redución substancial da contaminación que se está a producir. En Vice, dannos uns datos moi interesantes, (https://www.vice.com/en_uk/article/m7q8a4/illustrations-environment-good-news-coronavirus) acompañados das ilustracións de Ryan Rachman.
+
+https://quarantineofdreams.com/
+
+Quarantine of Dreams (https://quarantineofdreams.com/) é un marabilloso proxecto onde podemos compartir co resto do mundo eses estraños soños que estamos a ter durante o período de confinamento. Cunha interface moi minimalista onde non aparece máis información sobre o proxecto ou a autoría.
+
+https://copymouse.com/coronavirus-free-icons/
+
+O estudio barcelonés Copymouse puxo a disposición de todos nós un set de iconas gratuítas sobre o coronavirus (https://copymouse.com/coronavirus-free-icons/) , onde podemos atopar dende o demandado papel hixiénico ata persoas nas terrazas cantando o «Resistiré».
+
+https://citiesandmemory.com/covid19-sounds/
+
+Cities and Memory é un proxecto colaborativo co obxectivo de recompilar sons de diferentes partes do mundo. Con motivo do confinamento, fixeron o proxecto #StayHomeSounds (https://citiesandmemory.com/covid19-sounds/) onde podemos escoitar o son actual das distintas cidades do mundo, moi diferente ao que estamos acostumados. En Santiago de Compostela temos a praza de Cervantes onde, en ausencia de persoas, só se escoita a auga da fonte caer.
+
+https://www.vice.com/en_uk/article/m7q8a4/illustrations-environment-good-news-coronavirus
+
+@femmeAndroid (https://twitter.com/femmeandroid) dedícase a debuxar banda deseñada e a facer cousas tan marabillosas como thiswebsitewillselfdestruct.com (https://www.thiswebsitewillselfdestruct.com/) , unha web que se autodestruirá se pasan 24 horas sen recibir ningún comentario. Cando vexo proxectos deste tipo sempre penso que nesa internet indie, chea creatividade e propostas tolas, non está todo perdido.
+
+https://interfaceingame.com/
+
+Os deseñadores de produtos dixitais temos moito que aprender das interfaces dos videoxogos. Interface In Game (https://interfaceingame.com/) é un repositorio con centos de imaxes de videoxogos moi ben catalogados. Non está Super Mario Bros, quizais o videoxogo mellor deseñado da historia (https://youtu.be/zRGRJRUWafY?t=25) , mais hai moitos outros onde escoller.
+
+https://getkap.co/
+
+Se precisas gravar a túa pantalla, Kap é unha aplicación gratuíta de código aberto (https://getkap.co/) que permite facelo e exportar o resultado a diferentes formatos como gif ou mp4. Tamén ten moitos plugins para poder subir os vídeos a moitas plataformas online. Só para usuarios de macOS.
+
+https://www.drlab.org/research-projects/example-for-copy-3/
+
+O Lorm Glove (https://www.drlab.org/research-projects/example-for-copy-3/) é un guante pensado para que as persoas xordomudas se poidan comunicar co resto do mundo mediante o alfabeto Lorm, (https://en.wikipedia.org/wiki/Lorm_alphabet) un método en que cada letra do alfabeto está representada por unha zona da man. Non son moi fan dos «wereables», mais este pareceume interesante.
+
+http://collletttivo.it/
+
+Todas as entregas de «conxeito» teñen que conter algunha cousa relacionada coa tipografía. Nesta ocasión, vou destacar o traballo de Collletttivo, (http://collletttivo.it/) cun interesante catálogo de fontes open source. Iso si, se vas empregar algunha nalgún proxecto, non esquezas facerlles unha doazón.
+
+============================================================
+** Comparte (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|*)
+** Comparte (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|*)
+** Tuitea (http://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE_LINK_SHORT|*)
+** Tuitea (http://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE_LINK_SHORT|*)
+** Reenvía (*|FORWARD|*)
+** Reenvía (*|FORWARD|*)
+** Creative Commons con Attribución (https://creativecommons.org/licenses/by/4.0/deed.gl)
+- *|LIST:COMPANY|* (*|CURRENT_YEAR|*)
+O logotipo de conxeito foi creado coa tipografía ** Movement de María Ramos (http://www.nmtype.com/movement/)
+
+Se non queres recibir máis correos ** date de baixa desta lista (*|UNSUB|*)
+.
+
+*|IF:REWARDS|* *|REWARDS_TEXT|* *|END:IF|*

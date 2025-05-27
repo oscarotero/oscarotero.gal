@@ -1,0 +1,59 @@
+*|MC_PREVIEW_TEXT|*
+
+#014 - Abrir no navegador (*|ARCHIVE|*)
+
+
+** Acerca de Hey
+------------------------------------------------------------
+Basecamp é unha empresa/produto que vai por libre, tanto na forma que teñen de funcionar internamente (moi ben explicado no libro It Doesn't Have to Be Crazy at Work (https://www.amazon.com/Doesnt-Have-Be-Crazy-Work/dp/0062874780) , escrito polos seus fundadores), como no xeito de afrontar os proxectos (tamén explicado no web-book Shape Up (https://basecamp.com/shapeup) , do que xa falei en anteriores ocasións). Molan tanto, que incluso podemos dubidar de se nos están a dar gato por lebre. É unha pose ou realmente funcionan deste xeito?
+
+O caso é que esta semana lanzaron HEY, (https://hey.com/) un servizo de correo electrónico (como pode ser Gmail ou Outlook) no que estiveron a traballar durante 2 anos e que pretende mellorar notablemente a experiencia de uso e corrixir moitas das cousas que a ninguén lle gustan dos emails actualmente. Más alá de se vale a pena usar o produto ou non, hai varias cousas que me pareceron moi interesantes e das que todos podemos aprender.
+
+Jason Fried, CEO da compañía, publicou este vídeo no que fai un percorrido pola ferramenta (https://www.youtube.com/watch?v=UCeYTysLyGI) e explica o funcionamento de HEY. Recomendable a súa visualización, sobre todo para poder apreciar como un equipo de produto pode coller unha funcionalidade que todos coñecemos, como é o email, e espremela ao máximo, para facer algo totalmente novo mais sen deixar de ser o email de sempre. Tamén é interesante o xeito que ten Jason de explicar este novo produto, centrándose en solucionar problemas reais que tivemos a maioría dos que traballamos con correo electrónico. Como di ao final do vídeo: It's not an email sofware, it's an email philosophy built in workflows, not in workaround. Lémbrame o conxeito #010, (https://oscarotero.com/conxeito/010/) en que se trataron produtos construídos ao redor de métodos e non de features.
+
+Outra cousa que me gusta desta compañía e da que sinto bastante envexa é a parte tecnolóxica. Chámame anticuado, mais sempre fun bastante crítico co xeito actual de construír software na web, esa filosofía de javascript-first (ou mellor dito, javascript-only) que fomentan frameworks como React ou Vue. Basecamp tamén vai a contracorrente niso, e mantén unha actitude máis próxima aos principios da web. A propósito disto, Alex Russel destacou en twitter (https://twitter.com/slightlylate/status/1272909020668416001) este fío de Sam Stephenson onde fala de como se construíu a ferramenta (https://twitter.com/sstephenson/status/1272608076433166336) , empregando HTML estándar. Os resultados, no referente ao nivel de métricas e rendemento é espectacular (https://twitter.com/alekseykulikov_/status/1272887192495566849) .
+
+Vou usar o produto? Non creo. Non é un produto especialmente barato (https://hey.com/pricing/) (aínda que todo isto é relativo, todos coñecemos a diferenza entre valor e prezo). O maior problema é que tes que crear unha conta de email nova co dominio hey.com, non podes usar o teu propio dominio, co cal, ao final estás atrapado se nalgún momento o queres abandonar. Malia isto, no que se refire ao deseño, trátase dun produto estupendo.
+https://www.atipofoundry.com/fonts/atipo-fontcollection2
+
+Atipo (https://www.atipofoundry.com/) é unha das miñas fundicións tipográficas favoritas. Teñen todo bo: son asturianos, teñen tipografías moi interesantes e a moi bo prezo. Pois resulta que acaban de facer 10 anos e para celebralo non se lle ocorreu nada mellor que pór á venda TODO o seu catálogo tipográfico por só 20€. (https://www.atipofoundry.com/fonts/atipo-fontcollection2) Ocasións como esta non as vas ver moi a miúdo, aproveita. Tes ata o 25 de xuño.
+
+https://github.com/mattdesl/dictionary-of-colour-combinations
+
+Sanzo Wada (https://en.wikipedia.org/wiki/Sanzo_Wada) foi un artista xaponés, deseñador de roupa e quimonos que mesmo chegou a traballar como deseñador de vestiario nalgúns filmes xaponeses. Entre os anos 1933-1934 publicou un libro en que explora diferentes combinacións de cores. Existe una versión interactiva (https://sanzo-wada.dmbk.io/) do libro e ata podes descargar todas as paletas en formato JSONneste repositorio de Github (https://github.com/mattdesl/dictionary-of-colour-combinations) .
+
+https://observablehq.com/@mattdesl/perceptually-smooth-multi-color-linear-gradients
+
+Ao dicionario de cores de Sanzo Wada cheguei grazas a este artigo de Matt DesLauriers (https://observablehq.com/@mattdesl/perceptually-smooth-multi-color-linear-gradients) en que fala sobre os degradados de cor e os problemas que existen para facelos perceptualmente uniformes, sen mudanzas bruscas como no exemplo que podedes ver na imaxe da esquerda. Un xeito de corrixilo é usar un espazo de cor uniforme como CIELAB (conxeito #011 (https://oscarotero.com/conxeito/011/) ). Outra solución, que é a que se aborda no artigo, é mediante un sistema de interpolación non-lineal que corrixa estas deficiencias visuais.
+
+https://typespecimens.xyz/
+
+Type Specimens (https://typespecimens.xyz/) é un proxecto de Mark Boulton onde recompila espécimes de tipografías: eses deseños creados para amosar as bondades e características dunha tipografía, alén de serviren como reclamo comercial. É un proxecto bastante curioso e, sobre todo, moi freak, como me gustan a min.
+
+https://untools.co/
+
+No conxeito anterior (https://oscarotero.com/conxeito/013/) falei sobre ferramentas e esquecín compartir este recurso 🤦‍♂️. Non pasa nada, fágoo agora: Untools (https://untools.co/) é unha colección de «non-ferramentas» para deseñadores: frameworks e metodoloxías que nos axudan a tomar mellores decisións e solucionar problemas de deseño.
+
+https://pangram.me/
+
+Esta semana estame saíndo un conxeito bastante tipográfico. Pangram.me, (https://pangram.me/) como o seu nome indica, é un xerador de pangramas (frases que empregan todas as letras do abecedario e que serven como mostra tipográfica). Só podes escoller dous idiomas (inglés e francés) pero aínda así penso segue sendo útil. A min en galego saíume: «O ghato que fuxe pola Coruña vai roubando mazás e kiwis». Alguén o pode mellorar?
+
+https://jazzkeys.plan8.co/
+
+E acabo cunha cousa máis leve: gustoume moito este experimento de Plan8 (https://plan8.se/) , un estudio de deseño de música e sons para marcas. O proxecto JazzKeys, (https://jazzkeys.plan8.co/) permíteche escribir unha mensaxe mentres, ao mesmo tempo, creas a súa música. Se queres escribirlle algo a unha persoa especial, este é o mellor xeito de facelo.
+
+============================================================
+** Comparte (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|*)
+** Comparte (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|*)
+** Tuitea (http://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE_LINK_SHORT|*)
+** Tuitea (http://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE_LINK_SHORT|*)
+** Reenvía (*|FORWARD|*)
+** Reenvía (*|FORWARD|*)
+** Creative Commons con Attribución (https://creativecommons.org/licenses/by/4.0/deed.gl)
+- *|LIST:COMPANY|* (*|CURRENT_YEAR|*)
+O logotipo de conxeito foi creado coa tipografía ** Movement de María Ramos (http://www.nmtype.com/movement/)
+
+Se non queres recibir máis correos ** date de baixa desta lista (*|UNSUB|*)
+.
+
+*|IF:REWARDS|* *|REWARDS_TEXT|* *|END:IF|*

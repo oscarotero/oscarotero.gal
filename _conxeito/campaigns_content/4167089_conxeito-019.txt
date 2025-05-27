@@ -1,0 +1,79 @@
+*|MC_PREVIEW_TEXT|*
+
+#019 - Abrir no navegador (*|ARCHIVE|*)
+
+
+** Sitios estáticos
+------------------------------------------------------------
+Os sitios estáticos son aqueles formados por arquivos HTML, polo que non é necesaria ningunha base de datos ou instalar no servidor ningún software en PHP, Java ou Ruby para facelos funcionar. Simplemente hai que copiar os arquivos no cartafol apropiado e listo.
+
+As vantaxes dos sitios estáticos son considerables: o aloxamento é máis barato ou incluso gratuíto e, ao non haber lóxica no servidor, tamén son máis seguros e rápidos (alén de ecolóxicos). Obviamente, isto tamén ten inconvenientes: para poder deixar comentarios, enviar un formulario de contacto ou facer unha reserva online, vas ter que empregar algún servizo externo.
+
+Facer un sitio estático non significa que teñas que crear arquivos html «a pelo», para iso están os xeradores de sitios estáticos. Sempre me sentín atraído por estas ferramentas que che permiten construír o HTML de xeito ordenado para despois poder facer cambios e actualizacións facilmente. Existen centos de xeradores (nesta lista (https://jamstack.org/generators/) podes atopar máis de 600) moitos deles adaptados a necesidades concretas (xeración de blogs, documentación, ebooks etc). Lembro que na época en que traballaba para Abanca, cheguei a crear un xerador para uso interno (https://github.com/oscarotero/zume) adaptado ás necesidades que tiña daquela (basicamente presentacións, documentacións e un miniblog), e actualmente estou desenvolvendo un novo xerador para Deno chamado Lume (https://oscarotero.github.io/lume/) (aproveito para vos convidar a probalo se estades interesados en fedellar nestas cousas).
+
+Pero o máis interesante deste xeradores, dende o meu punto de vista, é a facilidade e liberdade creativa que proporcionan, xa que non precisas pelexar cun CMS para conseguir o que queres. Gústame ter a posibilidade de definir unha estrutura propia para cada páxina e manter un certo proceso artesanal necesario para conseguir determinados resultados.
+
+A primeira web da historia (http://info.cern.ch/hypertext/WWW/TheProject.html) tamén era un sitio estático.
+Dende hai un tempo estase a popularizar o termo JAMstack (https://jamstack.org/) para promocionar este xeito de facer webs. Trátase dun movemento impulsado sobre todo por Netlify, (https://www.netlify.com/) unha plataforma para aloxar sitios estáticos con moitas funcionalidades a maiores. As siglas JAM veñen de Javascript, API e Markup e basicamente veñen dicir que os sitios estáticos tamén poden ser dinámicos, botando man de Javascript e de APIs externas para esas funcionalidades que o HTML non permite facer por si só. Por exemplo, podes usar Disqus para habilitar comentarios, a API de Stripe ou Paypal para facer pagamentos en liña ou Typeform, Netlify ou Google Forms para recibir datos de formularios.
+
+Matt Mullenweg, o fundador de WordPress e CEO de Automattic considera que JAMstack é unha regresión (https://thenewstack.io/wordpress-co-founder-matt-mullenweg-is-not-a-fan-of-jamstack/) no xeito de construír webs, porque acabas dependendo de demasiados servizos externos que fan a túa infraestrutura máis fráxil. Matt Biilmann, CEO de Netlify respóndelle que JAMstack representa o final da xeira de WordPress (https://www.netlify.com/blog/2020/09/15/on-mullenweg-and-the-jamstack-regression-or-future/) .
+
+E aquí é onde entramos nunha confrontación de dúas formas moi diferentes, diría que antagónicas de facer webs. O xeito «tradicional» con WordPress como máximo representante, quen proporciona unha solución monolítica na que todo se realiza por medio de plugins e un CMS amigable, e a forma «moderna», moito máis flexible e amigable para os desenvolvedores, mais non necesariamente para os Muggles que van meter contido e que poden ser remisos a ter que escribir markdown (https://markdown.es/) nun arquivo de texto plano ou lanzar comandos dende un terminal (aínda que xa comeza a haber solucións como Netlify CMS (https://www.netlifycms.org/) ).
+https://estudodeseno.dag.gal/
+
+Se o teu traballo está relacionado co deseño e vives en Galicia, xa saberás que a DAG está a realizar un estudo para a Xunta de Galicia para medir o impacto económico do deseño galego. Recoméndoche que cubras a súa enquisa, (https://estudodeseno.dag.gal/) se non o fixeches xa, porque lles vai axudar moito a entender o panorama actual e todo o que saia de aquí tamén te beneficiará a longo prazo. Este domingo 15 é o último día así que vaite xa.
+
+https://www.youtube.com/watch?v=HJEn7HcpfXE
+
+Se che gusta a música funk, seguramente coñezas a Vulfpeck. Unha banda estadounidense que fai vídeos tan riquiños como este (https://www.youtube.com/watch?v=yG96RttfZtM) ou concertazos tan divertidos coma estoutro (https://www.youtube.com/watch?v=rv4wf7bzfFE) . Pero ademais da súa calidade musical, tamén teñen unha tipografía propia, a Vulf (https://ohnotype.co/fonts/vulf) , que usan tanto na súa web (https://vulfpeck.com/) , sorprendentemente minimalista, como en moitos dos seus vídeos. En 2016 sacaron a Vulf Mono (https://www.youtube.com/watch?v=axrf_RPBJ6g) , e 3 anos despois a Vulf Sans. Fíxome moita graza o vídeo promocional de Jack Stratton publicitándoa (https://www.youtube.com/watch?v=HJEn7HcpfXE) a ritmo de funk.
+
+https://www.sketch.com/blog/2020/10/26/part-of-your-world-why-we-re-proud-to-build-a-truly-native-mac-app/
+
+Un dos motivos polos que Figma (https://www.figma.com/) está a ter tanto éxito é por empregar tecnoloxía web, o que fai que poida funcionar tanto no navegador web como instalado en calquera sistema operativo. Sketch pola contra, é unha aplicación nativa de macOS que non ten tanta flexibilidade. Recentemente lanzou unha campaña defendendo as aplicacións nativas (https://www.sketch.com/blog/2020/10/26/part-of-your-world-why-we-re-proud-to-build-a-truly-native-mac-app/) e vendendo as súas bondades. Gustoume a estética retro escollida, que rende homenaxe ás antigas versións do sistema operativo de Apple.
+Por certo, lembroume aos inicios de Apple e á súa primeira guía de interface para humanos, (https://blog.prototypr.io/rediscovering-apples-human-interface-guidelines-1987-59731376b39e) publicada en 1987 por Bruce Tognazzini.
+
+https://www.flickr.com/photos/jubru/albums/72157604683673651/
+
+Seguindo coa «moda retro», atopei esta incrible colección de portadas de casetes gravables (https://www.flickr.com/photos/jubru/albums/72157604683673651/) e lembreime do feas que me parecían naquel momento e o fermosas que me parecen agora. Estareime facendo vello?
+
+https://follow.gal/
+
+Esta semana desenvolveuse na Coruña, e tamén online, o festival de deseño #follow20, (https://follow.gal/) que contou coa participación de moitos dos grandes deseñadores e deseñadoras galegas. Se te perdiches algunhas das propostas, non te preocupes porque podes ver os vídeos coas stories e conversas na súa web. (https://follow.gal/)
+
+https://medium.com/design-bootcamp/why-googles-new-app-icons-are-pretty-bad-10f1ec40ab04
+
+Ultimamente moito se fala dos novos logos das aplicacións de Google. Hai opinións de todo tipo, eu son dos que pensa que están mal 🤷‍♂️, e que neles se confunde a unidade coa uniformidade (https://twitter.com/cameronmoll/status/1321472790889930753) . Teño a sensación de que os vou confundir, igual que me sucede cos de Whatsapp e Spotify no móbil por seren os dous círculos verdes. Entendo a estratexia de Google de unificar, mais penso que podería facelo mellor.  Por exemplo, os diferentes produtos de Adobe teñen iconas unificadas pero suficientemente diferenciadas. En fin, se queres profundar máis sobre iso, Markus Hofmann explícacho neste artigo. (https://medium.com/design-bootcamp/why-googles-new-app-icons-are-pretty-bad-10f1ec40ab04)
+
+https://www.nngroup.com/articles/state-switch-buttons/
+
+Os state-switch controls son aqueles botóns que serven para presentar un estado e ao mesmo tempo permiten cambiar ao estado contrario. O exemplo máis típico é o botón Play/Pause dos reprodutores. Cando está en "play", mostra a icona de pausa, e cando está en pausa, a icona de play. Outros exemplos son o botón para colgar unha chamada ou o mute. En NNG falan sobre este tipo de controis (https://www.nngroup.com/articles/state-switch-buttons/) e sobre cal é a mellor maneira de implementalos.
+
+https://www.oldmapsonline.org/
+
+Se che gusta ver mapas antigos, este sitio vaiche encantar. (https://www.oldmapsonline.org/) Un buscador de mapas antigos onde simplemente con escribir o nome dun lugar procura nas bibliotecas online mapas antigos sobre ese sitio. Por exemplo, atopei este bonito mapa de Santiago de Compostela do 1750 (https://cartotecadigital.icgc.cat/digital/collection/espanya/id/1526) no Institut Cartogràfic i Geològic de Catalunya.
+
+https://comica11y.humaan.com/
+
+Humaan (https://humaan.com/team/) é unha axencia australiana que realiza todo tipo de traballos dixitais. Hai un tempo fixeron ComicA11y, (https://comica11y.humaan.com/) un experimento para facer as bandas deseñadas máis accesibles, proporcionando escollas como o tamaño de letra, idioma, tipografía, layout, contraste etc.
+
+Nestes tempos de pandemia, confinamento e teletraballo, están saíndo moitos produtos interesantes. Un deles é tonari, (https://tonari.no/) que che permite manter o contacto permanente coa túa familia, amigos ou compañeiros de traballo a través dunha pantalla xigante.
+
+https://de.ryerson.ca/wa/maze.html
+
+O meu xefe Wences (https://twitter.com/wencesg) ante calquera cousa relacionada coa accesibilidade sempre me di «eso es de tu palo». Pois no caso do Accessibility Maze non pode ter máis razón: un videoxogo sobre accesibilidade (https://de.ryerson.ca/wa/maze.html) , aprender os conceptos básicos para facer interfaces accesibles non ten por que ser aburrido.
+
+============================================================
+** Comparte (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|*)
+** Comparte (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|*)
+** Tuitea (http://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE_LINK_SHORT|*)
+** Tuitea (http://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE_LINK_SHORT|*)
+** Reenvía (*|FORWARD|*)
+** Reenvía (*|FORWARD|*)
+** Creative Commons con Attribución (https://creativecommons.org/licenses/by/4.0/deed.gl)
+- *|LIST:COMPANY|* (*|CURRENT_YEAR|*)
+O logotipo de conxeito foi creado coa tipografía ** Movement de María Ramos (http://www.nmtype.com/movement/)
+
+Se non queres recibir máis correos ** date de baixa desta lista (*|UNSUB|*)
+.
+
+*|IF:REWARDS|* *|REWARDS_TEXT|* *|END:IF|*

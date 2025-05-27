@@ -1,0 +1,79 @@
+*|MC_PREVIEW_TEXT|*
+
+#009 - Abrir no navegador (*|ARCHIVE|*)
+
+
+** Libros na web
+------------------------------------------------------------
+É curioso que a web nacese como plataforma para compartir documentos e todo tipo de textos pero que nestes 30 anos de vida non se acabase de popularizar como plataforma para ler libros. E non me refiro ao actual libro electrónico, en formato EPUB, .mobi ou .azw (se tes un Kindle) senón ao feito de que encontrar un bo libro para ler dende o navegador é, cando menos, complicado.
+
+Hai uns 3 anos, a International Digital Publishing Forum (http://idpf.org/) , creadora do formato EPUB decidiu fusionarse co W3C para traballar na estandarización das Web Publications (https://www.w3.org/TR/pwp/) (ou Packaged Web Publications, na súa versión descargable). De feito, o formato EPUB realmente xa está composto de HTML e CSS, ou sexa, emprega tecnoloxía web, aínda que de xeito moi limitado. Todo parece indicar que continuarán traballando na mellora deste formato de descaga, xa que o concepto de libro como un obxecto físico ou descargable segue sendo moi rindible para a industria e continuarán apostando por isto, en vez de pensar na posibilidade de ler un libro directamente dende un navegador.
+
+Mais deixando a un lado a parte tecnolóxica e os estándares, unha cousa á que lle teño dado voltas é ás posibilidades creativas e artísticas que ofrece a web como plataforma de publicación. Creo que non se chegou a explorar dabondo o seu potencial á hora de contar historias. O termo «web book» ou «web-based book» refírese a aqueles libros que non usan ningún dos formatos descargables comentados anteriormente, senón que se poden consumir directamente dende o navegador.
+
+
+** Cal credes que é a mellor maneira de trasladar unha novela á web?
+------------------------------------------------------------
+Matthew Butterick é un tipógrafo, avogado, escritor e programador informático que en 2013 escribiu Practical Typography (https://practicaltypography.com/) , un web-book sobre tipografía que só se pode ler online, non existe versión descargable en e-book, nin sequera PDF, e aquí nos explica as súas razóns (https://practicaltypography.com/why-theres-no-e-book-or-pdf.html) .
+
+Jason Pamental (https://rwt.io/) , deseñador especialista en tipografía que ten un boletín semanal sobre webfonts, leva traballando dende hai algunhas semanas na realización dun libro web no cal emprega todas as boas prácticas posibles de usabilidade, lexibilidade e accesibilidade. Para este exercicio tomou o texto do libro Moby Dick, dispoñible de forma aberta na web do proxecto Gutemberg (https://www.gutenberg.org/files/2701/2701-h/2701-h.htm) . Se non te queres subscribir, podes seguir o traballo que leva feito na súa web neste momento: Parte 1 (https://rwt.io/typography-tips/landing-whale-making-book-web-part-1) , Parte 2 (https://rwt.io/typography-tips/part-2-making-typography-responsive-and-laying-foundations-more-come) , Parte 3 (https://rwt.io/typography-tips/part-3-adding-web-fonts-giving-voice-our-words) e Parte 4 (https://rwt.io/typography-tips/part-4-fixing-fout-font-loading-fallback-tuning) , e o resultado pódese ver no fabuloso dominio mobydick.wales (https://mobydick.wales/)
+. Aínda está en fase de desenvolvemento polo que cada semana irá mellorando.
+
+De todos os xeitos, o problema que lle vexo á maioría de exemplos é que pretenden adaptar o formato do libro físico ao libro dixital, polo que a nivel creativo tampouco ofrecen nada novo. True Blue (https://truebluestory.com/) é unha cousa diferente. Non é unha novela, senón unha historia curta, mais aí xa se exploran máis as características da web e a capacidade para crear historias inmersivas. A historia, escrita por Eliot Peper (https://www.eliotpeper.com/) , ilustrada por Phoebe Morris (https://phoebemorriscreative.com/) e deseñada por Pener Nower (https://pnowell.com/) , ten unha navegación baseada no scroll (e de aí xorde outra pregunta: ten sentido dividir o contido en páxinas no mundo dixital?). Neste artigo en Medium explícannos o seu proceso creativo (https://medium.com/@eliotpeper/making-true-blue-f66a538d0ea5) .
+
+Para banda deseñada, sempre pensei que o formato GIF (referíndome ao formato artístico, non tecnolóxico, que ten bastantes carencias (https://us2.campaign-archive.com/?u=374c664073e1a1fa3deca53b4&id=3eb24a540a) ) sería o grande aliado á hora de ampliar a historia, xa que está a medio camiño entre unha imaxe animada e estática. Un exemplo é o traballo de Stephen Vuillemin (https://stephenvuillemin.com/) , un animador francés que hai 9 anos xa facía cousas como esta (https://stephenvuillemin.com/ANIMATED-COMICS-EP-1) .
+
+The Wormworld Saga (https://wormworldsaga.com/) , de Daniel Lieske, ten un formato máis tradicional, mais é interesante ao ser un proxecto mantido por doadores en Patreon onde a historia avanza ao ritmo marcado pola cantidade de doazóns que teña.
+
+En fin, sen explorar moito nin tampouco ser un perito na materia, está claro que o deseño editorial aínda está en cueiros no que respecta á súa transición ao mundo dixital, e na capacidade para aproveitar a web non só como canle de venda e distribución, senón tamén como formato en si mesmo para contar historias. Se coñeces algún exemplo que cres se poida destacar, por favor, faimo saber.
+https://megalove.rubenprol.gal/
+
+Tristemente, o coronavirus levou por diante a moitísima xente e unha das perdas que máis sentimos foi a de Esteban Yáñez (https://vinte.praza.gal/artigo/o-tipo-mais-querido-e-brillante-da-internet-galega) . Rubén Prol, un dos nosos grandes tipógrafos galegos acaba de publicar unha nova fonte display chamada Megalove (https://megalove.rubenprol.gal/) , na súa memoria.
+
+https://translate.google.com/translate?hl=&sl=auto&tl=gl&u=http%3A%2F%2Fwww.ghibli.jp%2Finfo%2F013251%2F&sandbox=1
+
+Quen non é fan das películas de Ghibli? Pois coa crecente necesidade de videoconferencias, decidiron pór á nosa disposición unha colección de imaxes das súas películas para pór como fondo de pantalla ou fondo virtual (https://translate.google.com/translate?hl=&sl=auto&tl=gl&u=http%3A%2F%2Fwww.ghibli.jp%2Finfo%2F013251%2F&sandbox=1) , que permiten algunhas aplicacións como Zoom (https://support.zoom.us/hc/es/articles/210707503-Fondo-virtual) .
+
+https://soundofcolleagues.com/
+
+Lembro que nun número anterior deste boletín falei dunha web que simulaba o son da oficina, destinado aos nostálxicos no confinamento. Nesta ocasión traio unha cousa parecida: Sound of Colleages (https://soundofcolleagues.com/) pero que xa me gusta máis, aínda que só sexa polo can de oficina.
+
+https://twitter.com/imaxecovid
+
+@imaxecovid (https://twitter.com/imaxecovid) é unha conta de Twitter onde podemos ver o traballo de 6 fotoxornalistas galegos (Óscar Corral, Mónica Vila, Agostiño, Brais Lorenzo, Miguel Muñiz e Miguel Riopa) na pandemia do Covid-19.
+
+https://flowingdata.com/2020/05/08/famous-hope-quotes-as-charts/
+
+Vino e pareceume unha idea xenial: representar citas famosas con infografía (https://flowingdata.com/2020/05/08/famous-hope-quotes-as-charts/) . O autor é Nathan Yau, un mestre en visualización de datos que ademais é o responsable de FlowingData, (https://flowingdata.com/) un blog sobre análise e visualización de datos máis que recomendable. E aproveito para lanzar un desafío: Quen se atreve a facer algo así coas nosas citas famosas?
+
+http://www.padawanes.com/
+
+Diego Rodríguez (@arketipo (https://twitter.com/arketipo/) ), Víctor Fernández (@vff1991 (https://twitter.com/vff1991) ) e Pablo Domínguez (@tinybigstudio (https://twitter.com/tinybigstudio) ) levan nisto do deseño un feixe de anos, e decidiron montar o proxecto Padawanes (http://www.padawanes.com/) para xuntar deseñadores experimentados con outros que están comezando. Se queres ser mentor ou precisas un conselleiro, ponte en contacto con eles (http://www.padawanes.com/contacto-padawanes.html) .
+
+https://blush.design/
+
+Pablo Stanley é famoso polas súas ilustracións creadas a base de pezas que podes combinar. Xa teño falado del en números anteriores. Nesta ocasión, acaba de lanzar Blush (https://blush.design/) , unha especie de Unsplash (https://unsplash.com/) da ilustración. E ademais, non o fai el só, neste momento hai 7 ilustradores máis.
+
+https://lynnandtonic.com/
+
+Facer unha web «responsive» non ten que limitarse unicamente a cambiar o número de columnas ou o tamaño do texto. Tamén se pode empregar de xeito máis creativo. Esta semana vin a web de Lynn Fisher (https://lynnandtonic.com/) e pareceume, cando menos, bastante curiosa.
+
+https://pixel-me.tokyo/en/
+
+Souben tamén que Sato, o creador de AI Gahaku (https://ai-art.tokyo/en) , de quen xa falara anteriormente, ten outro proxecto anterior igual de sorprendente: PixelMe, un software que transforma o teu retrato en pixel art (https://pixel-me.tokyo/en/) . Parece maxia porque incluso é capaz de recortar o fondo.
+
+============================================================
+** Comparte (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|*)
+** Comparte (http://www.facebook.com/sharer/sharer.php?u=*|URL:ARCHIVE_LINK_SHORT|*)
+** Tuitea (http://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE_LINK_SHORT|*)
+** Tuitea (http://twitter.com/intent/tweet?text=*|URL:MC_SUBJECT|*: *|URL:ARCHIVE_LINK_SHORT|*)
+** Reenvía (*|FORWARD|*)
+** Reenvía (*|FORWARD|*)
+** Creative Commons con Attribución (https://creativecommons.org/licenses/by/4.0/deed.gl)
+- *|LIST:COMPANY|* (*|CURRENT_YEAR|*)
+O logotipo de conxeito foi creado coa tipografía ** Movement de María Ramos (http://www.nmtype.com/movement/)
+
+Se non queres recibir máis correos ** date de baixa desta lista (*|UNSUB|*)
+.
+
+*|IF:REWARDS|* *|REWARDS_TEXT|* *|END:IF|*

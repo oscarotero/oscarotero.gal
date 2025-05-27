@@ -1,0 +1,69 @@
+*|MC_PREVIEW_TEXT|*
+
+#002 - Abrir no navegador (*|ARCHIVE|*)
+
+
+** Aplicacións webs na actualidade
+------------------------------------------------------------
+O termo «Aplicación web» pódese interpretar de moitas maneiras. Ao que me vou referir aquí é á capacidade dunha web de poder instalarse no móbil ou computador, como unha aplicación máis.
+
+A idea naceu en 2007 coa aparición do primeiro iPhone. Steve Jobs anunciou que as web apps, desenvolvidas con tecnoloxía web (HTML + Javascript + CSS) serían o formato estándar para as aplicacións do novo e flamante produto de Apple. Vetaba así o soporte a Flash e iniciábase o seu posterior declive. Pero a tecnoloxía web non estaba aínda suficientemente madura para crear aplicacións potentes e rápidas, e a aparición da App Store, que resultou ser extraordinariamente lucrativa para Apple, fixo que practicamente todas as aplicacións de iOS se lanzasen por medio desta tenda.
+
+Malia isto, a idea non morreu, senón que se continuou a traballar e a mellorala tecnoloxicamente para facela posible (sobre todo por parte de Google, o gran rival de Apple nos sistemas operativos para smartphones). Estes avances deron lugar ao nacemento do concepto de Aplicación Web Progresiva (ou PWA polas siglas en inglés).
+
+Esa nova letra «P», de progresiva, é un detalle chave para o seu éxito, porque implica a compatibilidade con todas as webs existentes ata o momento. Non tes que refacer a túa web actual para que funcione como unha app, senón que cuns pequenos engadidos, a túa web pode funcionar dos dous xeitos, como web e como app, de xeito progresivo.
+https://www.flickr.com/photos/74105777@N00/42535353742
+Sempre fun un grande defensor das PWA, porque creo que forman parte da evolución natural da plataforma web. As súas vantaxes sobre as aplicacións nativas son bastantes. Por suposto tamén hai algunha limitación, por iso tampouco creo que unhas acaben substituíndo completamente as outras, senón que ambas seguirán coexistindo e empregándose para diferentes casos.
+
+Existen iniciativas como @shouldBePWA (https://twitter.com/ShouldBePWA) que nos mostran exemplos de aplicacións nativas que deberían ter sido creadas como PWA. O último exemplo é esta app creada polo goberno de Colombia (https://twitter.com/ShouldBePWA/status/1237352745310576640) para a crise do Coronavirus, que obriga a ter un smartphone con Android, co que se está a excluír unha parte importante dos cidadáns.
+
+PWA Stats (https://www.pwastats.com/) ofrécenos unha extensa listaxe de estatísticas e novas relacionadas coas PWA lanzadas por empresas tan coñecidas como StarBucks (https://twitter.com/davidbrunelle/status/993960071406080000) , Tinder (https://medium.com/@addyosmani/a-tinder-progressive-web-app-performance-case-study-78919d98ece0) , Trivago (https://www.thinkwithgoogle.com/intl/en-gb/consumer-insights/trivago-embrace-progressive-web-apps-as-the-future-of-mobile/) , Uber (https://eng.uber.com/m-uber/) , Pinterest (https://medium.com/dev-channel/a-pinterest-progressive-web-app-performance-case-study-3bd6ed2e6154) ou Twitter (https://developers.google.com/web/showcase/2017/twitter) e que darían para convencer calquera departamento de tecnoloxía, growth e product managers sobre o valor que achegan.
+
+Se nos fixamos nas posibilidades tecnolóxicas, (https://whatpwacando.today/) unha web xa non só serve para acceder ao contido, pode capturar imaxes e vídeos directamente da cámara, xeolocalizar, enviar notificacións push, recoñecer a voz, implementar realidade virtual e aumentada ou incluso funcionar en modo offline. Quedan aínda cousas que mellorar, sobre todo por parte de Apple que, por diferentes razóns, está indo un pouco máis lento que o resto pero que aínda así ten un soporte bastante decente (https://medium.com/@firt/progressive-web-apps-on-ios-are-here-d00430dee3a7) .
+
+Un exemplo de PWA que mesmo mellora a clásica aplicación instalable é Spotify, eu lévoa usando unha temporada con resultados bastante satisfactorios. SimiCart fainos unha comparativa entre as dúas versións (https://www.simicart.com/blog/spotify-pwa/) e tamén están de acordo.
+Anímovos, polo tanto, a que usedes e lles recomendedes aos vosos clientes, xefes e product owners que consideren usar PWA no canto de aplicacións nativas no próximo proxecto. Motivos hai de sobra e para todos os gustos. Posiblemente chegaremos a un punto no que moitas aplicacións que agora mesmo se continúan a facer de xeito nativo, perdan a súa razón de ser.
+
+Se queredes profundar máis no tema e ver cal é o estado das PWA en 2020, Maximiliano Firtman explícao neste extenso artigo (https://medium.com/@firt/progressive-web-apps-in-2020-c15018c9931c) .
+
+
+** Simulador de contaxios Covid-19
+------------------------------------------------------------
+Se a semana pasada falabamos das animacións feitas polo
+Washington Post sobre a propagación do Coronavirus, esta semana descubrín unha versión en código aberto (https://github.com/midudev/covid-19-spread-simulator) realizada por Miguel Ángel Durán (@midudev (https://twitter.com/midudev) ).
+
+
+** Affinity axuda a comunidade creativa na crise do Coronavirus
+------------------------------------------------------------
+Levo xa bastante tempo sen usar produtos de Adobe, xa que no meu día a día uso sobre todo
+Sketch. De cando en vez teño que facer algún proxecto para papel, mais ter unha subscrición de Adobe Cloud para traballos puntuais é pouco sostible, por iso decidín usar Affinity Designer hai xa varios meses e, aínda que non chega ao nivel de potencia de Illustrator, penso que é unha ferramenta bastante resolutiva e barata, xa que se paga unha única vez e é túa para sempre. Debido á crise do Coronavirus, acaban de lanzar unha oferta do 50% nos seus produtos, (https://affinity.serif.com/es/supporting-the-creative-community/) polo que por menos 30 € podes ter un programa de deseño vectorial profesional.
+
+
+** Como deseñar iconas correctamente
+------------------------------------------------------------
+Facer iconas é complexo. Igual que no deseño tipográfico, hai que ter en conta moitos efectos ópticos para conseguir un resultado equilibrado en pesos, aliñacións e tamaños. Slava Shestopalov dános algunhas chaves neste artigo (https://medium.muz.li/optical-effects-9fca82b4cd9a) que, aínda que non é recente, continúa a ter vixencia.
+
+
+** 90's, hip-hop & web
+------------------------------------------------------------
+Luke Dorny é un deseñador deses con cicatrices do seu paso polas diferentes épocas que viviu a web. O redeseño do seu sitio persoal (versión 6) (https://lukedorny.com/) é unha auténtica delicia! Nela rememora aquela web creativa, inspiradora e artesá, da época dos 90. Pixel fonts, fondos de imaxe, casetes e tocadiscos e unha chea de detalles. Recomendo explorala con calma.
+
+
+** 14 anos deseñando para Mozilla
+------------------------------------------------------------
+Sean Martell leva dende o 2006 traballando como deseñador en Mozilla. Neste extenso fío de Twitter, (https://twitter.com/mart3ll/status/1240627746805604359) fai un percorrido polos deseños feitos durante esta época. Dende as iconas para o Firefox 2 (https://twitter.com/mart3ll/status/1240629790648008705) ata un dos seus últimos traballos: un sistema de ilustracións para empregar en Marketing e Produto (https://twitter.com/mart3ll/status/1241060034399928321) . Unha estupenda viaxe que nos permite ver a súa evolución como deseñador e a da propia Mozilla.
+
+
+** As ilustracións de Pablo Stanley
+------------------------------------------------------------
+Pablo Stanley (https://www.pablostanley.com/) é un deseñador e ilustrador mexicano coñecido por crear sistemas de ilustracións que podes empregar gratuitamente ou polas que podes pagar unha cantidade que consideres xusta. Humaaans (https://www.humaaans.com/) , Open Peeps (https://www.openpeeps.com/) , Open Doodles (https://www.opendoodles.com/) ou Avataaars (https://www.avataaars.com/) son algúns dos seus traballos que permiten combinar diferentes pezas (ollos, cabelo, roupa etc) para construír a imaxe final. Con motivo da crise sanitaria, ampliou a libraría Open Peeps con debuxos de persoal sanitario. (https://twitter.com/pablostanley/status/1241625752723795969)
+
+============================================================
+** Creative Commons con Attribución (https://creativecommons.org/licenses/by/4.0/deed.gl)
+- *|LIST:COMPANY|* (*|CURRENT_YEAR|*)
+O logotipo de conxeito foi creado coa tipografía ** Movement de María Ramos (http://www.nmtype.com/movement/)
+
+Se non queres recibir máis correos ** date de baixa desta lista (*|UNSUB|*)
+.
+
+*|IF:REWARDS|* *|REWARDS_TEXT|* *|END:IF|*
