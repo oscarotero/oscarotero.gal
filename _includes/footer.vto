@@ -12,7 +12,7 @@
   <ul>  
     {{ for link of links }}
     <li>
-      <a {{ if link.rel }}rel="{{ link.rel }}"{{ /if }} href="{{ link.href }}" title="{{ link.title }}">
+      <a {{ if link.rel }} rel="{{ link.rel }}" {{ /if }} href="{{ link.href }}" title="{{ link.title }}">
         {{ link.text }}
       </a>
     </li>
