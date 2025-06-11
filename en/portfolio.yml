@@ -10,18 +10,31 @@ header:
   title: Some of my latest works<br>as digital designer
 
 portfolio:
-  - title: Badger
-    subtitle: Product design — 2022 — [getbadger.io](https://getbadger.io/)
+  - title: Font Licensing Mess
+    subtitle: Web design & development — 2025 — [fontlicensingmess.com](https://fontlicensingmess.com/)
     description: |
-      Badger is a new product from **marketgoo** to generate and share SEO reports for agencies and professional freelances.
+      Independent research project born to shed some light on one of the most complex and least understood aspects of the modern type industry: font licensing.
 
-      It's still in progress. Some early mockups:
+      I collaborated with the design and development of the website using just one font ([Octavia](https://flaviazim.com/women-in-type/octavia), which only has one regular version, no bold or italics), and a single color (blue).
     images:
-      - src: /portfolio/badger/badger-ui.webp
-      - src: /portfolio/badger/new-project.webp
-      - src: /portfolio/badger/mockup.webp
-      - src: /portfolio/badger/explore.webp
-      - src: /portfolio/badger/settings.webp
+      - src: /portfolio/fontlicensingmess/home.webp
+      - src: /portfolio/fontlicensingmess/intro.webp
+      - src: /portfolio/fontlicensingmess/chart1.webp
+      - src: /portfolio/fontlicensingmess/text.webp
+      - src: /portfolio/fontlicensingmess/chart2.webp
+
+  # - title: Badger
+  #   subtitle: Product design — 2022 — [getbadger.io](https://getbadger.io/)
+  #   description: |
+  #     Badger is a new product from **marketgoo** to generate and share SEO reports for agencies and professional freelances.
+
+  #     It's still in progress. Some early mockups:
+  #   images:
+  #     - src: /portfolio/badger/badger-ui.webp
+  #     - src: /portfolio/badger/new-project.webp
+  #     - src: /portfolio/badger/mockup.webp
+  #     - src: /portfolio/badger/explore.webp
+  #     - src: /portfolio/badger/settings.webp
 
   - title: Ola
     subtitle: UI design & HTML prototype — 2020 — [zeroheight](https://zeroheight.com/22mjgbuf6/p/7085d5-introduction)

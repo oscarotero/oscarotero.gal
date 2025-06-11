@@ -30,13 +30,14 @@ site
   .use(filter({
     fn: (page) => !page.outputPath.endsWith(".html") || page.data.lang === lang,
   }))
+  .add("/fswd.svg")
   .add(
     "npm:@oom/carousel@4.2.0/src/carousel.js",
     "scripts/carousel/carousel.js",
   )
   .add(
     "npm:@oom/carousel@4.2.0/src/navigation.js",
-    "scripts/carousel/navigation.js"
+    "scripts/carousel/navigation.js",
   );
 
 export default site;

@@ -1,4 +1,14 @@
 <footer>
+  <ul>  
+    {{ for link of links }}
+    <li>
+      <a {{ if link.rel }} rel="{{ link.rel }}" {{ /if }} href="{{ link.href }}" title="{{ link.title }}">
+        {{ link.text }}
+      </a>
+    </li>
+    {{ /for }}
+  </ul>
+
   <ul>
     {{ for page of search.pages("pages lang=" + lang, "title") }}
     <li>
@@ -9,15 +19,9 @@
     {{ /for }}
   </ul>
 
-  <ul>  
-    {{ for link of links }}
-    <li>
-      <a {{ if link.rel }} rel="{{ link.rel }}" {{ /if }} href="{{ link.href }}" title="{{ link.title }}">
-        {{ link.text }}
-      </a>
-    </li>
-    {{ /for }}
-  </ul>
+  <p class="dag">
+    <small>{{ texts.dag }}</small>
+  </p>
 
   <p>
     <small>{{ texts.copy |> md(true) }}</small>

@@ -2,6 +2,7 @@
 key: home
 title: Óscar Otero - Digital designer and developer
 url: /
+fswd: true
 alternate:
   gl: "https://oscarotero.gal/"
 ---
