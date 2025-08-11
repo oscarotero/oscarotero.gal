@@ -4,6 +4,8 @@ links:
   - text: Github
     href: https://github.com/oscarotero
     rel: me
+  - text: Codeberg
+    href: https://codeberg.org/oscarotero
   - text: Mastodon
     href: https://mastodon.gal/@misteroom
     rel: me

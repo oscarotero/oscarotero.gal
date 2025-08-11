@@ -16,9 +16,9 @@ Por que fago isto? collín a idea
 ## Hardware
 
 - iMac 27" 5k (finais do 2015)
-- MacBook Pro 13" (2017)
+- MacBook M3 Pro 14" (2023)
 - Monitor LG 27UK850 27" 4K
-- Xiaomi Mi A1 AndroidOne
+- Nothing Phone (2)
 - Silla IKEA Markus
 
 ## Productividade e comunicación
@@ -35,7 +35,6 @@ Por que fago isto? collín a idea
 
 - [Figma](https://www.figma.com/)
 - [Affinity Designer](https://affinity.serif.com/designer/)
-- [Zeroheight](https://zeroheight.com/)
 - Papel e lápis
 
 ## Desenvolvemento
@@ -47,18 +46,12 @@ Por que fago isto? collín a idea
   [Edge](https://www.microsoft.com/edge) (para testaxe)
 - [Sequel PRO](https://sequelpro.com/)
 - [iTerm2](https://www.iterm2.com/)
-- [Storybook](https://storybook.js.org/)
-- [Git](https://git-scm.com/) ([Github](https://github.com/) e
-  [Gitlab](https://gitlab.com/))
+- [Git](https://git-scm.com/)
 
 ## Ferramentas
 
 - [ohmyzsh](https://ohmyz.sh/)
-- [Fig](https://fig.io/)
-- [Homebrew](https://brew.sh/)
 - [Lume](https://lume.land/)
-- [Composer](https://getcomposer.org/) & [Packagist](https://packagist.org/)
-- [SVGO](https://github.com/svg/svgo)
 - [Caniuse](https://caniuse.com/)
 - [MDN](https://developer.mozilla.org/)
 
