@@ -1,11 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="500px" height="500px" viewBox="0 0 500 500" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>Lume</title>
-    <g id="Lume" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group" transform="translate(0.000000, 107.142857)" fill="#000000" fill-rule="nonzero">
-            <rect id="Rectangle" x="428.571429" y="214.285714" width="71.4285714" height="71.4285714"></rect>
-            <rect id="Rectangle" x="428.571429" y="0" width="71.4285714" height="171.428571"></rect>
-            <path d="M342.857143,285.714286 L428.571429,285.714286 L271.428571,0 L157.142857,0 L157.142857,114.285714 L71.4285714,114.285714 L71.4285714,0 L0,0 L0,285.714286 L71.4285714,285.714286 L71.4285714,171.428571 L157.142857,171.428571 L157.142857,285.714286 L228.571429,285.714286 L228.571429,228.571429 L314.285714,228.571429 L342.857143,285.714286 Z M228.571429,171.428571 L228.571429,57.1428571 L285.714286,171.428571 L228.571429,171.428571 Z" id="Shape"></path>
-        </g>
+<svg
+  width="500px"
+  height="500px"
+  viewBox="0 0 500 500"
+  version="1.1"
+  xmlns="http://www.w3.org/2000/svg"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+>
+  <title>Lume</title>
+  <g id="Lume" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+    <g
+      id="Group"
+      transform="translate(0.000000, 107.142857)"
+      fill="#000000"
+      fill-rule="nonzero"
+    >
+      <rect
+        id="Rectangle"
+        x="428.571429"
+        y="214.285714"
+        width="71.4285714"
+        height="71.4285714"
+      ></rect>
+      <rect
+        id="Rectangle"
+        x="428.571429"
+        y="0"
+        width="71.4285714"
+        height="171.428571"
+      ></rect>
+      <path
+        d="M342.857143,285.714286 L428.571429,285.714286 L271.428571,0 L157.142857,0 L157.142857,114.285714 L71.4285714,114.285714 L71.4285714,0 L0,0 L0,285.714286 L71.4285714,285.714286 L71.4285714,171.428571 L157.142857,171.428571 L157.142857,285.714286 L228.571429,285.714286 L228.571429,228.571429 L314.285714,228.571429 L342.857143,285.714286 Z M228.571429,171.428571 L228.571429,57.1428571 L285.714286,171.428571 L228.571429,171.428571 Z"
+        id="Shape"
+      ></path>
     </g>
+  </g>
 </svg>

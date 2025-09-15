@@ -134,6 +134,9 @@ Hugo or Eleventy. I use it for all web projects I work since then.
 
 ### Random
 
+- [Font Licensing Mess](https://fontlicensingmess.com/): Design and development of the web for this
+  research project by María Ramos and Ana Moliz.
+- Online cheat sheets for [jQuery](https://oscarotero.com/jquery/) and
 - [NM type](http://www.nmtype.com/): Design and development of the web for this
   typographic studio founded by María Ramos (Spain) and Noel Pretorius (Sweden).
 - Online cheat sheets for [jQuery](https://oscarotero.com/jquery/) and
@@ -147,8 +150,7 @@ Hugo or Eleventy. I use it for all web projects I work since then.
   [chipi.io](https://chipi.io/#/))
 - I collaborate in the [Tarugoconf](https://tarugoconf.com), by helping to build
   the website (made with Lume).
-- Occasionally, I teach about CSS, HTML and Deno at
-  [Hack a Boss](https://hackaboss.com/)
+- I was [the guest in chapter 8](https://www.agalega.gal/videos/detail/271212-movendo-marcos-08-oscar-otero) of the Galician design podcast Movendo marcos.
 
 ### Code
 

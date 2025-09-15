@@ -33,9 +33,7 @@ alternate:
   sobre a web e a interactividade.
 - Estiven nun grupo de traballo do PHP-FIG traballando nun novo estándar de PHP
   sobre [Http Middlewares](https://www.php-fig.org/psr/psr-15/meta/).
-- Fun membro dun xurado que
-  [tivo que valorar traballos presentados](https://www.youtube.com/watch?v=dDnsVNcoiq8)
-  por premios nacionais de deseño.
+- Fun o [invitado no capítulo 8](https://www.agalega.gal/videos/detail/271212-movendo-marcos-08-oscar-otero) do podcast de deseño galego Movendo marcos.
 
 ## Fracasos:
 
@@ -147,6 +145,7 @@ que fago desde entón.
 
 ### Random
 
+- [Font Licensing Mess](https://fontlicensingmess.com/): Deseño e desenvolvemento da web para o proxecto de investigación independente de María Ramos e Ana Moliz.
 - [NM type](http://www.nmtype.com/): Deseño e desenvolvemento da web para este
   estudio tipográfico formado por María Ramos (Galicia) e Noel Pretorius
   (Suecia).
@@ -164,8 +163,6 @@ que fago desde entón.
 - Colaboro na [Tarugoconf](https://tarugoconf.com) axudándolles a construír as
   webs en cada edición (con Lume, naturalmente).
   ([Repositorios en GitHub](https://github.com/tarugoconf/)).
-- De vez en cando dou clases de CSS, HTML e Deno en
-  [Hack a Boss](https://hackaboss.com/)
 
 ### Código
 
