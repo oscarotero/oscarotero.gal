@@ -5,7 +5,8 @@ import date from "lume/plugins/date.ts";
 import favicon from "lume/plugins/favicon.ts";
 import filter from "lume/plugins/filter_pages.ts";
 import inline from "lume/plugins/inline.ts";
-import { gl } from "npm:date-fns/locale/gl";
+import { gl } from "npm:date-fns@4.1.0/locale/gl";
+import checkUrls from "lume/plugins/check_urls.ts";
 
 const site = lume();
 
@@ -24,6 +25,7 @@ site
   .use(transformImages())
   .use(favicon())
   .use(inline())
+  .use(checkUrls())
   .use(date({ locales: { gl } }))
   .data("cache", Date.now())
   .ignore("README.md")

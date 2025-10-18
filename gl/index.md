@@ -33,7 +33,9 @@ alternate:
   sobre a web e a interactividade.
 - Estiven nun grupo de traballo do PHP-FIG traballando nun novo estándar de PHP
   sobre [Http Middlewares](https://www.php-fig.org/psr/psr-15/meta/).
-- Fun o [invitado no capítulo 8](https://www.agalega.gal/videos/detail/271212-movendo-marcos-08-oscar-otero) do podcast de deseño galego Movendo marcos.
+- Fun o
+  [invitado no capítulo 8](https://www.agalega.gal/videos/detail/271212-movendo-marcos-08-oscar-otero)
+  do podcast de deseño galego Movendo marcos.
 
 ## Fracasos:
 
@@ -139,18 +141,22 @@ páxinas estáticas creado en Deno e inspirado noutros xeradores existentes como
 Jekyll, Hugo ou Eleventy. Utilízoo practicamente para todos os proxectos de web
 que fago desde entón.
 
-- [Sitio web de Lume](https://lume.land).
-- [Repositorio en GitHub](https://github.com/lumeland/lume).
-- [Post que escribin como invitado no blog oficial de Deno](https://deno.com/blog/build-a-static-site-with-lume).
+A raíz de Lume tamén creei outros proxectos relacionados como
+[Vento](https://vento.js.org/) (motor de plantillas de JavaScript) e
+[SSX](https://github.com/oscarotero/ssx/) biblioteca para renderizar JSX
+adaptado á xeración de sitios estáticos.
 
 ### Random
 
-- [Font Licensing Mess](https://fontlicensingmess.com/): Deseño e desenvolvemento da web para o proxecto de investigación independente de María Ramos e Ana Moliz.
+- [Columnas](https://jlantunez.com/columnas/): Co-deseño e desenvolvemento da
+  versión web desta newsletter semanal de José Luis Antúnez.
+- [Font Licensing Mess](https://fontlicensingmess.com/): Deseño e
+  desenvolvemento da web para o proxecto de investigación independente de María
+  Ramos e Ana Moliz.
 - [NM type](http://www.nmtype.com/): Deseño e desenvolvemento da web para este
   estudio tipográfico formado por María Ramos (Galicia) e Noel Pretorius
   (Suecia).
-- Referencias online para [jQuery](https://oscarotero.com/jquery/) e
-  [Deno](https://oscarotero.com/deno/)
+- Referencias online para [jQuery](https://oscarotero.com/jquery/).
 - [Awesome design](https://github.com/oscarotero/awesome-design): Colección de
   recursos de código aberto para deseño web.
 - [Awesome talks](https://github.com/oscarotero/awesome-talks): Colección de
@@ -166,19 +172,18 @@ que fago desde entón.
 
 ### Código
 
-- Fixen
-  [un plugin de Figma](https://www.figma.com/community/plugin/1001444625792698603/marketgoo-copies)
-  para traballar con textos desde arquivos de Google Spreadsheets
-  ([código](https://github.com/marketgoo/figma-copies)).
-- Cousas en PHP: [Middlewares](https://github.com/middlewares) (Colección de
-  _middlewares_ en formato PSR-15),
-  [PHP-Gettext](https://github.com/php-gettext) (conxunto de ferramentas para
-  traballar con Gettext), [Embed](https://github.com/oscarotero/Embed) (para
-  escanear e recoller datos de webs),
-  [SimpleCrud](https://github.com/oscarotero/simple-crud) (para realizar
-  operación CRUD en base de datos),
-  [FormManager](https://github.com/oscarotero/form-manager) (para crear e
-  validar datos en formularios).
+Gústame escribir código HTML/CSS e crear ou experimentar con solución sinxelas.
+Son un gran defensor do código aberto, estándares Web e manteño varios proxectos
+como:
+
+- [Lume](https://lume.land), xerador de sitios estáticos para Deno.
+- [Vento](https://vento.js.org/), motor de plantillas de JavaScript.
+- Algúns proxectos de PHP como:
+  [PHP middlewares](https://github.com/middlewares),
+  [PHP-Gettext](https://github.com/php-gettext),
+  [Embed](https://github.com/oscarotero/Embed),
+  [SimpleCrud](https://github.com/oscarotero/simple-crud) ou
+  [FormManager](https://github.com/oscarotero/form-manager).
 - Algúns _web components_ tendo en conta a accesibilidade e estratexias de
   _progressive enhancement_:
   - [mastodon-comments](https://github.com/oom-components/mastodon-comments)
@@ -193,8 +198,8 @@ que fago desde entón.
 
 ## Que estou a facer agora?
 
-- Traballo como _product designer_ en [marketgoo](https://www.marketgoo.com/).
+- Traballo como _deseñador e programador_ en [Cluber](https://cluber.es/).
 - Creei e manteño, xunto con **Miguel Calvo**, o
   [proxecto HA!](https://historia-arte.com/).
-- Creei e manteño 🔥 [Lume](https://lume.land), un xerador de páxinas estáticas
-  para Deno.
+- Son o creador e manteño 🔥 [Lume](https://lume.land) e
+  🌬[Vento](https://vento.js.org/).

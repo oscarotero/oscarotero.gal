@@ -9,11 +9,11 @@ url: /con-estrela/
 
 <ul>
   {{ for item of starred }}
-  <li>
-    <a href="{{ item.url }}">
-      <strong>{{ item.title }}</strong>
-    </a><br>
-    <time>{{ item.published |> date("HUMAN_DATE", "gl") }}</time>
-  </li>
+    <li>
+      <a href="{{ item.url }}">
+        <strong>{{ item.title }}</strong>
+      </a><br>
+      <time>{{ item.published |> date("HUMAN_DATE", "gl") }}</time>
+    </li>
   {{ /for }}
 </ul>

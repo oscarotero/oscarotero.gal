@@ -128,19 +128,21 @@ In late 2020, I started the [Lume project](https://lume.land/), a static site
 generator built on top of Deno and inspired by other generators like Jekyll,
 Hugo or Eleventy. I use it for all web projects I work since then.
 
-- [Lume website](https://lume.land).
-- [GitHub repository](https://github.com/lumeland/lume).
-- [Guest post in Deno official blog](https://deno.com/blog/build-a-static-site-with-lume).
+Related with Lume I've created other projects like
+[Vento](https://vento.js.org/) (a JavaScript template engine) or
+[SSX](https://github.com/oscarotero/ssx/) a JSX library designed for static site
+generators.
 
 ### Random
 
-- [Font Licensing Mess](https://fontlicensingmess.com/): Design and development of the web for this
-  research project by María Ramos and Ana Moliz.
+- [Columnas](https://jlantunez.com/columnas/): Co-design and development of the
+  web version of this weekly newsletter by José Luis Antúnez.
+- [Font Licensing Mess](https://fontlicensingmess.com/): Design and development
+  of the web for this research project by María Ramos and Ana Moliz.
 - Online cheat sheets for [jQuery](https://oscarotero.com/jquery/) and
 - [NM type](http://www.nmtype.com/): Design and development of the web for this
   typographic studio founded by María Ramos (Spain) and Noel Pretorius (Sweden).
-- Online cheat sheets for [jQuery](https://oscarotero.com/jquery/) and
-  [Deno](https://oscarotero.com/deno/)
+- Online cheat sheets for [jQuery](https://oscarotero.com/jquery/).
 - [Awesome design](https://github.com/oscarotero/awesome-design): A collection
   of open source resources for web designers.
 - [Chipi](https://oscarotero.github.io/chipi-client/): Design and interactive
@@ -150,7 +152,9 @@ Hugo or Eleventy. I use it for all web projects I work since then.
   [chipi.io](https://chipi.io/#/))
 - I collaborate in the [Tarugoconf](https://tarugoconf.com), by helping to build
   the website (made with Lume).
-- I was [the guest in chapter 8](https://www.agalega.gal/videos/detail/271212-movendo-marcos-08-oscar-otero) of the Galician design podcast Movendo marcos.
+- I was
+  [the guest in chapter 8](https://www.agalega.gal/videos/detail/271212-movendo-marcos-08-oscar-otero)
+  of the Galician design podcast Movendo marcos.
 
 ### Code
 
@@ -159,17 +163,12 @@ solutions. I'm also a strong advocate of Open Source, Web standards and
 maintainer of several projects like:
 
 - [Lume](https://lume.land), a static site generator for Deno.
-- [A plugin for Figma](https://www.figma.com/community/plugin/1001444625792698603/marketgoo-copies)
-  to work with copies using Google Spreadsheets documents
-  ([code](https://github.com/marketgoo/figma-copies)).
-- Some PHP projects: [PHP middlewares](https://github.com/middlewares) (a
-  collection of PSR-15 HTTP middlewares),
-  [PHP-Gettext](https://github.com/php-gettext), (a popular PHP library to work
-  with Gettext), [Embed](https://github.com/oscarotero/Embed) (to get info from
-  any web service or page),
-  [SimpleCrud](https://github.com/oscarotero/simple-crud) (easy and magic CRUD
-  in SQL databases), [FormManager](https://github.com/oscarotero/form-manager)
-  (to create and validate form data).
+- [Vento](https://vento.js.org/), a JavaScript template engine.
+- Some PHP projects: [PHP middlewares](https://github.com/middlewares),
+  [PHP-Gettext](https://github.com/php-gettext),
+  [Embed](https://github.com/oscarotero/Embed),
+  [SimpleCrud](https://github.com/oscarotero/simple-crud) or
+  [FormManager](https://github.com/oscarotero/form-manager).
 - Some web components with accessibility and progressive enhancement in mind:
   - [mastodon-comments](https://github.com/oom-components/mastodon-comments) a
     Mastodon + Bluesky comments system.
@@ -184,8 +183,8 @@ maintainer of several projects like:
 
 ## What am I doing now?
 
-- I'm working as _product designer_ at [marketgoo](https://www.marketgoo.com/).
+- I'm working as _designer and developer_ at [Cluber](https://cluber.es/).
 - I'm the creator and maintainer, with **Miguel Calvo**, of the
   [project HA!](https://historia-arte.com/).
-- I'm the creator and maintainer of 🔥 [Lume](https://lume.land), a static site
-  generator for Deno.
+- I'm the creator and maintainer of 🔥 [Lume](https://lume.land) and
+  🌬[Vento](https://vento.js.org/).

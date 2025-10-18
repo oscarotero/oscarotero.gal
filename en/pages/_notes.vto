@@ -7,11 +7,11 @@ url: /notes/
 
 <ul>
   {{ for note of search.pages("notes", "date=desc") }}
-  <li>
-    <a href="{{ note.url }}">
-      <strong>{{ note.title }}</strong>
-    </a><br>
-    <time>{{ note.date |> date("HUMAN_DATE", "en") }}</time>
-  </li>
+    <li>
+      <a href="{{ note.url }}">
+        <strong>{{ note.title }}</strong>
+      </a><br>
+      <time>{{ note.date |> date("HUMAN_DATE", "en") }}</time>
+    </li>
   {{ /for }}
 </ul>
