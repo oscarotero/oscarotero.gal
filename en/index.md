@@ -186,5 +186,6 @@ maintainer of several projects like:
 - I'm working as _designer and developer_ at [Cluber](https://cluber.es/).
 - I'm the creator and maintainer, with **Miguel Calvo**, of the
   [project HA!](https://historia-arte.com/).
+- I created the ~~blog~~ digital garden [Dixit](https://dixit.gal/) (Galician).
 - I'm the creator and maintainer of 🔥 [Lume](https://lume.land) and
   🌬[Vento](https://vento.js.org/).

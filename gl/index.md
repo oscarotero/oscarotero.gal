@@ -201,5 +201,6 @@ como:
 - Traballo como _deseñador e programador_ en [Cluber](https://cluber.es/).
 - Creei e manteño, xunto con **Miguel Calvo**, o
   [proxecto HA!](https://historia-arte.com/).
+- Creei un ~blog~ xardín dixital chamado [Dixit](https://dixit.gal/).
 - Son o creador e manteño 🔥 [Lume](https://lume.land) e
   🌬[Vento](https://vento.js.org/).
